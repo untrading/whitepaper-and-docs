@@ -12,7 +12,7 @@ by Yale ReiSoleil, @dRadiant, D Wang, PhD
 
 December 2022
 
-_v. 1.0.0 beta_
+_v. 1.0.1 beta_
 
 ## Disclaimer <a href="#h.17v05jnu7qff" id="h.17v05jnu7qff"></a>
 
