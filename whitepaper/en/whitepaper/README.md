@@ -674,6 +674,8 @@ The complete code can be found [here](https://www.google.com/url?q=https://githu
 
 In the example in _Figure 1_ in Section 2.2, detailed in _Table 2_ below, if an unNFT is sold for $50,000 worth of ETH and it resulted in a $10,000 profit for the seller, the seller shares a portion of their net profit with 10 previous holders of the token. Future Rewards will also be paid to the same seller as the value of the token increases from up to 10 subsequent owners.
 
+<figure><img src="../.gitbook/assets/Algorithm description table.jpg" alt=""><figcaption><p><em>Table 2: Future Rewards (nFR) distribution example</em></p></figcaption></figure>
+
 When an owner loses money during their holding period, they will not be obligated to share Future Rewards distributions, since there is no profit to share. However, he still receives a share of Future Rewards distributions from future generations of owners, if they are profitable.
 
 ![Figure 6: Future Rewards (nFR) distribution](../.gitbook/assets/nFR\_Distribution.jpeg)
