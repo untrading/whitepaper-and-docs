@@ -24,19 +24,19 @@ This paper is for general information purposes only. It does not constitute inve
 
 In one short sentence:
 
-> _"**untrading.org creates trustless Giftchains that eliminate zero-sum mentality and conflicts of interest in trading.**"_
+> _"**untrading.org creates trustless Flows that eliminate zero-sum mentality and conflicts of interest in trading.**"_
 
-A Giftchain is a decentralized, on-chain community made up of all the buyers and sellers of an NFT token.&#x20;
+A Flow is a decentralized profit loopback sharing ecosystem consisting of a defined number of NFT token buyers and sellers. Each untrading token forms its own Flow.
 
 Built on a DeFi protocol with the implementation of non-fungible Future Rewards (nFR) architecture, the Giftchain aims to eliminate the zero-sum mentality of trading by creating more value together, rather than for one individual to gain at the expense of another, thereby ending a vicious cycle that sees traders lose everything in six to 24 months.
 
 In more detail, here is what untrading.org is all about:
 
-> _“**untrading.org implements Ethereum Improvement Proposal (EIP-5173), which eliminates conflicts of interest and ends zero-sum mentality currently practiced by all exchanges by creating a trustless Giftchain for each token among creators, buyers, and sellers using an improved NFT framework.**”_
+> _“**untrading.org implements Ethereum Improvement Proposal (EIP-5173), which eliminates conflicts of interest and ends zero-sum mentality currently practiced by all exchanges by creating a trustless Flows for each token among creators, buyers, and sellers using an improved NFT framework.**”_
 
 ## untrading.org in One Picture
 
-[https://docs.untrading.org/nfr-distribution](https://docs.untrading.org/nfr-distribution)
+<figure><img src="../.gitbook/assets/nFR.gif" alt=""><figcaption><p><a href="https://docs.untrading.org/nfr-distribution">https://docs.untrading.org/nfr-distribution</a></p></figcaption></figure>
 
 The buyers/owners receive a portion of the realized profit from an NFT transaction. The remaining proceeds go to the seller.
 
