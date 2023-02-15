@@ -28,7 +28,7 @@ In one short sentence:
 
 A Flow is a decentralized profit loopback sharing ecosystem consisting of a defined number of NFT token buyers and sellers. Each untrading token forms its own Flow.
 
-Built on a DeFi protocol with the implementation of non-fungible Future Rewards (nFR) architecture, the Giftchain aims to eliminate the zero-sum mentality of trading by creating more value together, rather than for one individual to gain at the expense of another, thereby ending a vicious cycle that sees traders lose everything in six to 24 months.
+Built on a DeFi protocol with the implementation of non-fungible Future Rewards (nFR) architecture, the Flow aims to eliminate the zero-sum mentality of trading by creating more value together, rather than for one individual to gain at the expense of another, thereby ending a vicious cycle that sees traders lose everything in six to 24 months.
 
 In more detail, here is what untrading.org is all about:
 
@@ -50,7 +50,7 @@ The following is a more comprehensive description that includes several key elem
 
 > Through the use of non-fungible tokens (NFTs), untrading.org has released an [Ethereum Improvement Proposal (EIP-5173)](https://eips.ethereum.org/EIPS/eip-5173) to promote a more cooperative and inclusive (un)trading environment.&#x20;
 >
-> This proposal and its implementation, [the untrading.org protocol](https://untrading.org), aim to align the interests of users and the protocol by eliminating transaction fees and encouraging a gift economy in which successful traders share their profits with previous owners, resulting in a Giftchain ecosystem where more for you is also more for me.&#x20;
+> This proposal and its implementation, [the untrading.org protocol](https://untrading.org), aim to align the interests of users and the protocol by eliminating transaction fees and encouraging a gift economy in which successful traders share their profits with previous owners, resulting in a Flow ecosystem where more for you is also more for me.&#x20;
 >
 > Non-fungible Future Rewards (nFR) aims to break the traditional pattern in which most traders, except for a very small minority of highly disciplined,  lose everything within a few months to small groups of people who are in the position of control and influence.&#x20;
 >
@@ -64,9 +64,9 @@ The paper will discuss the foundations of the untrading protocol. A number of ne
 
 iob.fi DAO aims to end the conflict of interest between platforms and their users and the zero-sum nature of trading.
 
-With the Ethereum Improvement Proposal (EIP-5173) we published in June 2022, the untrading.org platform aims to address the disadvantages currently facing creators and investors alike. The new “anti-trading” platform creates an on-chain and multisig-smart-contract-enforced trustless Giftchain among creators, buyers, and sellers of NFTs and their derivatives, eliminating conflicts of interest and ending the zero-sum nature of trading currently being practiced by all exchanges.
+With the Ethereum Improvement Proposal (EIP-5173) we published in June 2022, the untrading.org platform aims to address the disadvantages currently facing creators and investors alike. The new “anti-trading” platform creates an on-chain and multisig-smart-contract-enforced trustless Flow among creators, buyers, and sellers of NFTs and their derivatives, eliminating conflicts of interest and ending the zero-sum nature of trading currently being practiced by all exchanges.
 
-Through the implementation of EIP-5173, the creators, buyers and sellers create a Giftchain in trading practice. A Giftchain is formed when all participants work in a framework to build greater wealth through each other's success.&#x20;
+Through the implementation of EIP-5173, the creators, buyers and sellers create a Flow in trading practice. A Flow is formed when all participants work in a framework to build greater wealth through each other's success.&#x20;
 
 Our open-source philosophy embraces and promotes a new gift economic model that is similar to Copyleft and open-source, as opposed to traditional copyrights. The advancement of technology has enabled such implementation in trading for the first time. In the same way that open-source software has changed the software industry and society, we can also change the financial industry.
 
@@ -80,7 +80,7 @@ The idea behind untrading.org is to shift the focus from win at any costs to col
 
 #### Future Rewards
 
-In EIP-5173, a multigenerational reward mechanism of a Giftchain that rewards‌ all ‌owners of non-fungible tokens (NFT), the Future Rewards (FR) extension is introduced that will allow owners of unNFT tokens to participate in future investment profits derived from the same token by later investors in the same chain of ownership. For more details, see Section 2.3.
+In EIP-5173, a multigenerational reward mechanism of a Flow that rewards‌ all ‌owners of non-fungible tokens (NFT), the Future Rewards (FR) extension is introduced that will allow owners of unNFT tokens to participate in future investment profits derived from the same token by later investors in the same chain of ownership. For more details, see Section 2.3.
 
 In Phase One, we intend to allow trading of original artworks ("untrading", as we don't encourage active trading"), as well as derivatives based on blue-chip NFTs that were originally minted and sold on other platforms. To participate in the FR system, existing ERC721 tokens can be upgraded to the new unNFT-class EIP-5173 token standard.&#x20;
 
@@ -88,7 +88,7 @@ In Phase One, we intend to allow trading of original artworks ("untrading", as w
 
 With no commissions, deposit fees, transfer fees, or withdrawal fees, untrading.org offers enhanced value creation for both buyers and sellers. In addition, the unique gift economic framework allows owners of unNFTs to benefit from an increase in price during their holding period and continue to receive Future Rewards (FRs) even after the token is sold.&#x20;
 
-Furthermore, the realized profits from the sale of unNFTs will be shared across the chain of historical ownership through the NFT Future Rewards (nFR) framework, forming a Giftchain. The untrading.org protocol also introduces an improved on-chain, cross-platform royalty payment mechanism with the introduction of an o-token. Overall, the untrading.org system offers a win-win situation for all involved, with sellers only responsible for royalties and Future Rewards when they make a profit.
+Furthermore, the realized profits from the sale of unNFTs will be shared across the chain of historical ownership through the NFT Future Rewards (nFR) framework, forming a Flow. The untrading.org protocol also introduces an improved on-chain, cross-platform royalty payment mechanism with the introduction of an o-token. Overall, the untrading.org system offers a win-win situation for all involved, with sellers only responsible for royalties and Future Rewards when they make a profit.
 
 The royalty portion of the profit-sharing plan will be partially based on [EIP-2981](https://eips.ethereum.org/EIPS/eip-2981) \[1] and some functionalities in the draft proposal of [EIP-4910](https://github.com/ethereum/EIPs/actions/runs/2174511329) \[2]. The untrading.org protocol will implement an improved on-chain, cross-platform royalty payment mechanism with the introduction of an o-token.
 
@@ -161,7 +161,7 @@ EIP-5173, proposed by untrading.org, is a proposed protocol for a new approach t
 \
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-This paper is organized into five sections. The remainder of this introduction provides a brief history of the current financial trading system and explains why trading can be considered a zero-sum game. The introduction then discusses why on-chain, trustless Giftchains can be created to end both the conflicts of interest between exchanges and their users, and as a way of ending the zero-sum game and converting it into a positive-sum game, and the use cases We describe and analyze the architecture of untrading.org in section 2. In section 3, the specific functions and mathematical formula for Future Rewards distribution are described in detail, along with the open-source Solidity code. In section 4, we discuss the security risks and fundamental challenges facing untrading.org. We also discuss specific vulnerabilities that could make this entire business concept useless if not addressed properly. A short summary concludes the paper in section 5.
+This paper is organized into five sections. The remainder of this introduction provides a brief history of the current financial trading system and explains why trading can be considered a zero-sum game. The introduction then discusses why on-chain, trustless Flows can be created to end both the conflicts of interest between exchanges and their users, and as a way of ending the zero-sum game and converting it into a positive-sum game, and the use cases We describe and analyze the architecture of untrading.org in section 2. In section 3, the specific functions and mathematical formula for Future Rewards distribution are described in detail, along with the open-source Solidity code. In section 4, we discuss the security risks and fundamental challenges facing untrading.org. We also discuss specific vulnerabilities that could make this entire business concept useless if not addressed properly. A short summary concludes the paper in section 5.
 
 ### <mark style="color:blue;">1.1</mark>        Philosophy <a href="#h.kplu6gt7s2fs" id="h.kplu6gt7s2fs"></a>
 
@@ -223,9 +223,9 @@ There needs to be a change in historical unfair trading practices so that:&#x20;
 * A mutually beneficial economic rule benefits both buyers and sellers;
 * Traders are encouraged to do the right thing instead of “buying, selling, and buying.”
 
-It is appropriate and fair for artists and creators to be compensated for both the sale price and appreciation in the value of their creation with a lifetime royalty exercised in future sales, similar to the recording industry's practice of decades ago. New buyers and owners of artworks will not be required to pay a fee until the artwork has been sold and they have made a profit from it. In a Giftchain, art buyers/owners are compensated for their participation in the instrument’s trading price discovery process.
+It is appropriate and fair for artists and creators to be compensated for both the sale price and appreciation in the value of their creation with a lifetime royalty exercised in future sales, similar to the recording industry's practice of decades ago. New buyers and owners of artworks will not be required to pay a fee until the artwork has been sold and they have made a profit from it. In a Flow, art buyers/owners are compensated for their participation in the instrument’s trading price discovery process.
 
-Most traders have lost money over a period of months or years. Without considering the fairness of that system, the Giftchain created by the proposed Future Rewards framework can alleviate some of the burdens of an average trader.
+Most traders have lost money over a period of months or years. Without considering the fairness of that system, the Flow created by the proposed Future Rewards framework can alleviate some of the burdens of an average trader.
 
 Therefore, we present untrading.org, where all interests are aligned, the platform, the buyers, and the sellers, creating a positive gift economy that rewards and incentivizes all parties fairly and equally.
 
@@ -233,33 +233,33 @@ Therefore, we present untrading.org, where all interests are aligned, the platfo
 
 Are you looking to invest in something that may be valuable in the future and acquire it early? Great! In reality, you often find yourself in a situation where the price keeps rising regardless of whether you are a diamond hand hodler or a paper hand trader.
 
-But what if you could also be rewarded for your contribution to the chain of ownership of a collectible/asset and future price increases following the sale of your NFT? With the Giftchain, you can! Our unique system ensures that all parties are fairly compensated for their contributions to the trading process. Check out Table 1 in Section 2.2 for a detailed explanation of how it works.
+But what if you could also be rewarded for your contribution to the chain of ownership of a collectible/asset and future price increases following the sale of your NFT? With the Flow, you can! Our unique system ensures that all parties are fairly compensated for their contributions to the trading process. Check out Table 1 in Section 2.2 for a detailed explanation of how it works.
 
 ### <mark style="color:blue;">1.5</mark>        The Best of Both Worlds <a href="#h.yd1vx9c6epoc" id="h.yd1vx9c6epoc"></a>
 
-With the Giftchain, you are never encouraged nor pressured to trade in order to generate platform fees. You can hold onto your high quality assets as long as you want, and if you choose to sell them – whether you need the funds or you believe the market is about to crash – you will still receive a portion of the future profits if the price keeps increasing.
+With the Flow, you are never encouraged nor pressured to trade in order to generate platform fees. You can hold onto your high quality assets as long as you want, and if you choose to sell them – whether you need the funds or you believe the market is about to crash – you will still receive a portion of the future profits if the price keeps increasing.
 
-It's the best of both worlds: the flexibility and control of traditional trading, combined with the rewards and benefits of a lifetime royalty system. Join the Giftchain and start enjoying the best of both worlds today!
+It's the best of both worlds: the flexibility and control of traditional trading, combined with the rewards and benefits of a lifetime royalty system. Join the Flow and start enjoying the best of both worlds today!
 
-#### Introducing Giftchains <a href="#h.x5hek4s7c18r" id="h.x5hek4s7c18r"></a>
+#### Introducing Flows <a href="#h.x5hek4s7c18r" id="h.x5hek4s7c18r"></a>
 
-The Giftchain framework is a revolutionary new investment and (un)trading protocol that offers the best of both worlds.
+The Flow framework is a revolutionary new investment and (un)trading protocol that offers the best of both worlds.
 
-With the Giftchain, you can be part of a community of people who work together to improve a situation that is typically much larger than it is at the moment. Some of the characteristics of a Giftchain are community interdependence and delayed reciprocity.
+With the Flow, you can be part of a community of people who work together to improve a situation that is typically much larger than it is at the moment. Some of the characteristics of a Flow are community interdependence and delayed reciprocity.
 
-Unlike traditional trading platforms, the Giftchain operates on a system of giving and receiving, where you do not expect the same amount of return from the same person when you give them a portion of your profits. There is no quid pro quo. Rather, you can be confident that someone else in the same circle will give you the same benefits, with a smaller or greater monetary value, from other participants in the same circle later on.
+Unlike traditional trading platforms, the Flow operates on a system of giving and receiving, where you do not expect the same amount of return from the same person when you give them a portion of your profits. There is no quid pro quo. Rather, you can be confident that someone else in the same circle will give you the same benefits, with a smaller or greater monetary value, from other participants in the same circle later on.
 
 In a well-designed circle of giving, givers may be able to receive more than they give over time, so giving is not the only thing involved. As a result, the traditional model of platform versus user and user vs. user relationships has been fundamentally altered into one, shared objective: if others succeed, I succeed more.
 
-Join the Giftchain and be part of a new, more equitable and fair trading system today!
+Join the Flow and be part of a new, more equitable and fair trading system today!
 
 ### <mark style="color:blue;">1.6</mark>        Only Pay after You Have Realized a Profit <a href="#h.x5hek4s7c18r" id="h.x5hek4s7c18r"></a>
 
 At untrading.org, we believe that trading platforms should not charge their users for losses. Instead, we apply an incentive fee model based on the idea of hedge funds, where a user only pays if the transaction is profitable.
 
-Unlike other platforms, the Giftchain  does not charge commissions, deposit fees, transfer fees, or withdrawal fees. We generate revenue by sharing a small part of a user's profit with the Minters as the o-token holders.
+Unlike other platforms, the Flow does not charge commissions, deposit fees, transfer fees, or withdrawal fees. We generate revenue by sharing a small part of a user's profit with the Minters as the o-token holders.
 
-This not only makes trading more fair and equitable, but it also discourages any "under-the-table" deals that may circumvent the rules set forth by artists, creators, and marketplaces. Join the Giftchain and experience a new way of trading, where you only pay after you have realized a profit.
+This not only makes trading more fair and equitable, but it also discourages any "under-the-table" deals that may circumvent the rules set forth by artists, creators, and marketplaces. Join the Flow and experience a new way of trading, where you only pay after you have realized a profit.
 
 ### <mark style="color:blue;">1.7</mark>        Use Cases <a href="#h.o4p39l4e3q7k" id="h.o4p39l4e3q7k"></a>
 
@@ -297,7 +297,7 @@ The investors' confidence in the new funding increases since the founders' finan
 
 **Non-fungible Future Reward Protocol (nFR):** Also known as Ethereum Improvement Proposal (EIP-5173), nFR is an ERC721 token extension that  enables owners of EIP-721 tokens (NFTs) to participate in future price increases after they sell their tokens, resulting in more for you is also more for me.
 
-**Giftchain:** Each unNFT token under EIP-5173 has its own Giftchains, a unique "mini community" consists of its previous and current owners. Every cryptocurrency pair has its own Giftchain, so unNFT tokens can have multiple Giftchains. Each member gives and receives Future Rewards (FRs) generated by the new trading profits of each token.
+**Flow:** Each unNFT token under EIP-5173 has its own Flow, a unique "mini community" consists of its previous and current owners. Every cryptocurrency pair has its own Flow, so unNFT tokens can have multiple Flows. Each member gives and receives Future Rewards (FRs) generated by the new trading profits of each token.
 
 **Minting:** Minting on untrading.org is to create an nFR-compliant unNFT. In the same way as any other NFT minting process, the art piece is minted as an NFT with an additional asset called o-tokens that are distributed to the Minter and untrading.org for receiving royalties (ORs) from unNFT profits.
 
@@ -311,7 +311,7 @@ The investors' confidence in the new funding increases since the founders' finan
 
 **un-token:** An NFT token minted on untrading.org under EIP-5173. It bears a prefix of “un.”
 
-**Future Rewards (FRs):** A multigenerational reward mechanism of Giftchains that rewards‌ all ‌owners of non-fungible tokens (NFT), the Future Rewards (FR) extension is introduced that will allow owners of unNFT tokens to participate in future investment profits derived from the same token by later investors in the same chain of ownership. R minus OR is the remainder of the buyers', or owners', Future Rewards.
+**Future Rewards (FRs):** A multigenerational reward mechanism of Flows that rewards‌ all ‌owners of non-fungible tokens (NFT), the Future Rewards (FR) extension is introduced that will allow owners of unNFT tokens to participate in future investment profits derived from the same token by later investors in the same chain of ownership. R minus OR is the remainder of the buyers', or owners', Future Rewards.
 
 **Generations:** The numbered sequence of the current and previous token owners within the sliding window mechanism (n) that are currently eligible for FRs distribution. It determines which previous owners will receive distributions. The owners are arranged in a queue, starting with the earliest owner and ending with the owner immediately before the current owner (the Last Generation). The First Generation is the last of the next n generations. There is a fixed-size profit distribution window from the First Generation to the Last Generation. The sliding window (w) itself is called an Epoch.&#x20;
 
