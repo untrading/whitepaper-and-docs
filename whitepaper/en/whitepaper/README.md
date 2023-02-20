@@ -135,7 +135,11 @@ This paper is organized into five sections. The remainder of this introduction p
 >
 > — John Kenneth Galbraith
 
-The evolution of biology and human society has been characterized by increasing connectivity, from single-celled organisms to complex societies. However, modern economies and markets have taken a different path, with a trend towards greater separation and fragmentation, leading to increased isolation and concentration of wealth. This divergence between the evolution of biology and traditional human society on one hand, and the evolution of contemporary society and its economy on the other, has profound implications. To build a more sustainable and equitable future, we need a shared economics system that prioritizes common success, happiness, and sustainability. Such a system aligns with principles of fairness and equality, recognizes interdependence, and values long-term thinking and planning. In contrast, a winner-takes-all world can lead to social and economic inequality, social unrest and conflict, and a prioritization of short-term gains over long-term sustainability. Therefore, a shared economics system that promotes social justice, interdependence, and long-term thinking is a more equitable, harmonious, and sustainable society.
+The evolution of biology and human society has been characterized by increasing connectivity, from single-celled organisms to complex societies. However, modern economies and markets have taken a different path, with a trend towards greater separation and fragmentation, leading to increased isolation and concentration of wealth. This divergence between the evolution of biology and traditional human society on one hand, and the evolution of contemporary society and its economy on the other, has profound implications.&#x20;
+
+To build a more sustainable and equitable future, we need a shared economics system that prioritizes common success, happiness, and sustainability. Such a system aligns with principles of fairness and equality, recognizes interdependence, and values long-term thinking and planning. In contrast, a winner-takes-all world can lead to social and economic inequality, social unrest and conflict, and a prioritization of short-term gains over long-term sustainability.&#x20;
+
+Therefore, a shared economics system that promotes social justice, interdependence, and long-term thinking is a more equitable, harmonious, and sustainable society.
 
 ### <mark style="color:blue;">1.2</mark>        History <a href="#h.kplu6gt7s2fs" id="h.kplu6gt7s2fs"></a>
 
