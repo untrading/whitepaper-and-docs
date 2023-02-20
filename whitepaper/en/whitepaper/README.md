@@ -12,7 +12,7 @@ by Yale ReiSoleil, @dRadiant, D Wang, PhD
 
 December 2022
 
-_v. 1.0.1 beta_
+_v. 1.1.2 beta_
 
 ## Disclaimer <a href="#h.17v05jnu7qff" id="h.17v05jnu7qff"></a>
 
@@ -32,7 +32,7 @@ Built on a DeFi protocol with the implementation of non-fungible Future Rewards 
 
 In more detail, here is what untrading.org is all about:
 
-> _“**untrading.org implements Ethereum Improvement Proposal (EIP-5173), which eliminates conflicts of interest and ends zero-sum mentality currently practiced by all exchanges by creating a trustless Flows for each token among creators, buyers, and sellers using an improved NFT framework.**”_
+> _“**untrading.org implements EIP-5173, which eliminates conflicts of interest and ends the zero-sum mentality currently practiced by all exchanges by creating a trustless Flow for each token among creators, buyers, and sellers using an improved NFT framework.**”_
 
 ## untrading.org in One Picture
 
@@ -48,73 +48,41 @@ The profit distribution shall be only available to previous owners who fall with
 
 The following is a more comprehensive description that includes several key elements of the new trading platform architecture:
 
-> Through the use of non-fungible tokens (NFTs), untrading.org has released an [Ethereum Improvement Proposal (EIP-5173)](https://eips.ethereum.org/EIPS/eip-5173) to promote a more cooperative and inclusive (un)trading environment.&#x20;
+> _untrading.org is a unique asset transaction protocol that uses NFTs and EIP-5173 to create a cooperative and inclusive investment environment. Its objective is to eliminate conflicts of interest caused by commissions and encourage a shared economy where successful traders share their profits with previous owners. The protocol aims to align the interests of all participants and promote inclusivity and fairness._&#x20;
 >
-> This proposal and its implementation, [the untrading.org protocol](https://untrading.org), aim to align the interests of users and the protocol by eliminating transaction fees and encouraging a gift economy in which successful traders share their profits with previous owners, resulting in a Flow ecosystem where more for you is also more for me.&#x20;
+> _To address the traditional pattern where most traders lose everything to a small group of people in positions of control and influence, the platform has developed the Non-fungible Future Rewards (nFR) framework. The framework ensures the protocol's robustness and resilience, without promising a fixed rate of reward. Although the exact amount and timing of rewards are uncertain, the on-chain mechanism for distributing rewards is immutable._&#x20;
 >
-> Non-fungible Future Rewards (nFR) aims to break the traditional pattern in which most traders, except for a very small minority of highly disciplined,  lose everything within a few months to small groups of people who are in the position of control and influence.&#x20;
->
-> To make the framework robust and resilient, the untrading.org protocol does not promise a fixed rate of reward to anyone at any time. While the exact amount and timing of the rewards is uncertain, the on-chain mechanism for distributing these rewards is immutable.&#x20;
->
-> untrading.org also includes measures to protect user assets, such as asset-unlocking contracts signed by users, the protocol, and a third-party custodian. User funds are safe even in the event of untrading.org ceases to exist.
+> _The non-custodial protocol has implemented measures to protect user assets, such as multi-signature contracts signed by the minter, the current holder, and/or the protocol. These contracts ensure that user funds remain secure even in the event of untrading.org's cessation._
 
 The paper will discuss the foundations of the untrading protocol. A number of new financial innovations have recently emerged, but not all of them offer the same features as untrading.org.
 
 ## Abstract
 
-iob.fi DAO aims to end the conflict of interest between platforms and their users and the zero-sum nature of trading.
+untrading.org is a new protocol that aims to eliminate the conflict of interest between trading platforms and their users, and the zero-sum nature of trading. With the implementation of the Ethereum Improvement Proposal, EIP-5173, the protocol creates an on-chain and multisig-smart-contract-enforced trustless flow among creators, buyers, and sellers of NFTs and their derivatives.&#x20;
 
-With the Ethereum Improvement Proposal (EIP-5173) we published in June 2022, the untrading.org platform aims to address the disadvantages currently facing creators and investors alike. The new “anti-trading” platform creates an on-chain and multisig-smart-contract-enforced trustless Flow among creators, buyers, and sellers of NFTs and their derivatives, eliminating conflicts of interest and ending the zero-sum nature of trading currently being practiced by all exchanges.
+The protocol promotes a shared economic model that rewards all owners of non-fungible tokens (NFT) through the Future Rewards (FR) extension, allowing owners of unNFT tokens to participate in future investment profits derived from the same token by later investors in the same chain of ownership.
 
-Through the implementation of EIP-5173, the creators, buyers and sellers create a Flow in trading practice. A Flow is formed when all participants work in a framework to build greater wealth through each other's success.&#x20;
-
-Our open-source philosophy embraces and promotes a new gift economic model that is similar to Copyleft and open-source, as opposed to traditional copyrights. The advancement of technology has enabled such implementation in trading for the first time. In the same way that open-source software has changed the software industry and society, we can also change the financial industry.
-
-untrading.org is dedicated to developing trading solutions that deliver nothing short of a completely new decentralized finance model that breaks free from centuries of unfair practices favored by a few and financial ruin for many. Future Rewards is a framework designed to help traders change this.
-
-The idea behind untrading.org is to shift the focus from win at any costs to collaboration and community-wide wealth creation. This is achieved by implementing a new set of rules and incentives that encourage (un)traders to work together and share a fixed portion of the ever-growing gains. The goal of EIP-5173 is to create a more equitable and sustainable (un)trading ecosystem, where **more for you is also more for me**.
-
-### **Phase One, Q3-Q4 2022**
+### **Phase One,** Q4, 2022 - Q3, 2023
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-10-26 08.33.11.png" alt=""><figcaption></figcaption></figure>
 
-#### Future Rewards
+#### Future Rewards and On-chain Royalties
 
-In EIP-5173, a multigenerational reward mechanism of a Flow that rewards‌ all ‌owners of non-fungible tokens (NFT), the Future Rewards (FR) extension is introduced that will allow owners of unNFT tokens to participate in future investment profits derived from the same token by later investors in the same chain of ownership. For more details, see Section 2.3.
+In Phase One, the protocol will allow (un)trading of original artworks, collectibles, membership tokens, and derivatives based on blue-chip NFTs that were originally minted and sold on other platforms. The untrading.org system offers enhanced value creation for both buyers and sellers with no commissions, deposit fees, transfer fees, or withdrawal fees.&#x20;
 
-In Phase One, we intend to allow trading of original artworks ("untrading", as we don't encourage active trading"), as well as derivatives based on blue-chip NFTs that were originally minted and sold on other platforms. To participate in the FR system, existing ERC721 tokens can be upgraded to the new unNFT-class EIP-5173 token standard.&#x20;
-
-#### **Enhanced** value creation **for both buyers and sellers**
-
-With no commissions, deposit fees, transfer fees, or withdrawal fees, untrading.org offers enhanced value creation for both buyers and sellers. In addition, the unique gift economic framework allows owners of unNFTs to benefit from an increase in price during their holding period and continue to receive Future Rewards (FRs) even after the token is sold.&#x20;
-
-Furthermore, the realized profits from the sale of unNFTs will be shared across the chain of historical ownership through the NFT Future Rewards (nFR) framework, forming a Flow. The untrading.org protocol also introduces an improved on-chain, cross-platform royalty payment mechanism with the introduction of an o-token. Overall, the untrading.org system offers a win-win situation for all involved, with sellers only responsible for royalties and Future Rewards when they make a profit.
-
-The royalty portion of the profit-sharing plan will be partially based on [EIP-2981](https://eips.ethereum.org/EIPS/eip-2981) \[1] and some functionalities in the draft proposal of [EIP-4910](https://github.com/ethereum/EIPs/actions/runs/2174511329) \[2]. The untrading.org protocol will implement an improved on-chain, cross-platform royalty payment mechanism with the introduction of an o-token.
+The protocol also introduces an improved on-chain, cross-platform royalty payment mechanism with the introduction of an o-token. The realized profits from the sale of unNFTs will be shared across the chain of historical ownership through the NFT Future Rewards (nFR) framework, forming a Flow. The protocol offers a win-win situation for all involved, with sellers only responsible for royalties and Future Rewards (FRs) when they make a profit.
 
 <img src="../.gitbook/assets/Screenshot 2022-10-26 08.35.57.png" alt="" data-size="original">
 
-#### Creating greater value through community
-
-Unlike traditional financial instruments that result in a zero-sum game, where one party's gain equals another's loss, untrading.org offers a unique win-win situation. Through the use of the gift economic framework and the introduction of the o-token, all parties involved in the sale of unNFTs can benefit. The seller receives the realized profit, and both the seller and previous owners receive Future Rewards (FRs) through the NFT Future Rewards (nFR) framework.&#x20;
-
-This creates a non-zero-sum game where one party's victory does not necessarily mean another's loss, resulting in a net increase in wealth and benefits for all parties involved.
-
-#### **It is also possible to consider anyone as a creator**
-
-As with the artists and creators, anyone who mints an unNFT token is considered the Minter on the untrading.org platform. In addition to perpetual royalty payments, they can receive Future Rewards from the future generations of owners they designate by wrapping their own NFT token into an unNFT.
+untrading.org creates a non-zero-sum game where one party's victory does not necessarily mean another's loss, resulting in a net increase in wealth and benefits for all parties involved. Additionally, anyone who mints an unNFT token is considered the Minter on the untrading.org protocol and can receive perpetual royalty payments as well as Future Rewards from future generations of owners they designate by wrapping their own NFT token into an unNFT.
 
 **unBTC, unETH and more**
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-10-26 08.38.02.png" alt=""><figcaption></figcaption></figure>
 
-Along with unNFTs, we will add cryptocurrency and other derivatives to the platform.&#x20;
+The protocol will also include cryptocurrency and other derivatives, such as unBTC and unETH tokens that allow users to receive the same amount as the original cryptocurrency, as well as royalties and Future Rewards. Untrading.org aims to create a more equitable and sustainable (un)trading ecosystem that breaks free from centuries of unfair practices favored by a few and financial ruin for many.
 
-By wrapping bitcoins into FR-compliant unBTC tokens on a 1:1 value, for example, untrading.org allows users to receive the same amount as the original BTC as well as royalties and Future Rewards.
 
-A number of other top cryptocurrencies will also be included.
-
-## &#x20;
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -128,35 +96,33 @@ Francois Baechtold
 
 
 
-
-
 ## <mark style="color:red;">01</mark>        Introduction <a href="#h.5php9w692ai5" id="h.5php9w692ai5"></a>
 
-The untrading.org protocol is a revolutionary investment and (un)trading platform that sets itself apart from others by not encouraging constant and frequent trading activities to generate fees. Instead, untrading.org charges no commissions, no deposit fees, no transfer fees, or withdrawal fees, providing a fair and transparent platform for all parties involved. This avoids conflicts of interest and allows for a more equitable distribution of benefits, resulting in a win-win situation for buyers, sellers, and previous owners. With untrading.org, everyone can benefit from the sale of unNFTs without the need for constant trading and high fees.
+Throughout history, trading has been a highly lucrative business for financial operators, often at the expense of the majority of traders who fall prey to the promise of easy money, only to have their lives ruined and savings stolen in a zero-sum game. However, it's not just high fees that traders have to worry about. Platforms, insiders, and market manipulators have been accused of unethical behavior, employing various tactics such as insider trading, frontrunning, and price manipulation to cheat the market and extract maximum value at the expense of others. As a result, individual traders suffer significant losses, and trust in the financial system erodes.
 
 #### Why Do People Trade?
 
-It is a common misconception that trading is an easy way to get rich quickly with little effort, even though they would not attempt to perform their own open heart surgery. In reality, the majority of traders lose money in the markets. Despite this, trading platforms and their promoters often portray trading as a simple path to wealth, leading many people to believe that they can make easy money through trading.
+Despite the widely-known fact that the majority of traders lose everything after a few months, many people are still drawn to these activities in the hopes of getting rich quickly with little effort. This is often fueled by the rise of online trading platforms and mobile apps, which have made it easier for people to access the markets, even if they lack the experience and knowledge necessary to navigate the risks involved. However, successful trading requires a significant amount of knowledge, experience, and discipline.
 
-There are several reasons why this misconception persists among the general public. One reason is the prevalence of marketing and advertising materials that depict trading as a lucrative and easy way to make money. Additionally, the rise of online trading platforms and mobile apps has made it easier for people to access the markets, leading to an influx of inexperienced traders who may not fully understand the risks involved in trading to be “empowered” with loads of charts, data and strategies that make them think they are now capable of playing in the big league. Another factor is the appeal of the idea of being able to achieve financial independence and control one's own income, which can be particularly attractive to those who are confident and smart in their own fields.&#x20;
+**Initial Confidence**
 
-Studies have shown that this overconfidence bias is particularly prevalent in the realm of finance and trading. In fact, research has shown that over 60% of people consistently rank themselves in the top 5% of investors, despite the fact that only a small percentage of traders actually achieve this level of success.
+People may also be drawn to trading and gambling because they are confident and smart in their own fields. However, studies have shown that overconfidence bias is prevalent in the realm of finance and trading. In fact, research has shown that over 60% of people consistently rank themselves in the top 5% of investors, despite the fact that only a small percentage of traders actually achieve this level of success. Trading, in its current true form of gambling, seems very simple. How hard is it to buy low and sell high, especially the apps that made it so easy to hit an either “Buy” or “Sell” button, not like doing an open-heart surgery at all.
 
-People are influenced by the stories of the biggest winners in the markets. These stories are often featured in the media and can make it seem like anyone can achieve similar success.
+**The Possibility of a Large Sum**
 
-However, it is important to remember that the stories of the biggest winners in the markets are not representative of the average trader. These individuals are often exceptionally skilled and experienced traders who have been able to achieve success through years of hard work and dedication.
+The possibility of a large sum is also a significant factor in why people engage in trading and gambling. The stories of the biggest winners in the markets, often featured in the media, can make it seem like anyone can achieve similar success. However, it is important to remember that the success of these traders is not representative of the average trader, as it is often due to a combination of skill and luck.
 
-In addition, the success of these traders is often due to a combination of skill and luck. While their skill may have helped them to make the right decisions, they may also have benefited from fortunate market conditions or other factors that were outside of their control.
+**The Appeal of Finding Patterns**
 
-As a result, it is not accurate to say that "if they can do it, so can you." Trading is a complex and challenging activity, and achieving success in the markets requires a significant amount of effort and expertise.
+Despite the high failure rate, many people find joy in trading because it presents a challenge and the opportunity to find patterns in complex financial markets. This can lead to a sense of satisfaction and accomplishment, even in the face of repeated failures and losses.
 
-Yet, another reason why people choose to trade financial markets on their own is that they do not trust financial institutions. There have been numerous scandals involving financial institutions engaging in unethical or illegal behavior in order to boost their profits. This leads to a loss of trust in the financial system and makes people hesitant to entrust their money to financial institutions. Additionally, some people may be wary of the potential for conflicts of interest and high fees associated with working with financial institutions. In these cases, people may choose to trade financial markets on their own in order to avoid these potential drawbacks and have more control over their investment decisions.
+**Lost of Trust in the Financial System**
 
-While over 90% of traders lose in the markets, trading platforms and their promoters continue to portray trading as an easy way to get rich quickly. Financial market trading has been a zero sum game and the primary function of financial markets is to transfer wealth from the masses to the few. This adds to the challenges of trading and makes it more difficult for traders to succeed.
+Some people choose to trade financial markets on their own because they do not trust financial institutions. Numerous scandals involving financial institutions engaging in unethical or illegal behavior in order to boost their profits have led to a loss of trust in the financial system. In addition, some people may be wary of the potential for conflicts of interest and high fees associated with working with financial institutions. In these cases, people may choose to trade financial markets on their own in order to avoid these potential drawbacks and have more control over their investment decisions.
 
-#### EIP-5173
+**EIP-5173: A First Step towards a More Equitable Financial Protocol**
 
-EIP-5173, proposed by untrading.org, is a proposed protocol for a new approach to (un)trading that aims to address the zero-sum mentality that has long been prevalent in the financial industry. The goal of untrading.org is to create a more cooperative and mutually beneficial (un)trading and investment environment, where everyone can benefit from the success of the market as a whole.&#x20;
+However, a proposed protocol called EIP-5173, by untrading.org, aims to address the zero-sum mentality that has long been prevalent in the financial industry. The goal of this protocol is to create a more cooperative and mutually beneficial trading and investment environment where everyone can benefit from the success of the market as a whole.
 
 \
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -169,97 +135,47 @@ This paper is organized into five sections. The remainder of this introduction p
 >
 > — John Kenneth Galbraith
 
-Despite its best intentions and designs, a planned economy will fail because it is a complex system whose future cannot be predicted.
-
-It sounds great on paper, but a totally free-rein economy is vulnerable to abuses and local manipulations, so there is no true market economy. Even with heavy government regulations, the free market economy often suffers regular cycles of busts and bumps that destroy lives, destroy pensions, and cause significant social damage. The quantitative easings (QEs) and government bailouts of banks that are "too big to fail" are prime examples of why there is no true market economy.
-
-The current economic and financial systems do not adequately address the interconnectedness and uniqueness of human beings, and as a result, they fail to prioritize true human well-being, happiness, connectedness, fairness, equality, and fulfillment. We need a new vision for a money system and economy that takes these factors into account and provides a framework for achieving these goals.
-
-The evolution of biology and human society has been marked by a constant increase in connectivity. From the earliest forms of life, which were likely single-celled organisms, to the complex ecosystems of today, living beings have developed intricate networks of interactions and dependencies. As humans evolved, they formed increasingly complex societies, characterized by greater levels of cooperation, communication, and connection. However, the evolution of modern society and its economy and markets have followed a different path. In recent times, we have seen a trend towards greater separation and fragmentation.&#x20;
-
-In spite of living closer to one another physically in cities, people are increasingly isolated and isolated from one another. It is hailed and praised as an accomplishment when a businessperson or market participant maximizes their profit at all costs. In the past decades, automation and technology have largely led to the concentration of wealth in a few hands, and large corporations have replaced small businesses.
-
-There are profound implications to this divergence between the evolution of biology and traditional human society on the one hand, and the evolution of contemporary society and its economy on the other. In the face of challenges such as disease or environmental change, increased connectivity increases biological resilience and adaptability. However, modern economies and markets are becoming increasingly separate, making them more susceptible to shocks and crises. In order to build a more sustainable and equitable future, we must recognize and address this divergence.&#x20;
-
-Since the creation of financial exchanges in their modern format several hundred years ago, the purpose of the market has been to transfer wealth from the masses to the privileged few. In today's market, a few people with significant influence are constantly manipulating and abusing it. Individuals and businesses are becoming increasingly isolated and disconnected from one another as they focus on their own interests and goals. We have reached an unsustainable level of conflict between platforms and their customers, as well as between users themselves.
-
-Despite these challenges, however, there is still hope for a more connected and inclusive society. As technology continues to evolve and advance, it is likely that new forms of communication and interaction will emerge that will help bridge the gap between people and businesses. At the same time, the increasing awareness of the need for greater connectivity and collaboration may also inspire people to come together and work towards a more inclusive and connected society.
-
-People freely give and receive gifts in a gift economy without any expectation of immediate or specific compensation, which is one of the "primitive" economic structures that led humanity to positive growth. The non-quantifiable elements omitted in the current economic theories that are often the true indicator of the quality of life, the motivation to give and contribute, can contribute to the sense of community and connection that people are motivated to create.
-
-The use of non-fungible tokens (NFTs) can help facilitate and record these transactions, providing a decentralized and transparent system for tracking gifts and their recipients. NFTs can also be used to create unique and rare digital assets, adding value and incentive for participation in the gift economy.
-
-Additionally, the nonhierarchical nature of the gift economy can foster a more inclusive and equitable society, as power dynamics and hierarchies are minimized. This can lead to greater personal fulfillment and happiness, as individuals are able to contribute and receive based on their unique skills and abilities.
-
-Overall, the return of the gift economy, supported by a decentralized and enhanced NFT framework, can provide a sustainable and fulfilling alternative to traditional economic models.
-
-EIP-5173: NFT Future Rewards (nFR), a multigenerational reward mechanism that rewards all owners of non-fungible tokens (NFT), was drafted and published under these guiding principles, creating a new economic paradigm where **more for you is also more for me** ™.&#x20;
-
-In this application, it involves implementing the fundamental gift economy principles in a practical manner, which results in the overall good of the community when each member acts in their own self-interest.
+The evolution of biology and human society has been characterized by increasing connectivity, from single-celled organisms to complex societies. However, modern economies and markets have taken a different path, with a trend towards greater separation and fragmentation, leading to increased isolation and concentration of wealth. This divergence between the evolution of biology and traditional human society on one hand, and the evolution of contemporary society and its economy on the other, has profound implications. To build a more sustainable and equitable future, we need a shared economics system that prioritizes common success, happiness, and sustainability. Such a system aligns with principles of fairness and equality, recognizes interdependence, and values long-term thinking and planning. In contrast, a winner-takes-all world can lead to social and economic inequality, social unrest and conflict, and a prioritization of short-term gains over long-term sustainability. Therefore, a shared economics system that promotes social justice, interdependence, and long-term thinking is a more equitable, harmonious, and sustainable society.
 
 ### <mark style="color:blue;">1.2</mark>        History <a href="#h.kplu6gt7s2fs" id="h.kplu6gt7s2fs"></a>
 
-The current financial system is designed to make people lose money. It is common for an average trader to fall victim to spoofing, insider trading, front running, wash trading, and pump and dump, among a number of other techniques used by various actors. The current system guarantees that most of you will lose money because of your emotions, the constant oscillation between greed and fear. Under the current system, a trader has no advantage over many of the more sophisticated techniques used by various actors.
+The current financial system is rife with fraudulent techniques that work to extract the maximum value from the market and people who participate in it. Spoofing, insider trading, front running, wash trading, and pump and dump are just a few examples of the numerous techniques used by various actors in the market. These techniques create a lopsided playing field where most traders are at a disadvantage and lose money due to their emotions, such as oscillating between greed and fear. As a result, the current system guarantees that most participants will lose money.&#x20;
 
-You are required to contribute to the payment of various fees, including commissions, margin fees, interest, markups, funding fees, deposit fees, transfer fees, and withdrawal fees, regardless of whether you are a winner or a loser.&#x20;
+According to a report by the North American Securities Administrators Association, “the number of cryptocurrency-related fraud cases has tripled in the last year, with nearly 70% of investigations involving individuals over 50 years of age who are new to investing." These fraudulent activities are not limited to cryptocurrency trading, but extend to traditional financial markets as well.&#x20;
 
-Trading is designed in such a way that only the platforms and a few insiders benefit. Several hundred years ago, the trade of financial instruments, in its current form, was developed in Europe to enable commodity and financial markets, but the structure of the system resulted in the centuries of wealth transfer from the masses to an elite who exercised political and commercial control. It is estimated that ninety percent of traders lost a majority or all of their trading capital as a result of their participation.
+Moreover, traders are required to contribute to various fees regardless of whether they are winners or losers. These fees include commissions, margin fees, interest, markups, funding fees, deposit fees, transfer fees, and withdrawal fees, among others. In essence, traders are penalized for participating in a market where they have a high chance of losing money.&#x20;
 
-If you have been doing some trading, you know that markets are historically designed to transfer wealth to the wealthiest:
+The structure of the current financial system has resulted in centuries of wealth transfer from the masses to an elite group that exercises political and commercial control. It is estimated that ninety percent of traders lose a majority or all of their trading capital as a result of their participation. As financial analyst Michael Hudson puts it, "the financial system is a parasite that is sucking the economic life out of the rest of the economy.”&#x20;
 
-* The exchange that charges transaction fees is acting in its own interest first, and its customers second;
-* Exchange rules are designed to maximize profits;
-* Most traders lose money in the long run;
-* The 3% commission DeFi model simply automates and extends the historic imbalance.
+The current system has been designed to transfer wealth to the wealthiest, as exchange rules are designed to maximize profits for the exchange itself rather than its customers. According to a study by the University of California, only about 13% of day traders consistently earn profits, while the rest lose money. Furthermore, the DeFi model, which charges a fixed 3% commission, simply automates and extends the historic imbalance.
 
 ### <mark style="color:blue;">1.3</mark>       Rationale <a href="#h.2hsns6abcaef" id="h.2hsns6abcaef"></a>
 
-Although this historical precedent has been followed in today's markets, just as crypto has revolutionized traditional trading, we now have the opportunity to transform this historic trail of unequal value distribution by tracking every transaction of every distinguishable token through the emergence of the non-fungible token standard.
+The history of trading markets has been marked by an unequal distribution of value. However, the emergence of non-fungible tokens (NFTs) and the Flow blockchain presents an opportunity to create a more equitable and fair system.&#x20;
 
-There needs to be a change in historical unfair trading practices so that:&#x20;
+The Future Rewards (FRs) framework is a user-centric system that is an essential part of the shared economics ecosystem. It offers a new model for (un)trading that is based on success and ensures that everyone is on the same page. In a FRs-based system, there is no such thing as a zero-sum game because everyone is incentivized to create value," In this way, the FRs-based system can create value for all stakeholders.&#x20;
 
-* There needs to be a change in historical unfair trading practices so that: With a success-based model, everyone is on the same page;
-* Exchanges only generate revenue when users make money;
-* A mutually beneficial economic rule benefits both buyers and sellers;
-* Traders are encouraged to do the right thing instead of “buying, selling, and buying.”
+The shared economics ecosystem promotes fairness and equality in trading by encouraging (un)traders to do the right thing, rather than engaging in the practices that have plagued the industry for so long. It ensures that artists and creators are fairly compensated for their creations, with a lifetime royalty system similar to the recording industry's practices of decades ago.&#x20;
 
-It is appropriate and fair for artists and creators to be compensated for both the sale price and appreciation in the value of their creation with a lifetime royalty exercised in future sales, similar to the recording industry's practice of decades ago. New buyers and owners of artworks will not be required to pay a fee until the artwork has been sold and they have made a profit from it. In a Flow, art buyers/owners are compensated for their participation in the instrument’s trading price discovery process.
+In addition to promoting fairness and equality, the Flow ecosystem provides relief to traders who have lost money over the years. Its unique approach to trading offers a new and exciting way to trade, while also promoting fairness and equality in the marketplace.&#x20;
 
-Most traders have lost money over a period of months or years. Without considering the fairness of that system, the Flow created by the proposed Future Rewards framework can alleviate some of the burdens of an average trader.
+To align the interests of all parties, protocol, buyers, and sellers, untrading.org has been created as a positive gift economy that rewards and incentivizes all parties fairly. We want to and we can make trading into a gift economy. The platform aims to bring magic and awesomeness to the world of (un)trading. The non-fungible Future Reward (nFR) framework is part of this effort to create a new paradigm for trading that promotes fairness and equality.
 
-Therefore, we present untrading.org, where all interests are aligned, the platform, the buyers, and the sellers, creating a positive gift economy that rewards and incentivizes all parties fairly and equally.
+### <mark style="color:blue;">1.4</mark> <mark style="color:yellow;"></mark>       Introducing Flows <a href="#h.s6ava0wuzykt" id="h.s6ava0wuzykt"></a>
 
-### <mark style="color:blue;">1.4</mark> <mark style="color:yellow;"></mark>       To Invest or to Trade? <a href="#h.s6ava0wuzykt" id="h.s6ava0wuzykt"></a>
+The Flow framework offers the best of both the investment and trading worlds by providing the flexibility and control of traditional trading with the rewards and benefits of a lifetime royalty system. You are not pressured to trade to generate platform fees, and can hold onto your high-quality assets as long as you want. If you choose to sell, you will still receive a portion of the future profits if the price keeps increasing. Join the Flow community today to enjoy these benefits.&#x20;
 
-Are you looking to invest in something that may be valuable in the future and acquire it early? Great! In reality, you often find yourself in a situation where the price keeps rising regardless of whether you are a diamond hand hodler or a paper hand trader.
+The Flow operates on a system of giving and receiving, where community interdependence and delayed reciprocity are key characteristics. Unlike traditional trading platforms, the Flow does not operate on a quid pro quo system but rather on the principle that if others succeed, you succeed more. In a well-designed circle of giving, givers may receive more than they give over time. This shared objective alters the traditional model of platform versus user and user versus user relationships into one objective.
 
-But what if you could also be rewarded for your contribution to the chain of ownership of a collectible/asset and future price increases following the sale of your NFT? With the Flow, you can! Our unique system ensures that all parties are fairly compensated for their contributions to the trading process. Check out Table 1 in Section 2.2 for a detailed explanation of how it works.
+### <mark style="color:blue;">1.6</mark>        Pay Only After Making a Profit <a href="#h.x5hek4s7c18r" id="h.x5hek4s7c18r"></a>
 
-### <mark style="color:blue;">1.5</mark>        The Best of Both Worlds <a href="#h.yd1vx9c6epoc" id="h.yd1vx9c6epoc"></a>
+At untrading.org advocates for trading platforms that do not charge users for losses. Instead, we use a hedge fund-inspired incentive fee model where users only pay if their transactions are profitable.&#x20;
 
-With the Flow, you are never encouraged nor pressured to trade in order to generate platform fees. You can hold onto your high quality assets as long as you want, and if you choose to sell them – whether you need the funds or you believe the market is about to crash – you will still receive a portion of the future profits if the price keeps increasing.
+With the Flow, there are no commissions, deposit fees, transfer fees, or withdrawal fees. Instead, we share a small portion of a user's profit with the Minters as o-token holders, generating revenue.&#x20;
 
-It's the best of both worlds: the flexibility and control of traditional trading, combined with the rewards and benefits of a lifetime royalty system. Join the Flow and start enjoying the best of both worlds today!
+This approach not only creates a more equitable trading environment but also discourages any unauthorized deals that could violate the rules set by artists, creators, and marketplaces. Join the Flow for a new way of trading where you pay only after making a profit.&#x20;
 
-#### Introducing Flows <a href="#h.x5hek4s7c18r" id="h.x5hek4s7c18r"></a>
-
-The Flow framework is a revolutionary new investment and (un)trading protocol that offers the best of both worlds.
-
-With the Flow, you can be part of a community of people who work together to improve a situation that is typically much larger than it is at the moment. Some of the characteristics of a Flow are community interdependence and delayed reciprocity.
-
-Unlike traditional trading platforms, the Flow operates on a system of giving and receiving, where you do not expect the same amount of return from the same person when you give them a portion of your profits. There is no quid pro quo. Rather, you can be confident that someone else in the same circle will give you the same benefits, with a smaller or greater monetary value, from other participants in the same circle later on.
-
-In a well-designed circle of giving, givers may be able to receive more than they give over time, so giving is not the only thing involved. As a result, the traditional model of platform versus user and user vs. user relationships has been fundamentally altered into one, shared objective: if others succeed, I succeed more.
-
-Join the Flow and be part of a new, more equitable and fair trading system today!
-
-### <mark style="color:blue;">1.6</mark>        Only Pay after You Have Realized a Profit <a href="#h.x5hek4s7c18r" id="h.x5hek4s7c18r"></a>
-
-At untrading.org, we believe that trading platforms should not charge their users for losses. Instead, we apply an incentive fee model based on the idea of hedge funds, where a user only pays if the transaction is profitable.
-
-Unlike other platforms, the Flow does not charge commissions, deposit fees, transfer fees, or withdrawal fees. We generate revenue by sharing a small part of a user's profit with the Minters as the o-token holders.
-
-This not only makes trading more fair and equitable, but it also discourages any "under-the-table" deals that may circumvent the rules set forth by artists, creators, and marketplaces. Join the Flow and experience a new way of trading, where you only pay after you have realized a profit.
+Join the Flow and become part of a fair trading system that prioritizes community and shared goals.
 
 ### <mark style="color:blue;">1.7</mark>        Use Cases <a href="#h.o4p39l4e3q7k" id="h.o4p39l4e3q7k"></a>
 
@@ -287,7 +203,7 @@ Groups that currently gather in online forums, chat groups, online trading analy
 
 Major cryptocurrencies such as Bitcoin, Ethereum, and SOL can be upgraded into un-token standard derivatives on untrading.org. In addition, other traditional financial assets, such as stocks, real estate, and any other quoted securities, may also be converted into derivatives by utilizing third-party custodians and transfer agents. &#x20;
 
-#### **Other user cases**
+**DAO Native Tokens and Treasury Management**
 
 As there are no technical specifications governing what can be wrapped for listing and trading on untrading.org, there may be additional use cases involving upgrading the startup funding methods. The founders of startup projects may use untrading.org to raise funds. The founders, team members, and advisors receive o-tokens, but only the paying investors receive un-tokens. The team is considered the Minter, and will receive royalties perpetually from the success of the project whenever an un-token holder, the investor, makes a profit.
 
@@ -339,6 +255,8 @@ Although it is the Minter's privilege to set these ratios, setting these ratios 
 
 * Default values for f and a when minting original art unNFTs are 35% and 60%, respectively;
 * NFT wrapping uses f as 15% and a as 20% by default.
+
+The royalty portion of the profit-sharing plan will be partially based on EIP-2981 \[1] and some functionalities in the draft proposal of EIP-4910 \[2]. The untrading.org protocol will implement an improved on-chain, cross-platform royalty payment mechanism with the introduction of an o-token.
 
 ### <mark style="color:blue;">2.2</mark>        The un-tokens <a href="#h.jil64evym007" id="h.jil64evym007"></a>
 
