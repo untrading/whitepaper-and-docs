@@ -22,8 +22,6 @@ Using the NFT technology to solve a broader financial transaction problems, our 
 
 It isn't just NFTs. untrading.org is a trading and investment platform that is based on the NFT framework for all tokenized asset classes. On the blockchain, Originators' Reward (ORs) and Future Reward (FRs) create trustless Giving Circles among owners, fostering a strong community and aligning the interests of the platform and its users.&#x20;
 
-Our approach differs from traditional exchanges that prioritize profits over customers, leading to unethical practices. DEXs don't address the zero-sum nature of trading, which transfers wealth from the masses to a few. Our non-custodial Web3 protocol solves conflicts of interest, benefiting everyone. We prioritize our users' best interests, with no fees for deposits or transfers. Our vision is a future where all financial assets are tokenized, traded transparently and globally, benefiting all participants.
-
 </details>
 
 <details>
