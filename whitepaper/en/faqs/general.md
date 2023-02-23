@@ -127,3 +127,14 @@ Through our non-custodial nFR protocol, we address the conflicts of interest tha
 **Dr. D Wang**, co-founder, Head of Financial Transactions, Canadian citizen, EIP co-author, PhD in computer science. 20 years as chief HFT trading system designer. (soon will leave as VP of a major Wall Street firm).
 
 </details>
+
+<details>
+
+<summary>How do you measure success on your protocol?</summary>
+
+Our primary measure of success is the total nFR generated, as it's 100% shared with all users. As a decentralized platform, we prioritize the engagement and satisfaction of our users over traditional metrics like revenue or downloads. In addition to nFR, our primary success metrics are the number of active users, the volume of transactions, and the liquidity of our markets.&#x20;
+
+Currently, we have seen consistent growth in all three areas, with a growing verified user base and an increasing number of transactions and liquidity using our protocol. At this time, several DAO projects are in talks with us to issue their native tokens on untrading.org, and a crypto bank is issuing their membership NFT tokens using the EIP-5173 protocol. We're constantly monitoring these metrics to ensure we're on track to meet our goals, and we're always working to improve our protocol to provide the best experience for our users.
+
+</details>
+
