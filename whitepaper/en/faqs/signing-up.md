@@ -16,7 +16,7 @@ User accounts are verified via their Twitter accounts. Users are encouraged to p
 
 By requiring users to verify their identity and link their accounts to a Twitter account, the protocol can ensure that it is doing its best to prevent wash trading. It may also help to protect users by ensuring that only legitimate accounts can access the service.
 
-Wash trading is a type of market manipulation in which a trader buys and sells a security for the purpose of creating the appearance of activity in the market. This can be done by a single trader or by a group of traders working together. The goal of wash trading is often to manipulate the price of a security or to create the impression of a particular trend in the market, such as an upward trend. By squatting ownership rights, wash traders can gain unfair financial rewards under [EIP-5173](https://eips.ethereum.org/EIPS/eip-5173), which harms the entire Giftchain ecosystem.
+Wash trading is a type of market manipulation in which a trader buys and sells a security for the purpose of creating the appearance of activity in the market. This can be done by a single trader or by a group of traders working together. The goal of wash trading is often to manipulate the price of a security or to create the impression of a particular trend in the market, such as an upward trend. By squatting ownership rights, wash traders can gain unfair financial rewards under [EIP-5173](https://eips.ethereum.org/EIPS/eip-5173), which harms the entire Flow ecosystem.
 
 There are several ways to prevent wash trading:
 
