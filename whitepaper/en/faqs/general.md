@@ -56,6 +56,34 @@ There is no commission charged on each transaction on the platform, and there is
 
 <details>
 
+<summary>What is EIP-5173?</summary>
+
+EIP-5173 is an Ethereum Improvement Proposal that aims to revolutionize the world of non-fungible tokens (NFTs) by introducing a new standard that rewards all owners of a token for their participation in its price discovery process and the asset's provenance. The importance of an asset's provenance, just like in the real physical world, adds transparency, trust and additional value to the NFT ecosystem.
+
+This new standard creates a system of wealth creation that is a complete departure from the traditional zero-sum game of trading, which has been designed for most traders to lose. EIP-5173 offers a new way of creating value that benefits everyone involved. In the traditional trading system, exchanges and marketplaces often take a significant cut of the profits at the expense of creators and buyers, even sometimes engaging in unethical and illegal actions against their users.
+
+EIP-5173 offers a solution to these problems by introducing a new model that benefits everyone involved. By rewarding all owners of a token for their participation in its price discovery process, EIP-5173 creates a system of wealth creation that is fair and equitable. This eliminates the conflicts of interest between exchanges and marketplaces and their creators, buyers, and sellers of financial assets, not only the NFTs.
+
+Moreover, EIP-5173 provides a more accessible and equitable way for artists and creators to monetize their work, while also giving buyers the opportunity to participate in the value creation process. With the added transparency and trust of an asset's provenance, creators and buyers can feel confident that their work and investments are secure and legitimate.
+
+Overall, EIP-5173 represents a major step forward for the world of NFTs. By introducing a new standard that rewards all owners of a token for their participation in its price discovery process and the asset's provenance, it offers a more fair, equitable, and sustainable way of creating value in the NFT ecosystem. It is a groundbreaking proposal that has the potential to change the way we think about the NFT framework and the value it holds.
+
+</details>
+
+<details>
+
+<summary>What problem does EIP-5173 address?</summary>
+
+EIP-5173 addresses the problem of the unequal distribution of value in the current trading system, which guarantees that most traders will lose money due to their emotions and the use of various sophisticated techniques by insiders. It introduces a new standard for non-fungible tokens that rewards all owners of a token for their participation in its price discovery process, creating a system of wealth creation that doesn't rely on the traditional zero-sum game of trading. The new system eliminates conflicts of interest between exchanges and marketplaces and their creators, buyers, and sellers of NFTs.&#x20;
+
+By introducing a more accessible and equitable way for artists and creators to monetize their work, while also giving buyers the opportunity to participate in the value creation process, EIP-5173 offers a new way of creating value that benefits everyone involved. Our goal is to inspire more developers to work together to develop on-chain royalty payment methods and build a win-win trading practice based on Ethereum and Polygon. This involves building a next-generation exchange based on a gift economics model where members pay it forward to end centuries of zero-sum trading.&#x20;
+
+With the non-fungible token standard and several extensions, including EIP-5173, it is now possible to build this platform, which has the potential to reach far beyond the art world and transform the trading market, which is worth hundreds of billions of dollars.
+
+</details>
+
+<details>
+
 <summary>Surely untrading can help me earn more in the long run, and how can it prevent me from losing money?</summary>
 
 There is **NO** way to prevent anyone from losing money in trading. No losses should be socialized or bailed out either. Trading always involves risk. The only way to "prevent" risks and losses is either not to trade or join a Ponzi scheme.
