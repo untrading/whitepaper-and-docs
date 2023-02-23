@@ -28,7 +28,7 @@ In one short sentence:
 
 A Flow is a decentralized profit loopback sharing ecosystem consisting of a defined number of NFT token buyers and sellers. Each untrading token forms its own Flow.
 
-Built on a DeFi protocol with the implementation of non-fungible Future Rewards (nFR) architecture, the Flow aims to eliminate the zero-sum mentality of trading by creating more value together, rather than for one individual to gain at the expense of another, thereby ending a vicious cycle that sees traders lose everything in six to 24 months.
+Built on a DeFi protocol with the implementation of non-fungible Future Rewards (nFR) architecture on both Ethereum and Polygon networks, the Flow aims to eliminate the zero-sum mentality of trading by creating more value together, rather than for one individual to gain at the expense of another, thereby ending a vicious cycle that sees traders lose everything in six to 24 months.
 
 In more detail, here is what untrading.org is all about:
 
@@ -48,7 +48,7 @@ The profit distribution shall be only available to previous owners who fall with
 
 The following is a more comprehensive description that includes several key elements of the new trading platform architecture:
 
-> _untrading.org is a unique asset transaction protocol that uses NFTs and EIP-5173 to create a cooperative and inclusive investment environment. Its objective is to eliminate conflicts of interest caused by commissions and encourage a shared economy where successful traders share their profits with previous owners. The protocol aims to align the interests of all participants and promote inclusivity and fairness._&#x20;
+> _untrading.org is a unique asset transaction protocol that uses NFTs and EIP-5173 to create a cooperative and inclusive investment environment on both Ethereum and Polygon networks. Its objective is to eliminate conflicts of interest caused by commissions and encourage a shared economy where successful traders share their profits with previous owners. The protocol aims to align the interests of all participants and promote inclusivity and fairness._&#x20;
 >
 > _To address the traditional pattern where most traders lose everything to a small group of people in positions of control and influence, the platform has developed the Non-fungible Future Rewards (nFR) framework. The framework ensures the protocol's robustness and resilience, without promising a fixed rate of reward. Although the exact amount and timing of rewards are uncertain, the on-chain mechanism for distributing rewards is immutable._&#x20;
 >
@@ -58,7 +58,7 @@ The paper will discuss the foundations of the untrading protocol. A number of ne
 
 ## Abstract
 
-untrading.org is a new protocol that aims to eliminate the conflict of interest between trading platforms and their users, and the zero-sum nature of trading. With the implementation of the Ethereum Improvement Proposal, EIP-5173, the protocol creates an on-chain and multisig-smart-contract-enforced trustless flow among creators, buyers, and sellers of NFTs and their derivatives.&#x20;
+untrading.org is a new protocol that aims to eliminate the conflict of interest between trading platforms and their users, and the zero-sum nature of trading. With the implementation of the Ethereum Improvement Proposal, EIP-5173, the protocol creates an on-chain and multisig-smart-contract-enforced trustless flow among creators, buyers, and sellers of NFTs and their derivatives on both Ethereum and Polygon networks.&#x20;
 
 The protocol promotes a shared economic model that rewards all owners of non-fungible tokens (NFT) through the Future Rewards (FR) extension, allowing owners of unNFT tokens to participate in future investment profits derived from the same token by later investors in the same chain of ownership.
 
