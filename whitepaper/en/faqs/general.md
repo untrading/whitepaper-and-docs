@@ -109,3 +109,21 @@ To make the framework robust and resilient, the untrading.org protocol does not 
 untrading.org also includes measures to protect user assets, such as asset-unlocking contracts signed by users, the protocol, and a third-party custodian. User funds are safe even in the event of untrading.org ceases to exist.
 
 </details>
+
+<details>
+
+<summary>Who is behind untrading protocol?</summary>
+
+Our team is composed of seasoned traders and experienced blockchain developers. As successful traders survived and thrived for over 20 years, we understand the pain points of individual traders who have been at a disadvantage in a system that favors the wealthy and the powerful. Our mission is to level the playing field and provide a more equitable, decentralized financial transaction ecosystem that benefits everyone.&#x20;
+
+Through our non-custodial nFR protocol, we address the conflicts of interest that exist in existing exchanges and offer a transparent and fair solution that has never been considered before. With our expertise and passion, we aim to revolutionize trading and make it more profitable and accessible for all.
+
+**Yale ReiSoleil**, co-founder, CEO, US citizen, Co-author of EIP-5173, experienced HFT system trader and early investor in BTC & ETH. https://www.linkedin.com/in/reisoleil/
+
+**Amit Srivastava**, co-founder, upcoming VP, Markets, US citizen, 30 Years Experience in Investing, Strategy Consulting and Technology Operations. https://www.linkedin.com/in/amit-srivastava-b80153/
+
+**@dRadiant** (anonymous), co-founder, Head of Web3, US citizen, Talented and workaholic coder, EIP co-author, open-source project contributor, 3rd Prize winner, ETH San Francisco.&#x20;
+
+**Dr. D Wang**, co-founder, Head of Financial Transactions, Canadian citizen, EIP co-author, PhD in computer science. 20 years as chief HFT trading system designer. (soon will leave as VP of a major Wall Street firm).
+
+</details>
