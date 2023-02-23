@@ -4,11 +4,9 @@
 
 <summary><strong>What is untrading?</strong></summary>
 
-untrading.org implements Ethereum Improvement Proposal (EIP-5173), which eliminates conflicts of interest and ends the zero-sum mentality currently practiced by all exchanges by creating a trustless Giftchain for each token among creators, buyers, and sellers using an improved NFT framework.
+Using the NFT technology to solve a broader financial transaction problems, our DEX is deployed on Ethereum and Polygon blockchains, using an improved NFT framework based on EIP-5173 to establish a shared-benefit economy because every previous buyer has contributed to the token’s provenance and the price-discovery process. Our non-fungible Future Rewards (nFR) system creates a trustless Flow for each listed token, with every transaction linked to a specific user. Previous and present buyers and sellers of tokens receive a percentage whenever a profit is realized, based on the amount of profit. Our Originator's Rewards (ORs) eliminate commissions and promote transparency.
 
-Built on a DeFi protocol with the implementation of non-fungible Future Rewards (nFR) architecture, the Giftchain aims to eliminate the zero-sum mentality of trading by creating more value together, rather than for one individual to gain at the expense of another, thereby ending a vicious cycle that sees traders lose everything in six to 24 months.
-
-**Giftchains**: Giftchains are decentralized, on-chain communities made up of all the buyers and sellers of an NFT token.
+**Flows**: Flows, or Giftchains are decentralized, on-chain communities made up of all the buyers and sellers of an NFT token.
 
 **On-chain nFR payments:** Uses are no longer at odds with each other, nor with the platform. They are no longer chess pieces in a zero-sum game. A gain is no longer a loss for another. In addition to eliminating the need for lots of trades to generate transaction fees, the platform implements a revolutionary on-chain payment system that rewards ownership chain ownership, and discourages royalty circumvention.
 
@@ -24,6 +22,8 @@ Built on a DeFi protocol with the implementation of non-fungible Future Rewards 
 
 It isn't just NFTs. untrading.org is a trading and investment platform that is based on the NFT framework for all tokenized asset classes. On the blockchain, Originators' Reward (ORs) and Future Reward (FRs) create trustless Giving Circles among owners, fostering a strong community and aligning the interests of the platform and its users.&#x20;
 
+Our approach differs from traditional exchanges that prioritize profits over customers, leading to unethical practices. DEXs don't address the zero-sum nature of trading, which transfers wealth from the masses to a few. Our non-custodial Web3 protocol solves conflicts of interest, benefiting everyone. We prioritize our users' best interests, with no fees for deposits or transfers. Our vision is a future where all financial assets are tokenized, traded transparently and globally, benefiting all participants.
+
 </details>
 
 <details>
@@ -36,6 +36,8 @@ untrading.org stands out from all other platforms in four major ways:
 2. **Get paid even after you sell the token:** The Future Rewards framework shares a percentage of the realized profit with the Giving Circle that makes up the chain of ownership after you sell the token.
 3. **On-chain royalty payments:** the artists' royalty payments are part of the Originators' Rewards (ORs) on untrading.org. They are immutable and on-chain. The nFRn framework discourages buyers and sellers from circumventing royalty payments.&#x20;
 4. **On-chain NFT licenses:** untrading.org implements the "Can't Be Evil" NFT licenses released by a16z on its native smart contract. Creators can choose from six on-chain licenses that outline respective rights and obligations.
+
+Our approach differs from traditional exchanges that prioritize profits over customers, leading to unethical practices. DEXs don't address the zero-sum nature of trading, which transfers wealth from the masses to a few. Our non-custodial Web3 protocol solves conflicts of interest, benefiting everyone. We prioritize our users' best interests, with no fees for deposits or transfers. Our vision is a future where all financial assets are tokenized, traded transparently and globally, benefiting all participants.
 
 </details>
 
@@ -84,15 +86,15 @@ For the platform to generate revenue, users must make a profit. The Originators'
 
 <details>
 
-<summary><strong>What is a Giftchain?</strong></summary>
+<summary><strong>What is a Flow?</strong></summary>
 
-By utilizing EIP-5173, creators, buyers, and sellers of tokens form on-chain communities we call Giftchains. Giftchains are formed when participants work together to increase wealth. A Giftchain is a decentralized, on-chain community made up of all the buyers and sellers of an NFT token.
+By utilizing EIP-5173, creators, buyers, and sellers of tokens form on-chain communities we call Flows, or Giftchains. Flows are formed when participants work together to increase wealth. A Flow is a decentralized, on-chain community made up of all the buyers and sellers of an NFT token.
 
 The owners are arranged in a queue, starting with the earliest owner and ending with the owner immediately before the current owner (the Last Generation). The First Generation is the last of the next n generations. There is a fixed-size profit distribution window from the First Generation to the Last Generation.
 
-Those who sell non-fungible-future-reward-compliant tokens (nFR tokens) will share profits if they are not the original minters, the Originator, and therefore not the very first sellers in the chain. Future Rewards (FRs) create a trustless, on-chain Giving Circle that is governed by the original smart contract by making sure that every seller, regardless of position, gives and receives the Future Reward distributions specified by the Originator when the token was minted.
+Those who sell non-fungible-future-reward-compliant tokens (nFR tokens) will share profits if they are not the original minters, the Originator, and therefore not the very first sellers in the chain. Future Rewards (FRs) create a trustless, on-chainFlow that is governed by the original smart contract by making sure that every seller, regardless of position, gives and receives the Future Reward distributions specified by the Originator when the token was minted.
 
-With this new NFT framework, stronger communities can be created and mutually beneficial relationships can be formed. Giving Circles are living communities where previous and current owners share interests.
+With this new NFT framework, stronger communities can be created and mutually beneficial relationships can be formed. Flows are living communities where previous and current owners share interests.
 
 </details>
 
