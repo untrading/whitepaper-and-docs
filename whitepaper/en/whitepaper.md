@@ -28,7 +28,7 @@ In one short sentence:
 
 A Flow, which is also called a Giftchain within the community, is a decentralized ecosystem for sharing profits through loopback on both the Ethereum and Polygon chains. It is composed of a specific number of buyers and sellers of NFT tokens, with each untrading token forming its own Flow.
 
-Built on a DeFi protocol with the implementation of non-fungible Future Rewards (nFR) architecture on both Ethereum and Polygon networks, the Flow aims to eliminate the zero-sum mentality of trading by creating more value together, rather than for one individual to gain at the expense of another, thereby ending a vicious cycle that sees traders lose everything in six to 24 months.
+Built on an enhanced DeFi protocol with the implementation of non-fungible Future Rewards (nFR) architecture (EIP-5173), the Flow aims to eliminate the zero-sum mentality of trading by creating more value together, rather than for one individual to gain at the expense of another, thereby ending a vicious cycle that sees traders lose everything in six to 24 months.
 
 In more detail, here is what untrading.org is all about:
 
