@@ -26,7 +26,7 @@ untrading.org Artists, Minters, Creators, Originators, Owners, and Collectors ar
 
 Users are generally forbidden from engaging in any deceptive conduct that may prevent competitive or fair bidding, artificially inflate or deflate the price of a work, simulate demand for work (i.e, "wash trading"), or any other anti-competitive bidding conduct such as but not limited to “puffing,” “chill bidding,” “shill bidding,” “sham bidding,” or “sock puppet bidding.”
 
-Buying and owning the same item by the same person within the same ownership [Window Size (“_w_”, maximum number of owners involved in profit distribution)](https://docs.untrading.org/whitepaper#future-rewards-calculation) is prohibited by untrading.org, whether the user is using the same account, multiple accounts, or the wallet of a related person. If the Number of Generations of this Giving Circle is 10, you are prohibited from purchasing the same item WITHIN the next 10 generations counting from your first ownership.
+Buying and owning the same item by the same person within the same ownership [Window Size (“_w_”, maximum number of owners involved in profit distribution)](https://docs.untrading.org/whitepaper#future-rewards-calculation) is prohibited by untrading.org, whether the user is using the same account, multiple accounts, or the wallet of a related person. If the Number of Generations of this Flow is 10, you are prohibited from purchasing the same item WITHIN the next 10 generations counting from your first ownership.
 
 ### Users are Prohibited from Ownership Squatting <a href="#_2z6zr7o1gebc" id="_2z6zr7o1gebc"></a>
 

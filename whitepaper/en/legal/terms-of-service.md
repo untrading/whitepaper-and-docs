@@ -243,7 +243,7 @@ You agree and understand that all royalties (“Originators’ Rewards,” “OR
 The Fees for an any sale on the App of Digital Artwork and other tokenized assets launched on the App (“Sale”) are set by the Originators for each trading asset, and are as  follows:&#x20;
 
 * For the purchase of an unNFT or any tokenized asset, untrading.org does not charge any fees, commissions, or royalties.&#x20;
-* In the chain of ownership, each trading asset creates a giving circle that collects non-fungible future rewards (nFRs). Instead of calculating fees based on sales prices, the fees are entirely based on realized profit.
+* In the chain of ownership, each trading asset creates a Flow that collects non-fungible future rewards (nFRs). Instead of calculating fees based on sales prices, the fees are entirely based on realized profit.
 * Originators, or Creators, set the total Reward Ratio (f) of total realized profit (P) between 5% to 50%).&#x20;
 * Originator Rewards (ORs) are set between 5% to 50% of the total Rewards.&#x20;
 * Creators receive 70% of the total ORs from any profitable Sale.&#x20;
