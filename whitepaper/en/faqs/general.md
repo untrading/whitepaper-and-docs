@@ -4,7 +4,7 @@
 
 <summary><strong>What is untrading?</strong></summary>
 
-Using the NFT technology to solve a broader financial transaction problems, our DEX is deployed on Ethereum and Polygon blockchains, using an improved NFT framework based on EIP-5173 to establish a shared-benefit economy because every previous buyer has contributed to the token’s provenance and the price-discovery process. Our non-fungible Future Rewards (nFR) system creates a trustless Flow for each listed token, with every transaction linked to a specific user. Previous and present buyers and sellers of tokens receive a percentage whenever a profit is realized, based on the amount of profit. Our Originator's Rewards (ORs) eliminate commissions and promote transparency.
+untrading.org is a DEX protocol that uses NFT technology to solve financial transaction problems. We operate on Ethereum and Polygon blockchains, and use EIP-5173 to create a shared-benefit economy. Our non-fungible Future Rewards (nFR) system creates a trustless Flow for each listed token, with every transaction linked to a specific user. Buyers and sellers receive a percentage of profits based on their contribution to the token's provenance and price-discovery process. We also have Originator's Rewards (ORs) that eliminate commissions and promote transparency. Join us on Untrading.org to experience a fair and equitable trading platform.
 
 **Flows**: Flows, or Giftchains are decentralized, on-chain communities made up of all the buyers and sellers of an NFT token.
 
