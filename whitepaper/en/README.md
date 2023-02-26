@@ -1,7 +1,7 @@
 ---
 description: >-
   A permissionless, non-custodial DEX protocol that creates a gift economy by
-  forming non-fungible Giftchains.
+  forming non-fungible Flows also known as Giftchains.
 ---
 
 # 🎨 Creators' Introduction
