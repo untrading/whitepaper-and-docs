@@ -20,7 +20,7 @@ untrading.org is a DEX protocol that uses NFT technology to solve financial tran
 
 <summary>This is yet another NFT marketplace, isn't it?</summary>
 
-It isn't just NFTs. untrading.org is a trading and investment platform that is based on the NFT framework for all tokenized asset classes. On the blockchain, Originators' Reward (ORs) and Future Reward (FRs) create trustless Giving Circles among owners, fostering a strong community and aligning the interests of the platform and its users.&#x20;
+untrading.org is not just another NFT marketplace. It is a game-changing asset transaction protocol that goes beyond NFTs, covering all tokenized asset classes. The platform is built on an improved NFT framework, which is based on EIP-5173, that establishes a shared-benefit economy where every previous buyer has contributed to the token’s provenance and the price-discovery process. On top of that, untrading.org has a trustless Future Rewards (FRs) system and Originator's Rewards (ORs) that create giving circles among owners, promote transparency, and align the interests of the platform and its users. In summary, untrading.org is not just another NFT marketplace but a revolutionary asset transaction protocol that provides a new level of fairness, transparency, and community for all tokenized asset classes.
 
 </details>
 
@@ -77,6 +77,20 @@ EIP-5173 addresses the problem of the unequal distribution of value in the curre
 By introducing a more accessible and equitable way for artists and creators to monetize their work, while also giving buyers the opportunity to participate in the value creation process, EIP-5173 offers a new way of creating value that benefits everyone involved. Our goal is to inspire more developers to work together to develop on-chain royalty payment methods and build a win-win trading practice based on Ethereum and Polygon. This involves building a next-generation exchange based on a gift economics model where members pay it forward to end centuries of zero-sum trading.&#x20;
 
 With the non-fungible token standard and several extensions, including EIP-5173, it is now possible to build this platform, which has the potential to reach far beyond the art world and transform the trading market, which is worth hundreds of billions of dollars.
+
+</details>
+
+<details>
+
+<summary>Is it a Ponzi?</summary>
+
+EIP-5173 is not a Ponzi scheme because it does not rely on new investors joining the system to pay returns to earlier investors. Instead, it introduces a new standard that rewards all owners of a token for their participation in its price discovery process. This creates a system of wealth creation that benefits everyone involved, including artists and creators, buyers, and sellers of NFTs.&#x20;
+
+The traditional trading system has long been plagued by unequal distribution of value, with exchanges and marketplaces existing to only serve their own benefit, often taking a significant cut of the profits at the expense of creators and buyers, even sometimes engaging in unethical and illegal actions against their users. EIP-5173 offers a solution to these problems by introducing a new model that benefits everyone involved. By rewarding all owners of a token for their participation in its price discovery process, EIP-5173 creates a system of wealth creation that is fair and equitable.&#x20;
+
+Furthermore, EIP-5173 offers a new way of creating value that benefits everyone involved. It provides a more accessible and equitable way for artists and creators to monetize their work, while also giving buyers the opportunity to participate in the value creation process. It eliminates the conflicts of interest between exchanges and marketplaces and their creators, buyers, and sellers of NFTs.&#x20;
+
+Overall, EIP-5173 represents a major step forward for the world of NFTs, providing a more fair, equitable, and sustainable way of creating value in the NFT ecosystem.
 
 </details>
 
