@@ -43,6 +43,8 @@ Our approach differs from traditional exchanges that prioritize profits over cus
 
 <summary>What are the benefits of using untrading.org?</summary>
 
+By using untrading.org, you can enjoy several benefits, such as amplifying user values using the nFR Flow system, enhancing user experience, and addressing security concerns with multisig implementation on asset-locking contracts. Our platform is designed to maximize value for the masses and transfer wealth back to the community, instead of extracting value from them.
+
 There is no commission charged on each transaction on the platform, and there is no conflict of interest between the platform and its users; each trading asset creates a giving circle that benefits the platform users in three ways:&#x20;
 
 1. You will continue to receive Future Rewards (FRs) after the token is sold;&#x20;
@@ -70,6 +72,14 @@ Overall, EIP-5173 represents a major step forward for the world of NFTs. By intr
 
 <details>
 
+<summary>What is the biggest problem about the current financial markets?</summary>
+
+The biggest problem with the current financial markets is the zero-sum mentality that prevails not only in short-term and derivative trading but also in investing. The entire financial market was designed to extract value from the masses and transfer wealth back to the elite few from its beginning several hundred years ago. This means that the market extracts value from the companies' users, workers, and the community they serve in order to maximize the remote capital investors. As a result, the current financial markets create an unfair system that benefits the few at the expense of the many.
+
+</details>
+
+<details>
+
 <summary>What problem does EIP-5173 address?</summary>
 
 EIP-5173 addresses the problem of the unequal distribution of value in the current trading system, which guarantees that most traders will lose money due to their emotions and the use of various sophisticated techniques by insiders. It introduces a new standard for non-fungible tokens that rewards all owners of a token for their participation in its price discovery process, creating a system of wealth creation that doesn't rely on the traditional zero-sum game of trading. The new system eliminates conflicts of interest between exchanges and marketplaces and their creators, buyers, and sellers of NFTs.&#x20;
@@ -82,15 +92,17 @@ With the non-fungible token standard and several extensions, including EIP-5173,
 
 <details>
 
-<summary>Is it a Ponzi?</summary>
+<summary>What is the technical focus of untrading.org?</summary>
 
-EIP-5173 is not a Ponzi scheme because it does not rely on new investors joining the system to pay returns to earlier investors. Instead, it introduces a new standard that rewards all owners of a token for their participation in its price discovery process. This creates a system of wealth creation that benefits everyone involved, including artists and creators, buyers, and sellers of NFTs.&#x20;
+untrading.org focuses on three critical areas of trading: On-chain Payments & Licenses, Truly Divisible NFTs, and Upgradable Smart Contracts. We believe that these areas are crucial for building a better, fairer DeFi platform for everyone.
 
-The traditional trading system has long been plagued by unequal distribution of value, with exchanges and marketplaces existing to only serve their own benefit, often taking a significant cut of the profits at the expense of creators and buyers, even sometimes engaging in unethical and illegal actions against their users. EIP-5173 offers a solution to these problems by introducing a new model that benefits everyone involved. By rewarding all owners of a token for their participation in its price discovery process, EIP-5173 creates a system of wealth creation that is fair and equitable.&#x20;
+</details>
 
-Furthermore, EIP-5173 offers a new way of creating value that benefits everyone involved. It provides a more accessible and equitable way for artists and creators to monetize their work, while also giving buyers the opportunity to participate in the value creation process. It eliminates the conflicts of interest between exchanges and marketplaces and their creators, buyers, and sellers of NFTs.&#x20;
+<details>
 
-Overall, EIP-5173 represents a major step forward for the world of NFTs, providing a more fair, equitable, and sustainable way of creating value in the NFT ecosystem.
+<summary>What are the features of untrading.org?</summary>
+
+untrading.org offers several features, such as the ability to transfer a fraction of your NFT in a logical, secure, and efficient way, implementing a16z's "Can't Be Evil" licenses for all NFTs, and continuously upgradable smart contracts that patch vulnerabilities and add new features using EIP-2535 "Diamonds." Our platform also provides a multisig implementation on asset-locking contracts to address security concerns.
 
 </details>
 
@@ -142,6 +154,8 @@ With this new NFT framework, stronger communities can be created and mutually be
 
 <summary>How safe is untrading protocol?</summary>
 
+untrading.org takes security very seriously and provides a multisig implementation on asset-locking contracts to address security concerns. Our platform also continuously upgradable smart contracts that patch vulnerabilities and add new features using EIP-2535 "Diamonds." Additionally, our team of experts ensures that our platform is constantly monitored and updated to ensure maximum security for our users.
+
 untrading.org is a non-custodial platform without counterparty risk that allows users to retain control of their assets even in the event of bankruptcy through asset-unlocking smart contracts signed jointly by the platform, users, and an outside custodian.
 
 To make the framework robust and resilient, the untrading.org protocol does not promise a fixed rate of reward to anyone at any time. While the exact amount and timing of the rewards is uncertain, the on-chain mechanism for distributing these rewards is immutable.&#x20;
@@ -158,13 +172,31 @@ Our team is composed of seasoned traders and experienced blockchain developers. 
 
 Through our non-custodial nFR protocol, we address the conflicts of interest that exist in existing exchanges and offer a transparent and fair solution that has never been considered before. With our expertise and passion, we aim to revolutionize trading and make it more profitable and accessible for all.
 
-**Yale ReiSoleil**, co-founder, CEO, Co-author of EIP-5173, experienced HFT system trader and early investor in BTC & ETH. https://www.linkedin.com/in/reisoleil/
+**@dRadiant,** highly skilled 16-year-old  blockchain coder who is known for their hard work ethic, and has contributed to several open-source projects, co-authored an EIP (writing another EIP to solve the non-divisible problem of NFTs), and won prizes at the ETH SF & ETH Denver hackathons.
 
-**Amit Srivastava**, co-founder, upcoming VP, Markets, 30 Years Experience in Investing, Strategy Consulting and Technology Operations. https://www.linkedin.com/in/amit-srivastava-b80153/
+**Yale ReiSoleil,** co-author of EIP-5173, experienced HFT system trader and early investor in BTC & ETH.
 
-**@dRadiant** (anonymous), co-founder, Head of Web3, Talented and workaholic coder, EIP co-author, open-source project contributor, 3rd Prize winner, ETH San Francisco.&#x20;
+**Amit Srivastava,** 30 Years Experience in Investing, Strategy Consulting and Technology Operations.
 
-**Dr. D Wang**, co-founder, Head of Financial Transactions, EIP co-author, PhD in computer science. 20 years as chief HFT trading system designer. (soon will leave as VP of a major Wall Street firm).
+**Dr. D Wang,** EIP co-author, PhD in computer science. 20 years as chief HFT trading system designer.
+
+**Tal Elyashiv,** Advisor, former CIO at Bank of America, CIO at Capital One, and COO at BondDesk. Founder at Navion, Exactor, Yallo, SPiCE VC and Securitize.
+
+**Simon Telfer,** Advisor. Technology Director 30 years’ experience delivering large transformation programs in multiple industries including media, retail, public sector.
+
+</details>
+
+<details>
+
+<summary>Is it a Ponzi?</summary>
+
+EIP-5173 is not a Ponzi scheme because it does not rely on new investors joining the system to pay returns to earlier investors. Instead, it introduces a new standard that rewards all owners of a token for their participation in its price discovery process. This creates a system of wealth creation that benefits everyone involved, including artists and creators, buyers, and sellers of NFTs.&#x20;
+
+The traditional trading system has long been plagued by unequal distribution of value, with exchanges and marketplaces existing to only serve their own benefit, often taking a significant cut of the profits at the expense of creators and buyers, even sometimes engaging in unethical and illegal actions against their users. EIP-5173 offers a solution to these problems by introducing a new model that benefits everyone involved. By rewarding all owners of a token for their participation in its price discovery process, EIP-5173 creates a system of wealth creation that is fair and equitable.&#x20;
+
+Furthermore, EIP-5173 offers a new way of creating value that benefits everyone involved. It provides a more accessible and equitable way for artists and creators to monetize their work, while also giving buyers the opportunity to participate in the value creation process. It eliminates the conflicts of interest between exchanges and marketplaces and their creators, buyers, and sellers of NFTs.&#x20;
+
+Overall, EIP-5173 represents a major step forward for the world of NFTs, providing a more fair, equitable, and sustainable way of creating value in the NFT ecosystem.
 
 </details>
 
@@ -175,6 +207,14 @@ Through our non-custodial nFR protocol, we address the conflicts of interest tha
 Our primary measure of success is the total nFR generated, as it's 100% shared with all users. As a decentralized platform, we prioritize the engagement and satisfaction of our users over traditional metrics like revenue or downloads. In addition to nFR, our primary success metrics are the number of active users, the volume of transactions, and the liquidity of our markets.&#x20;
 
 Currently, we have seen consistent growth in all three areas, with a growing verified user base and an increasing number of transactions and liquidity using our protocol. At this time, several DAO projects are in talks with us to issue their native tokens on untrading.org, and a crypto bank is issuing their membership NFT tokens using the EIP-5173 protocol. We're constantly monitoring these metrics to ensure we're on track to meet our goals, and we're always working to improve our protocol to provide the best experience for our users.
+
+</details>
+
+<details>
+
+<summary>How can I get involved with untrading.org?</summary>
+
+You can get involved with untrading.org by joining our community on social media platforms such as Twitter, Telegram, and Discord. You can also use our platform to buy, sell, and upgrade NFTs you own into unNFTs and participate in DeFi activities.
 
 </details>
 
