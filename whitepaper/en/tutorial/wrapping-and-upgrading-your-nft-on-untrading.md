@@ -6,6 +6,10 @@ Wrapping & upgrading an ERC721 NFT bought from another marketplace on [untrading
 
 {% embed url="https://www.youtube.com/watch?v=6zkQKsrWuak" %}
 
+{% hint style="info" %}
+The following explanations provide step-by-step instructions:
+{% endhint %}
+
 #### 1. [Go to untrading.org app](https://app.untrading.org)
 
 #### 2. Click on your profile image
