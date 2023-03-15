@@ -11,6 +11,7 @@
 * [🔍 Creating a SET](tutorial/creating-a-set.md)
 * [🔍 Creating a Collection](tutorial/creating-a-collection.md)
 * [🔍 Minting an unNFT and List It for Sell on untrading](tutorial/minting-an-unnft-and-list-it-for-sell-on-untrading.md)
+* [🔍 Wrapping and upgrading your NFT on untrading](tutorial/wrapping-and-upgrading-your-nft-on-untrading.md)
 * [🔍 Checking nFR Received and Total Payouts](tutorial/checking-nfr-received-and-total-payouts.md)
 * [🔧 Testnet on Ethereum and Polygon Networks](https://testnet.untrading.org)
 
