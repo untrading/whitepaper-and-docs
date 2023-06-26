@@ -36,7 +36,7 @@ In more detail, here is what untrading.org is all about:
 
 ## untrading.org in One Picture
 
-<figure><img src=".gitbook/assets/nFR.gif" alt=""><figcaption><p><a href="https://docs.untrading.org/nfr-distribution">https://docs.untrading.org/nfr-distribution</a></p></figcaption></figure>
+<figure><img src="../../images/nFR_animation.gif" alt=""><figcaption><p><a href="https://docs.untrading.org/nfr-distribution">https://docs.untrading.org/nfr-distribution</a></p></figcaption></figure>
 
 The buyers/owners receive a portion of the realized profit from an NFT transaction. The remaining proceeds go to the seller.
 
@@ -64,7 +64,11 @@ The protocol promotes a shared economic model that rewards all owners of non-fun
 
 ### **Phase One,** Q4, 2022 - Q3, 2023
 
+<div align="right">
+
 <figure><img src=".gitbook/assets/Screenshot 2022-10-26 08.33.11.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 #### Future Rewards and On-chain Royalties
 
@@ -78,7 +82,11 @@ untrading.org creates a non-zero-sum game where one party's victory does not nec
 
 **unBTC, unETH and more**
 
+<div align="left">
+
 <figure><img src=".gitbook/assets/Screenshot 2022-10-26 08.38.02.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 The protocol will also include cryptocurrency and other derivatives, such as unBTC and unETH tokens that allow users to receive the same amount as the original cryptocurrency, as well as royalties and Future Rewards. Untrading.org aims to create a more equitable and sustainable (un)trading ecosystem that breaks free from centuries of unfair practices favored by a few and financial ruin for many.
 
@@ -165,7 +173,7 @@ In addition to promoting fairness and equality, the Flow ecosystem provides reli
 
 To align the interests of all parties, protocol, buyers, and sellers, untrading.org has been created as a positive gift economy that rewards and incentivizes all parties fairly. We want to and we can make trading into a gift economy. The platform aims to bring magic and awesomeness to the world of (un)trading. The non-fungible Future Reward (nFR) framework is part of this effort to create a new paradigm for trading that promotes fairness and equality.
 
-### <mark style="color:blue;">1.4</mark> <mark style="color:yellow;"></mark>       Introducing Flows <a href="#h.s6ava0wuzykt" id="h.s6ava0wuzykt"></a>
+### <mark style="color:blue;">1.4</mark>        Introducing Flows <a href="#h.s6ava0wuzykt" id="h.s6ava0wuzykt"></a>
 
 The Flow framework offers the best of both the investment and trading worlds by providing the flexibility and control of traditional trading with the rewards and benefits of a lifetime royalty system. You are not pressured to trade to generate platform fees, and can hold onto your high-quality assets as long as you want. If you choose to sell, you will still receive a portion of the future profits if the price keeps increasing. Join the Flow community today to enjoy these benefits.&#x20;
 
@@ -237,7 +245,7 @@ The investors' confidence in the new funding increases since the founders' finan
 
 **Total nFR Paid:** The number of ORs and FRs an active un-token has generated for its creator, all previous owners, and its current owner. In contrast to the traditional Daily Volume and Total Trading Volume that are mostly self-serving exchange metrics, the Total nFR Paid is one of the most important protocol success metrics for untrading.org. This metric is listed on every minted unNFT details page.
 
-## <mark style="color:red;">02</mark> <mark style="color:yellow;"></mark>       Architecture <a href="#h.dn642dhamgzt" id="h.dn642dhamgzt"></a>
+## <mark style="color:red;">02</mark>        Architecture <a href="#h.dn642dhamgzt" id="h.dn642dhamgzt"></a>
 
 For each listed token, the untrading.org protocol consists of two or three tokens: 1) the main listed un-token, and it is always accompanied by 2) the unlisted minter, or creator token, the o-token, and 3) if the un-token is backed by an existing third-party NFT the Minter owns, the third-party NFT locked in the escrow contract’s multisig, multi-party vault.
 
@@ -343,7 +351,7 @@ Even for Owner #4, the biggest loser in our example, the FRs received from #5, #
 
 See Table 2 in the Specification section for a detailed illustration.
 
-### <mark style="color:blue;">2.3</mark> <mark style="color:yellow;"></mark>       Minting <a href="#h.ocqixsbeplyi" id="h.ocqixsbeplyi"></a>
+### <mark style="color:blue;">2.3</mark>        Minting <a href="#h.ocqixsbeplyi" id="h.ocqixsbeplyi"></a>
 
 On untrading.org, users can mint original artwork or wrap existing NFTs into nFR-compliant unNFTs.
 
@@ -351,7 +359,7 @@ _Figure 3_ shows how an original piece is minted on untrading.org as an nFR-comp
 
 #### **Original NFT Minting**
 
-![Figure 3: Original NFT minting](.gitbook/assets/unNFT\_wrapping.jpg)
+![Figure 3: Original NFT minting](../../images/unNFT\_wrapping.jpg)
 
 Royalties and platform’s share are as follows:
 
@@ -363,7 +371,7 @@ untrading.org receives a small number of o- tokens from each unNFT minted on the
 
 #### **Third-party blue-chip NFT Wrapping**
 
-![Figure 4: 3rd-party NFT wrapping](.gitbook/assets/3rd-party\_unNFT\_minting.jpg)
+![Figure 4: 3rd-party NFT wrapping](../../images/3rd-party\_unNFT\_minting.jpg)
 
 In addition for an artist and creator to mint their artwork on the platform, anyone can wrap an existing valuable NFT they bought from any marketplace in their collection on untrading.org as an unNFT of the same value, backed by the original NFT  (See _Figure 4_). Additional steps and safe-keeping measures are implemented.
 
@@ -381,7 +389,7 @@ When a user wraps their third-party existing NFT into an unNFT, the NFT they own
 
 No one, not even the untrading.org platform and their employees, can unilaterally unwrap an unNFT.
 
-![Figure 5: Multisig unwrapping](.gitbook/assets/Multisig\_unwrapping.jpg)
+![Figure 5: Multisig unwrapping](../../images/Multisig\_unwrapping.jpg)
 
 The untrading.org platform or the new owner of unNFT can initiate an unwrapping request in certain circumstances. The original Minter and all previous owners would be adversely affected if the original NFT was unwrapped and released to the current unNFT owner. On iob.fi DAO voting, the Minter and all affected previous owners must approve the process within the sliding window (see description in the Specification section). Aye votes will instruct the third party to sign the vault and unwrap the original NFT.
 
@@ -472,7 +480,7 @@ The amount of Ether allocated to a specific address using the `_allottedFR` mapp
 
 The `allocatedFR` is calculated using a percentage fixed point with a scaling factor of 1e18 (X/1e18) - such as "5e16" - for 5%. This is to maintain uniformity across the standard. The max and min values would be – 1e18 - 1.
 
-### <mark style="color:blue;">3.2</mark> <mark style="color:yellow;"></mark>       Default FR Info <a href="#h.p667888cftma" id="h.p667888cftma"></a>
+### <mark style="color:blue;">3.2</mark>        Default FR Info <a href="#h.p667888cftma" id="h.p667888cftma"></a>
 
 A default `FRInfo` is stored in order to be backward compatible with ERC721 mint functions. It also has a function to update the `FRInfo`, assuming it has not been hard-coded.
 
@@ -488,17 +496,17 @@ Whenever a token is minted o-tokens will be distributed between the platform and
 
 Implementing a16z’s [CantBeEvil licensing](https://a16zcrypto.com/introducing-nft-licenses/) with a per-token ID modification allows each NFT minted on our contracts to have an immutable and on-chain license. Whenever each token is minted a license type is provided, which is then able to be retrieved at any time for that specific token ID with `getLicenseName` and `getLicenseURI`.
 
-### <mark style="color:blue;">3.</mark><mark style="color:blue;">**6**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark>       ERC721 Overrides <a href="#h.muwvdcauc8v2" id="h.muwvdcauc8v2"></a>
+### <mark style="color:blue;">3.</mark><mark style="color:blue;">**6**</mark>        ERC721 Overrides <a href="#h.muwvdcauc8v2" id="h.muwvdcauc8v2"></a>
 
 We override the ERC721 `_mint`, `_transfer`, and `_burn` functions. When overriding the `_mint`  function, a default FR model is established if the mint is to succeed when calling the ERC721 `_mint` function and not the nFR `_mint`  function. It is also to update the owner amount and directly add the recipient address to the FR cycle. When overriding the `_transfer` function, the smart contract will consider the NFT as sold for 0 ETH, and update state accordingly after a successful transfer. This is to prevent FR circumvention. Finally, when overriding the `_burn` function, the smart contract deletes the `FRInfo` corresponding to that Token ID after a successful burn.
 
 Additionally, the ERC721 `_checkOnERC721Received` function is explicitly called after mints and transfers if the smart contract aims to have safe transfers and mints.
 
-### <mark style="color:blue;">3.7</mark> <mark style="color:yellow;"></mark>       Safe Transfers <a href="#h.y5c8t8wqgv57" id="h.y5c8t8wqgv57"></a>
+### <mark style="color:blue;">3.7</mark>        Safe Transfers <a href="#h.y5c8t8wqgv57" id="h.y5c8t8wqgv57"></a>
 
 If the wallet/broker/auction application will accept safe transfers, then it  implements the ERC721 wallet interface.
 
-### <mark style="color:blue;">3.8</mark> <mark style="color:yellow;"></mark>       Listing, Unlisting, and Buying <a href="#h.epik9qj3qr61" id="h.epik9qj3qr61"></a>
+### <mark style="color:blue;">3.8</mark>        Listing, Unlisting, and Buying <a href="#h.epik9qj3qr61" id="h.epik9qj3qr61"></a>
 
 The `list`, `unlist`, and `buy` functions are implemented, and they provide the capability to sell a token.
 
@@ -522,7 +530,7 @@ The `unlist` function accepts a `tokenId` and it deletes the corresponding `List
 
 The `buy` function accepts a `tokenId` and is payable. It verifies that the `msg.value` matches the token’s `salePrice` and that the token is listed, before proceeding and calling the FR `_transferFrom` function. This is to ensure the values are valid and will also allow for the necessary FR to be held in the contract.
 
-### <mark style="color:blue;">3.9</mark> <mark style="color:yellow;"></mark>       Future Rewards  `_transferFrom`  Function
+### <mark style="color:blue;">3.9</mark>        Future Rewards  `_transferFrom`  Function
 
 The FR `transferFrom` function is called. It ensures backward compatibility for secondary platforms that do not support our nFR standard.&#x20;
 
@@ -600,7 +608,7 @@ In the example in _Figure 1_ in Section 2.2, detailed in _Table 2_ below, if an 
 
 When an owner loses money during their holding period, they will not be obligated to share Future Rewards distributions, since there is no profit to share. However, he still receives a share of Future Rewards distributions from future generations of owners, if they are profitable.
 
-![Figure 6: Future Rewards (nFR) distribution](.gitbook/assets/nFR\_Distribution.jpeg)
+![Figure 6: Future Rewards (nFR) distribution](../../images/nFR\_Distribution.jpeg)
 
 _Figure 6_ illustrates an example of a five-generation Future Rewards Distribution program based on an owner's realized profit.
 
@@ -682,7 +690,7 @@ At untrading.org, we aim to create a virtuous economic environment for the finan
 
 The untrading.org platform enables users to participate in a gift economy based on EIP-5173 published in June 2022 by iob.fi DAO. Although it is not a charity or philanthropic endeavor, it helps all of its users - the creators, buyers, and sellers - as well as the organization's stakeholders build greater wealth through each other's success. There is no longer a zero-sum game when it comes to trading.
 
-### <mark style="color:blue;">5.1</mark> <mark style="color:yellow;"></mark>       Getting Compensated to Participate in Price Discovery <a href="#h.rqo4d8vvcwy9" id="h.rqo4d8vvcwy9"></a>
+### <mark style="color:blue;">5.1</mark>        Getting Compensated to Participate in Price Discovery <a href="#h.rqo4d8vvcwy9" id="h.rqo4d8vvcwy9"></a>
 
 #### **Buyer and seller both earn more**
 

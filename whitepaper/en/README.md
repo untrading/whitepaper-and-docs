@@ -1,13 +1,15 @@
 ---
 description: >-
-  A permissionless, non-custodial DEX protocol that creates a gift economy by
-  forming non-fungible Flows also known as Giftchains.
+  We foster strong bonds and collective prosperity. Even after selling their
+  tokens, people can capture portions of the future price increases and maintain
+  a vested interest in the project.
+cover: >-
+  https://images.unsplash.com/photo-1559863345-02eae058c2c2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxoYXBweSUyMHdvbWFufGVufDB8fHx8MTY4Nzc5MDk1OXww&ixlib=rb-4.0.3&q=85
+coverY: 116
 ---
 
-# 🎨 Creators' Introduction
+# Welcome to untrading.org
 
-{% embed url="https://docs.google.com/presentation/d/1-MI_CMTU5tnnXLhfwLtJZTTPJZKaApYvazuSqzK4rg4/edit?usp=sharing" %}
-Enter full screen Ctrl+Shift+F
-{% endembed %}
+{% embed url="https://youtu.be/g83GUjraBsw" %}
 
-[View on Google Slides](https://docs.google.com/presentation/d/1-MI\_CMTU5tnnXLhfwLtJZTTPJZKaApYvazuSqzK4rg4/edit?usp=sharing).
+Discover the core concept of untrading.org: Community mutuality and strengthening. More for you is also more for me. Join us and be part of a thriving community committed to collective prosperity.

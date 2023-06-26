@@ -1,11 +1,12 @@
 # Table of contents
 
-* [🎨 Creators' Introduction](README.md)
-* [💡 Users' Guide](users-guide.md)
+* [Welcome to untrading.org](README.md)
 * [📃 Whitepaper](whitepaper.md)
 
 ## tutorial
 
+* [🎨 Creators' Introduction](tutorial/readme.md)
+* [💡 Users' Guide](tutorial/users-guide.md)
 * [🔍 How to Use the Polygon Network on Metamask on Chrome Extension](tutorial/how-to-use-the-polygon-network-on-metamask-on-chrome-extension.md)
 * [🔍 Registering and Being Verified on untrading.org](tutorial/registering-and-being-verified-on-untrading.org.md)
 * [🔍 Creating a SET](tutorial/creating-a-set.md)
