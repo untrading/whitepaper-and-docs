@@ -12,7 +12,7 @@ by Yale ReiSoleil, @dRadiant, D Wang, PhD
 
 July 2023
 
-_v. 1.6.8 beta_
+_v. 1.6.9 beta_
 
 ## Disclaimer <a href="#h.17v05jnu7qff" id="h.17v05jnu7qff"></a>
 
@@ -26,13 +26,13 @@ This paper is for general information purposes only. It does not constitute inve
 
 In one short sentence:
 
-> _"_[_**untrading.org**_](https://untrading.org) _**is a commission-free crypto investment protocol that enables token owners to participate in future price increases, even after selling their tokens.**"_
+> [_**untrading.org**_](https://untrading.org) _**is a commission-free crypto investment protocol that enables token owners to participate in future price increases, even after selling their tokens.**_
 
 untrading.org brings a revolutionary approach to trading, where token owners can continue to benefit from future price increases, even after selling their tokens. Unlike fee-based transaction models, untrading.org does not profit from users' losses, ensuring a fair and transparent trading environment. By prioritizing users' success and eliminating the zero-sum mentality, untrading.org creates a community-driven platform that promotes collective wealth and long-term prosperity.
 
 In more detail, here is what untrading.org is all about:
 
-> _“_[_**untrading.org**_](https://untrading.org/) _**revolutionizes the crypto exchange landscape by implementing**_ [_**ERC-5173**_](https://eips.ethereum.org/EIPS/eip-5173)_**, a Participatory Value Amplification framework. This protocol eliminates conflicts of interest by removing commissions, ends the zero-sum mentality with shared wealth creation, and connects buyers, sellers, and community members through an enhanced NFT framework.**”_
+> [_**untrading.org**_](https://untrading.org/) _**is a revolutionary commission-free crypto investment protocol utilizing**_ [_**ERC-5173**_](https://eips.ethereum.org/EIPS/eip-5173)_**, on-chain payments & licenses, a truly divisible NFT framework, and an upgradable multisignature contract protocol to create a participatory value amplification system, enabling token owners to benefit from future price increases even after selling their tokens, while eliminating conflicts of interest and promoting fairness and transparency in the asset transaction industry.**_
 
 untrading.org is not just another trading platform. It is a revolutionary commission-free crypto investment protocol that disrupts the traditional trading model. At its core is the implementation of ERC-5173, a groundbreaking solution that brings about a paradigm shift in the trading landscape.
 
