@@ -1,6 +1,6 @@
 ---
 description: >-
-  We foster strong bonds and collective prosperity. Even after selling their
+  We foster strong bonds and reward participation. Even after selling their
   tokens, people can capture portions of the future price increases and maintain
   a vested interest in the project.
 cover: >-
