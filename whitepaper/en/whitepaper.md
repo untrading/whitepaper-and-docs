@@ -4,7 +4,7 @@ description: 'Phase One: unNFTs & unCryptos'
 
 # 📃 Whitepaper
 
-<mark style="color:red;">**more for you is also more for me™**</mark>
+<mark style="color:green;">**more for you is also more for me™**</mark>
 
 <figure><img src=".gitbook/assets/untrading_logo.gif" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -84,7 +84,7 @@ Francois Baechtold
 
 
 
-## <mark style="color:red;">01</mark>        Introduction <a href="#h.5php9w692ai5" id="h.5php9w692ai5"></a>
+## <mark style="color:green;">01</mark>        Introduction <a href="#h.5php9w692ai5" id="h.5php9w692ai5"></a>
 
 Throughout history, the trading industry has been highly profitable for financial operators, while ordinary traders often face devastating consequences. Promised easy money, many fall victim to a zero-sum game, leaving their lives and savings shattered. But the challenges go beyond high fees. Unethical practices by platforms, insiders, and market manipulators have undermined trust in the system. Insider trading, frontrunning, and price manipulation are just a few tactics employed to exploit others and extract maximum value. As a result, individual traders endure substantial losses, and the integrity of the financial system suffers.
 
@@ -117,7 +117,7 @@ A proposed protocol called ERC-5173, introduced by untrading.org, aims to challe
 
 _This paper is organized into five sections. The remainder of this introduction provides a brief history of the current financial trading system and explains why trading can be considered a zero-sum game. The introduction then discusses why on-chain, trustless Flows can be created to end both the conflicts of interest between exchanges and their users, and as a way of ending the zero-sum game and converting it into a positive-sum game, and the use cases We describe and analyze the architecture of untrading.org in section 2. In section 3, the specific functions and mathematical formula for Future Rewards distribution are described in detail, along with the open-source Solidity code. In section 4, we discuss the security risks and fundamental challenges facing untrading.org. We also discuss specific vulnerabilities that could make this entire business concept useless if not addressed properly. A short summary concludes the paper in section 5._
 
-### <mark style="color:blue;">1.1</mark>        Philosophy <a href="#h.kplu6gt7s2fs" id="h.kplu6gt7s2fs"></a>
+### <mark style="color:green;">1.1</mark>        Philosophy <a href="#h.kplu6gt7s2fs" id="h.kplu6gt7s2fs"></a>
 
 > _"In capitalism, man exploits man. In communism, it's the opposite."_&#x20;
 >
@@ -129,7 +129,7 @@ To build a sustainable and equitable future, we must embrace a shared economic s
 
 In contrast, a winner-takes-all mentality fosters social and economic inequality, leading to social unrest, conflict, and a disregard for long-term sustainability. To foster a more just and harmonious society, we need a shared economics system that promotes social justice, acknowledges interdependence, and encourages long-term perspectives. This will pave the way for a more equitable, balanced, and sustainable future.
 
-### <mark style="color:blue;">1.2</mark>        History <a href="#h.kplu6gt7s2fs" id="h.kplu6gt7s2fs"></a>
+### <mark style="color:green;">1.2</mark>       History <a href="#h.kplu6gt7s2fs" id="h.kplu6gt7s2fs"></a>
 
 The current financial system is plagued by fraudulent techniques that exploit both the market and its participants. Techniques like spoofing, insider trading, front running, wash trading, and pump and dump create an uneven playing field where most traders are at a disadvantage. These practices, driven by emotions like greed and fear, ensure that the majority of participants will ultimately lose money.
 
@@ -141,7 +141,7 @@ This structure has perpetuated the transfer of wealth from the masses to a privi
 
 The current financial system has been designed to serve the interests of the wealthiest, prioritizing the exchange's profits over customer success. Research from the University of California reveals that only about 13% of day traders consistently earn profits, leaving the majority at a loss. Even the DeFi model, with its fixed 3% commission, perpetuates this historic imbalance in an automated and extended fashion.
 
-### <mark style="color:blue;">1.3</mark>       Rationale <a href="#h.2hsns6abcaef" id="h.2hsns6abcaef"></a>
+### <mark style="color:green;">1.3</mark>        Rationale <a href="#h.2hsns6abcaef" id="h.2hsns6abcaef"></a>
 
 The history of trading markets has been marred by an unequal distribution of value, but the advent of non-fungible tokens (NFTs) and the Flow blockchain presents an opportunity for a more equitable system.
 
@@ -153,13 +153,13 @@ Moreover, the Flow ecosystem provides relief for traders who have experienced lo
 
 With the aim of aligning the interests of all parties - the protocol, buyers, and sellers - untrading.org establishes a positive gift economy that rewards and incentivizes participants fairly. The platform seeks to bring a touch of magic and excitement to the world of (un)trading. The non-fungible Future Reward (nFR) framework is an integral part of this effort to create a new paradigm that fosters fairness and equality in trading.
 
-### <mark style="color:blue;">1.4</mark>        Introducing A Participatory Value Amplification (PVA) Framework <a href="#h.s6ava0wuzykt" id="h.s6ava0wuzykt"></a>
+### <mark style="color:green;">1.4</mark>        Introducing A Participatory Value Amplification (PVA) Framework <a href="#h.s6ava0wuzykt" id="h.s6ava0wuzykt"></a>
 
 The PVA Framework combines the best aspects of investment and trading, offering the flexibility and control of traditional trading alongside the rewards and benefits of a lifetime royalty system. With untrading.org, you are not compelled to trade for platform fees and can hold onto your high-quality assets for as long as you desire. Even if you choose to sell, you can still receive a portion of future profits if the price continues to rise. Join the Flow community today to experience these advantages.
 
 Operating on the principles of giving and receiving, the PVA Framework emphasizes community interdependence and delayed reciprocity. Unlike traditional trading platforms, the Flow does not adhere to a quid pro quo system. Instead, it embraces the concept that when others succeed, you benefit even more. Within this circle of giving, participants may receive more than they give over time. This shared objective transforms the traditional dynamics of platform versus user and user versus user relationships into a unified objective.
 
-### <mark style="color:blue;">1.6</mark>        Pay Only After Making a Profit <a href="#h.x5hek4s7c18r" id="h.x5hek4s7c18r"></a>
+### <mark style="color:green;">1.5</mark>        Pay Only After Making a Profit <a href="#h.x5hek4s7c18r" id="h.x5hek4s7c18r"></a>
 
 At untrading.org, we advocate for trading platforms that do not charge users for losses. Instead, we have adopted a hedge fund-inspired incentive fee model where users only pay if their transactions are profitable.
 
@@ -169,7 +169,7 @@ This approach not only creates a more equitable trading environment but also dis
 
 Join the PVA Framework and become part of a fair trading system that prioritizes community and shared goals.
 
-### <mark style="color:blue;">1.7</mark>        Use Cases <a href="#h.o4p39l4e3q7k" id="h.o4p39l4e3q7k"></a>
+### <mark style="color:green;">1.6</mark>       Use Cases <a href="#h.o4p39l4e3q7k" id="h.o4p39l4e3q7k"></a>
 
 #### **Original NFT**
 
@@ -201,7 +201,7 @@ As there are no technical specifications governing what can be wrapped for listi
 
 The investors' confidence in the new funding increases since the founders' financial incentives are truly linked to the investor's profitability, in addition, rug-pulling is prevented.
 
-### <mark style="color:blue;">1.8</mark>        Definitions <a href="#h.o4p39l4e3q7k" id="h.o4p39l4e3q7k"></a>
+### <mark style="color:green;">1.7</mark>       Definitions <a href="#h.o4p39l4e3q7k" id="h.o4p39l4e3q7k"></a>
 
 **Non-fungible Future Reward Protocol (nFR):** Also known as Ethereum Improvement Proposal (EIP-5173), nFR is an ERC721 token extension that  enables owners of EIP-721 tokens (NFTs) to participate in future price increases after they sell their tokens, resulting in more for you is also more for me.
 
@@ -227,11 +227,11 @@ The investors' confidence in the new funding increases since the founders' finan
 
 **Total nFR Paid:** The number of ORs and FRs an active un-token has generated for its creator, all previous owners, and its current owner. In contrast to the traditional Daily Volume and Total Trading Volume that are mostly self-serving exchange metrics, the Total nFR Paid is one of the most important protocol success metrics for untrading.org. This metric is listed on every minted unNFT details page.
 
-## <mark style="color:red;">02</mark>        Architecture <a href="#h.dn642dhamgzt" id="h.dn642dhamgzt"></a>
+## <mark style="color:green;">02</mark>        Architecture <a href="#h.dn642dhamgzt" id="h.dn642dhamgzt"></a>
 
 For each listed token, the untrading.org protocol consists of two or three tokens: 1) the main listed un-token, and it is always accompanied by 2) the unlisted minter, or creator token, the o-token, and 3) if the un-token is backed by an existing third-party NFT the Minter owns, the third-party NFT locked in the escrow contract’s multisig, multi-party vault.
 
-### <mark style="color:blue;">2.1</mark>        The o-tokens <a href="#h.v2ngx7e84l7r" id="h.v2ngx7e84l7r"></a>
+### <mark style="color:green;">2.1</mark>        The o-tokens <a href="#h.v2ngx7e84l7r" id="h.v2ngx7e84l7r"></a>
 
 Aside from listed tokens, o-tokens also are issued to artists if they are minting an original NFT, and to the owner of a blue-chip NFT as the Minter on untrading.org. Owners of o-tokens are entitled to receive royalties.
 
@@ -252,7 +252,7 @@ Although it is the Minter's privilege to set these ratios, setting these ratios 
 
 The royalty portion of the profit-sharing plan will be partially based on EIP-2981 \[1] and some functionalities in the draft proposal of EIP-4910 \[2]. The untrading.org protocol will implement an improved on-chain, cross-platform royalty payment mechanism with the introduction of an o-token.
 
-### <mark style="color:blue;">2.2</mark>        The un-tokens <a href="#h.jil64evym007" id="h.jil64evym007"></a>
+### <mark style="color:green;">2.2</mark>        The un-tokens <a href="#h.jil64evym007" id="h.jil64evym007"></a>
 
 As a result of the minting process described below, untrading.org non-fungible tokens bear a prefix of "un."
 
@@ -333,7 +333,7 @@ Even for Owner #4, the biggest loser in our example, the FRs received from #5, #
 
 See Table 2 in the Specification section for a detailed illustration.
 
-### <mark style="color:blue;">2.3</mark>        Minting <a href="#h.ocqixsbeplyi" id="h.ocqixsbeplyi"></a>
+### <mark style="color:green;">2.3</mark>        Minting <a href="#h.ocqixsbeplyi" id="h.ocqixsbeplyi"></a>
 
 On untrading.org, users can mint original artwork or wrap existing NFTs into nFR-compliant unNFTs.
 
@@ -381,13 +381,13 @@ In the event an unwrapping resolution is passed, a multisignature-unwrapping sig
 
 The unNFT smart contract multisig component is built in combination with Gnosis Safe smart contracts.
 
-### <mark style="color:blue;">2.4</mark>        Burning <a href="#h.bio675l31tr" id="h.bio675l31tr"></a>
+### <mark style="color:green;">2.4</mark>       Burning <a href="#h.bio675l31tr" id="h.bio675l31tr"></a>
 
 Burning refers to the action of redeeming unNFT for the underlying NFT tokens. Only if the unwrapping process was approved can the unNFT tokens be burnt. In order to do so, the burn function is called in the contract with the number of tokens to be burnt on the Ethereum chain. By doing so, the amount is deducted from the unNFT balance (on-chain) held by the last owner’s wallet.&#x20;
 
 Additionally, the o-tokens associated with the unNFT will also be burnt on the blockchain.
 
-## <mark style="color:red;">03</mark>        Specification <a href="#h.sdzwoztnri38" id="h.sdzwoztnri38"></a>
+## <mark style="color:green;">03</mark>        Specification <a href="#h.sdzwoztnri38" id="h.sdzwoztnri38"></a>
 
 We are implementing our EIP-5173 extension using the ERC721 standard, with additional extensions proposed by EIP-2981 and EIP-4910 for on-chain royalty distribution.
 
@@ -458,37 +458,37 @@ Additionally, there exists a `ListInfo` struct mapping with a corresponding func
 
 The amount of Ether allocated to a specific address using the `_allottedFR` mapping is constantly updated. The `_allottedFR` mapping is either public or has a function to fetch the FR payment allotted to a specific address.
 
-### <mark style="color:blue;">3.1</mark>        Percent Fixed Point <a href="#h.7xn6jwxzmyty" id="h.7xn6jwxzmyty"></a>
+### <mark style="color:green;">3.1</mark>        Percent Fixed Point <a href="#h.7xn6jwxzmyty" id="h.7xn6jwxzmyty"></a>
 
 The `allocatedFR` is calculated using a percentage fixed point with a scaling factor of 1e18 (X/1e18) - such as "5e16" - for 5%. This is to maintain uniformity across the standard. The max and min values would be – 1e18 - 1.
 
-### <mark style="color:blue;">3.2</mark>        Default FR Info <a href="#h.p667888cftma" id="h.p667888cftma"></a>
+### <mark style="color:green;">3.2</mark>        Default FR Info <a href="#h.p667888cftma" id="h.p667888cftma"></a>
 
 A default `FRInfo` is stored in order to be backward compatible with ERC721 mint functions. It also has a function to update the `FRInfo`, assuming it has not been hard-coded.
 
-### <mark style="color:blue;">**3.3**</mark>**       EIP-2535 Diamonds Upgradability and Modularity**
+### <mark style="color:green;">**3.3**</mark>**       EIP-2535 Diamonds Upgradability and Modularity**
 
 The codebase is broken up into facets with their respective facet storages using the Diamond storage pattern as defined in [EIP-2535](https://eips.ethereum.org/EIPS/eip-2535). The central diamond serves as the core contract and stores all of the contract data. This allows the entire contract’s functionality to be completely upgradable and modular. As the diamond contract has no functions but rather references a deployment of a facet. An access system is implemented which allows a designated address (or contract) to call the `diamondCut` function to modify the contract.
 
-### <mark style="color:blue;">3.4</mark>      o-tokends
+### <mark style="color:green;">3.4</mark>     o-tokends
 
 Whenever a token is minted o-tokens will be distributed between the platform and the minter with `_distributeOTokens` internally. Balances and info for a given token ID can be retrieved with `retrieveORInfo` and `balanceOfOTokens`. OR rewards for a given address can be retrieved with `retrieveAllottedOR` and claimed with `releaseOR`. Additionally, `transferOTokens` can be used to transfer one’s o-tokens. Finally, whenever a profitable sale has been made `_distributeOR` is triggered.
 
-### <mark style="color:blue;">3.5</mark>       On-chain Licensing
+### <mark style="color:green;">3.5</mark>       On-chain Licensing
 
 Implementing a16z’s [CantBeEvil licensing](https://a16zcrypto.com/introducing-nft-licenses/) with a per-token ID modification allows each NFT minted on our contracts to have an immutable and on-chain license. Whenever each token is minted a license type is provided, which is then able to be retrieved at any time for that specific token ID with `getLicenseName` and `getLicenseURI`.
 
-### <mark style="color:blue;">3.</mark><mark style="color:blue;">**6**</mark>        ERC721 Overrides <a href="#h.muwvdcauc8v2" id="h.muwvdcauc8v2"></a>
+### <mark style="color:green;">3.</mark><mark style="color:green;">**6**</mark>        ERC721 Overrides <a href="#h.muwvdcauc8v2" id="h.muwvdcauc8v2"></a>
 
 We override the ERC721 `_mint`, `_transfer`, and `_burn` functions. When overriding the `_mint`  function, a default FR model is established if the mint is to succeed when calling the ERC721 `_mint` function and not the nFR `_mint`  function. It is also to update the owner amount and directly add the recipient address to the FR cycle. When overriding the `_transfer` function, the smart contract will consider the NFT as sold for 0 ETH, and update state accordingly after a successful transfer. This is to prevent FR circumvention. Finally, when overriding the `_burn` function, the smart contract deletes the `FRInfo` corresponding to that Token ID after a successful burn.
 
 Additionally, the ERC721 `_checkOnERC721Received` function is explicitly called after mints and transfers if the smart contract aims to have safe transfers and mints.
 
-### <mark style="color:blue;">3.7</mark>        Safe Transfers <a href="#h.y5c8t8wqgv57" id="h.y5c8t8wqgv57"></a>
+### <mark style="color:green;">3.7</mark>        Safe Transfers <a href="#h.y5c8t8wqgv57" id="h.y5c8t8wqgv57"></a>
 
 If the wallet/broker/auction application will accept safe transfers, then it  implements the ERC721 wallet interface.
 
-### <mark style="color:blue;">3.8</mark>        Listing, Unlisting, and Buying <a href="#h.epik9qj3qr61" id="h.epik9qj3qr61"></a>
+### <mark style="color:green;">3.8</mark>        Listing, Unlisting, and Buying <a href="#h.epik9qj3qr61" id="h.epik9qj3qr61"></a>
 
 The `list`, `unlist`, and `buy` functions are implemented, and they provide the capability to sell a token.
 
@@ -512,7 +512,7 @@ The `unlist` function accepts a `tokenId` and it deletes the corresponding `List
 
 The `buy` function accepts a `tokenId` and is payable. It verifies that the `msg.value` matches the token’s `salePrice` and that the token is listed, before proceeding and calling the FR `_transferFrom` function. This is to ensure the values are valid and will also allow for the necessary FR to be held in the contract.
 
-### <mark style="color:blue;">3.9</mark>        Future Rewards  `_transferFrom`  Function
+### <mark style="color:green;">3.9</mark>        Future Rewards  `_transferFrom`  Function
 
 The FR `transferFrom` function is called. It ensures backward compatibility for secondary platforms that do not support our nFR standard.&#x20;
 
@@ -524,7 +524,7 @@ function _transferFrom(address from, address to, uint256 tokenId, uint256 soldPr
 
 Based on the stored `lastSoldPrice`, the smart contract will determine whether the sale was profitable after calling the ERC721 transfer function and transferring the NFT. If it was not profitable, the smart contract updates the last sold price for the corresponding Token ID, increments the owner amount, shifts the generations, and transfers all of the `msg.value` to the `lister` depending on the implementation. Otherwise, if the transaction was profitable, the smart contract calls the `_distributeFR` function, then updates the `lastSoldPrice`, increments the owner amount, and finally shifts generations. The `_distributeFR` function returns the difference between the allocated FR that is to be distributed amongst the `_addressesInFR` and the `msg.value` to the `lister`.
 
-### <mark style="color:blue;">3.10</mark>        Distribution of NFT Royalties to Artists and Creators <a href="#h.94w0lmnqe8uq" id="h.94w0lmnqe8uq"></a>
+### <mark style="color:green;">3.10</mark>       Distribution of NFT Royalties to Artists and Creators <a href="#h.94w0lmnqe8uq" id="h.94w0lmnqe8uq"></a>
 
 #### **On-chain royalty distribution**
 
@@ -604,7 +604,7 @@ function _distributeFR(uint256 tokenId, uint256 soldPrice) internal virtual {
 
 The `_distributeFR` function is called in the FR `transferFrom` function if there is a profitable sale. The function calculates the difference between the current sale price and the `lastSoldPrice`, then it calls the `_calculateFR` function to receive the proper distribution of FR. Then it distributes the FR accordingly, making order adjustments as necessary. Then, the contract calculates the total amount of FR that was distributed (`allocatedFR`), in order to return the difference of the `soldPrice` and `allocatedFR` to the `lister`. Finally, it emits the `FRDistributed` event.
 
-### <mark style="color:blue;">3.11</mark>        Future Rewards Claiming <a href="#h.okyrx5dxooc3" id="h.okyrx5dxooc3"></a>
+### <mark style="color:green;">3.11</mark>        Future Rewards Claiming <a href="#h.okyrx5dxooc3" id="h.okyrx5dxooc3"></a>
 
 The future Rewards payments utilize a pull-payment model, similar to that demonstrated by OpenZeppelin with their PaymentSplitter contract. The event `FRClaimed` would be triggered after a successful claim has been made.
 
@@ -614,23 +614,23 @@ function releaseFR(address payable account) public virtual override {
 }
 ```
 
-### <mark style="color:blue;">3.12</mark>        Generation Shifting of Owner <a href="#h.egicuxvwhm1y" id="h.egicuxvwhm1y"></a>
+### <mark style="color:green;">3.12</mark>       Generation Shifting of Owner <a href="#h.egicuxvwhm1y" id="h.egicuxvwhm1y"></a>
 
 The `_shiftGenerations` function is called regardless of whether the sale was profitable or not. As a result, it will be called in the `_transfer` ERC721 override function and the FR `transferFrom` function. The function removes the oldest account from the corresponding  `_addressesInFR` array. This calculation will take into account the current length of the array versus the total number of generations for a given token ID.
 
-## <mark style="color:red;">04</mark>        Challenges <a href="#h.pz2qg6x3jpj5" id="h.pz2qg6x3jpj5"></a>
+## <mark style="color:green;">04</mark>        Challenges <a href="#h.pz2qg6x3jpj5" id="h.pz2qg6x3jpj5"></a>
 
 As a cryptocurrency payment facilitator, untrading.org faces the same security risks as other blockchain projects. As the untrading.org platform is built upon a mutually beneficial relationship between the chain of ownership, wash trading poses a challenge to the validity of the entire concept. The promise and advantages of the platform could be undermined if the fake ownership issue is not addressed and mitigated.
 
-### <mark style="color:blue;">4.1</mark>        Payment Attacks <a href="#h.s0lg58qd2yq9" id="h.s0lg58qd2yq9"></a>
+### <mark style="color:green;">4.1</mark>        Payment Attacks <a href="#h.s0lg58qd2yq9" id="h.s0lg58qd2yq9"></a>
 
 As this EIP introduces royalty and realized profit rewards collection, distribution, and payouts to the ERC721 standard, the attack vectors increase. As discussed in EIP-4910 and other mitigations to phishing attacks by Andreas Freund, we recommend reentrancy protection for all payment functions to reduce the most significant attack vectors for payments and payouts.
 
-### <mark style="color:blue;">4.2</mark>        Royalty Circumventing <a href="#h.h53k0k6nm2lb" id="h.h53k0k6nm2lb"></a>
+### <mark style="color:green;">4.2</mark>      Royalty Circumventing <a href="#h.h53k0k6nm2lb" id="h.h53k0k6nm2lb"></a>
 
 Many methods are being used to avoid paying royalties to creators under the current ERC721 standard. Through an under-the-table transaction, the new buyer's cost basis will be reduced to zero, increasing their FR liability to the full selling price. Everyone, either the buyer or seller, would pay a portion of the previous owner's net realized profits ( P x r ). Acting in their own interests, the buyer rejects any loyalty circumventing or false price reporting proposal from the seller.
 
-### <mark style="color:blue;">4.3</mark>        FR Hoarding through Wash Sales <a href="#h.ikri8ptl69nn" id="h.ikri8ptl69nn"></a>
+### <mark style="color:green;">4.3</mark>        FR Hoarding through Wash Sales <a href="#h.ikri8ptl69nn" id="h.ikri8ptl69nn"></a>
 
 Quantexa blog \[3] and BeInCrypto \[4] articles have reported widespread wash trading on all unregulated cryptocurrency trading platforms and NFT marketplaces. The use of wash trading by dishonest actors can lead to an unfair advantage, as well as inflated prices and money laundering. When a single entity becomes multiple generations of owners to accumulate more rewards in the future, the validity of the system is undermined.
 
@@ -666,13 +666,13 @@ However, the biggest offender appears to be the marketplace, which engages heavi
 
 It is common for these companies to engage in wash trading independently or collude with certain users, and royalties and FR payments are reimbursed under the table. Moreover, we pledge to uphold the no-fraud policy and will implement robust tools to prevent self-trading, which will facilitate users' ability to observe our business practices in a transparent manner. With untrading.org, customers will be able to access on-chain transaction monitoring services, including Chainalysis Reactor and Nansen, for free.
 
-## <mark style="color:red;">05</mark>        Summary <a href="#h.10bykgn0hh1c" id="h.10bykgn0hh1c"></a>
+## <mark style="color:green;">05</mark>       Summary <a href="#h.10bykgn0hh1c" id="h.10bykgn0hh1c"></a>
 
 At untrading.org, we aim to create a virtuous economic environment for the financial sector, removing conflicts of interest between exchanges and their users and ending zero-sum trading.
 
 The untrading.org platform enables users to participate in a gift economy based on EIP-5173 published in June 2022 by iob.fi DAO. Although it is not a charity or philanthropic endeavor, it helps all of its users - the creators, buyers, and sellers - as well as the organization's stakeholders build greater wealth through each other's success. There is no longer a zero-sum game when it comes to trading.
 
-### <mark style="color:blue;">5.1</mark>        Getting Compensated to Participate in Price Discovery <a href="#h.rqo4d8vvcwy9" id="h.rqo4d8vvcwy9"></a>
+### <mark style="color:green;">5.1</mark>        Getting Compensated to Participate in Price Discovery <a href="#h.rqo4d8vvcwy9" id="h.rqo4d8vvcwy9"></a>
 
 #### **Buyer and seller both earn more**
 
@@ -686,11 +686,11 @@ In every stage of the token's ownership history, untrading.org builds a profit-s
 
 Be the first to establish the price discovery process for a potential valuable item, or to upgrade a blue-chip NFT you already own, by minting it to receive a perpetual on-chain royalty payments, plus the enhanced Future Rewards by defining the terms of such reward rules.
 
-### <mark style="color:blue;">5.2</mark>       On-chain Royalty & FR Payments <a href="#h.jnuu1wou4dfg" id="h.jnuu1wou4dfg"></a>
+### <mark style="color:green;">5.2</mark>        On-chain Royalty & FR Payments <a href="#h.jnuu1wou4dfg" id="h.jnuu1wou4dfg"></a>
 
 The Future Rewards framework is based on smart contract rules on-chain, not relying on off-chain rules that may or may not be implemented by various marketplaces;
 
-### <mark style="color:blue;">5.3</mark>        New Trading Platform Model <a href="#h.tujj5q3ywqn" id="h.tujj5q3ywqn"></a>
+### <mark style="color:green;">5.3</mark>       New Trading Platform Model <a href="#h.tujj5q3ywqn" id="h.tujj5q3ywqn"></a>
 
 For untrading.org to be successful, several key technical and operational components must be integrated:
 
@@ -699,7 +699,7 @@ For untrading.org to be successful, several key technical and operational compon
 * Secure smart contracts and multisig wallets for on-chain payments that are safe and fast;
 * A mechanism for detecting wash trades and a voting system for policing and updating the rules on the iob.fi DAO. &#x20;
 
-### <mark style="color:blue;">5.4</mark>        A New Era <a href="#h.bb1agjf40cyb" id="h.bb1agjf40cyb"></a>
+### <mark style="color:green;">5.4</mark>        A New Era <a href="#h.bb1agjf40cyb" id="h.bb1agjf40cyb"></a>
 
 Since the new technology building blocks are ready, it is finally possible to do this with the non-fungible token standard and several extensions, including our EIP-5173.&#x20;
 
@@ -707,7 +707,7 @@ As a next-generation exchange, untrading.org builds on a gift economic model whe
 
 When all market participants adopt this platform, it has the potential to reach far beyond the art world, with the market being worth hundreds of billions of dollars.
 
-### <mark style="color:blue;">5.5</mark>        Community Powered & Powering the Community <a href="#h.bb1agjf40cyb" id="h.bb1agjf40cyb"></a>
+### <mark style="color:green;">5.5</mark>        Community Powered & Powering the Community <a href="#h.bb1agjf40cyb" id="h.bb1agjf40cyb"></a>
 
 We believe that crypto success to date has been built on the community generating value, yet when we trade we rely on archaic models of a zero-sum game, where one person's gain in a transaction is another's loss.&#x20;
 
