@@ -16,7 +16,7 @@ _v. 1.6.9 beta_
 
 
 
-<figure><img src=".gitbook/assets/untrading_logo_ani_on_light_no_bg3000x1500.gif" alt=""><figcaption><p>untrading.org</p></figcaption></figure>
+<figure><img src=".gitbook/assets/untrading_logo_on_light_w_bg1080x540.gif" alt=""><figcaption><p>untrading.org logo</p></figcaption></figure>
 
 ## Disclaimer <a href="#h.17v05jnu7qff" id="h.17v05jnu7qff"></a>
 
