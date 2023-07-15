@@ -8,13 +8,15 @@ description: 'Phase One: unNFTs & unCryptos'
 
 
 
-<figure><img src=".gitbook/assets/untrading_logo_ani_faster_landscape.gif" alt=""><figcaption></figcaption></figure>
-
 by Yale ReiSoleil, @dRadiant, D Wang, PhD
 
 July 2023
 
 _v. 1.6.9 beta_
+
+
+
+<figure><img src=".gitbook/assets/untrading_logo_ani_on_light_no_bg3000x1500.gif" alt=""><figcaption><p>untrading.org</p></figcaption></figure>
 
 ## Disclaimer <a href="#h.17v05jnu7qff" id="h.17v05jnu7qff"></a>
 
