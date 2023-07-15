@@ -6,7 +6,9 @@ description: 'Phase One: unNFTs & unCryptos'
 
 <mark style="color:green;">**more for you is also more for me™**</mark>
 
-<figure><img src=".gitbook/assets/untrading_logo.gif" alt="" width="563"><figcaption></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/untrading_logo_ani_faster_landscape.gif" alt=""><figcaption></figcaption></figure>
 
 by Yale ReiSoleil, @dRadiant, D Wang, PhD
 
