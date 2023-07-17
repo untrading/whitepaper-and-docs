@@ -10,6 +10,8 @@ coverY: 116
 
 # Welcome to untrading.org
 
-{% embed url="https://youtu.be/g83GUjraBsw" %}
+{% embed url="https://youtu.be/C0psKsiO7XQ" %}
+[untrading.org](https://untrading.org) is a commission-free crypto investment protocol that enables token owners to participate in future price increases, even after selling their tokens.
+{% endembed %}
 
-Discover the core concept of untrading.org: Community mutuality and strengthening. More for you is also more for me. Join us and be part of a thriving community committed to collective prosperity.
+untrading.org brings a revolutionary approach to trading, where token owners can continue to benefit from future price increases, even after selling their tokens. Unlike fee-based transaction models, untrading.org does not profit from users' losses, ensuring a fair and transparent trading environment. By prioritizing users' success and eliminating the zero-sum mentality, untrading.org creates a community-driven platform that promotes collective wealth and long-term prosperity.
