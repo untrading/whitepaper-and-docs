@@ -1,5 +1,5 @@
 ---
-description: 'Last Updated: October 16, 2022'
+description: 'Last Updated: July 18, 2023'
 ---
 
 # 🔏 Privacy Policy
@@ -29,9 +29,11 @@ If you sign up to use our App, we collect your
 
 The User **may** elect to provide their:
 
-* Full name,
-* Location,
-* Biographical information,
+* Full name
+* Location
+* Email address
+* Phone number
+* Biographical information
 * Social media handles
 * Other websites
 
@@ -103,9 +105,8 @@ We also collect basic analytics data through Cookies when you access or use the 
 
 ### A. How we use Cookies <a href="#_afozs1wi7ud" id="_afozs1wi7ud"></a>
 
-* **Functionality:** Our App uses Cookies to ensure the App functions properly, including page loads or our chat feature.
-* **Performance and Analytics:** Our App uses Cookies to gather usage and performance data. This enables us to monitor and improve the Appâ€™s performance, our services, and your experience.
-* **Marketing:** We use cookies to better provide more relevant offers and ads to our users. We also keep track of user data to refine our marketing strategies and tactics. Most marketing data is automated and anonymous.
+* **Functionality:** Our App uses Cookies to ensure the App functions properly, including streamlined login, page loads, and our blockchain interface features.
+* **Performance and Analytics:** Our App uses Cookies to gather usage and performance data. This enables us to monitor and improve the app's performance, our services, and your experience.
 * **Google Analytics:** We use Google Analytics to understand how users interact with the App and serve you information about products or services we think you may like. You can find out more about Google Analytics and how to opt-out[ here](https://support.google.com/analytics/answer/181881?hl=en).
 
 ### B. How you can control Cookies <a href="#_b5w07j9gw3k2" id="_b5w07j9gw3k2"></a>
