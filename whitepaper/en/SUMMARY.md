@@ -3,6 +3,9 @@
 * [Welcome to untrading.org](README.md)
 * [👩💻 Redefining Asset Transactions with Enhanced Transparency and Ownership History](redefining-asset-transactions-with-enhanced-transparency-and-ownership-history.md)
 * [📃 Whitepaper](whitepaper.md)
+* [📣 Community Guidelines](community-guidelines.md)
+* [🔠 Terms of Service](terms-of-service.md)
+* [🔏 Privacy Policy](privacy-policy.md)
 
 ## tutorial
 
@@ -21,12 +24,6 @@
 
 * [❔ General](faqs/general.md)
 * [❔ Signing Up](faqs/signing-up.md)
-
-## Legal
-
-* [📣 Community Guidelines](legal/community-guidelines.md)
-* [🔠 Terms of Service](legal/terms-of-service.md)
-* [🔏 Privacy Policy](legal/privacy-policy.md)
 
 ## 中文资料
 

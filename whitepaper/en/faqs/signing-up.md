@@ -21,7 +21,7 @@ Wash trading is a type of market manipulation in which a trader buys and sells a
 There are several ways to prevent wash trading:
 
 1. Implementing strict trade monitoring: By monitoring trades and identifying patterns that may indicate wash trading, untrading.org can prevent this type of market manipulation.
-2. Establishing rules and regulations: untrading.org establishes rules and regulations that prohibit wash trading and establish penalties for users who engage in this type of activity. Please see our [Community Guidelines](../legal/community-guidelines.md) for and [Terms of Service](../legal/terms-of-service.md) for more information.&#x20;
+2. Establishing rules and regulations: untrading.org establishes rules and regulations that prohibit wash trading and establish penalties for users who engage in this type of activity. Please see our [Community Guidelines](../community-guidelines.md) for and [Terms of Service](../terms-of-service.md) for more information.&#x20;
 3. Utilizing surveillance technology: Advanced surveillance technology can help exchanges identify and prevent wash trading by analyzing trade data and detecting unusual patterns or anomalies.
 4. Enforcing strict penalties: By imposing strict penalties on users who engage in wash trading, untrading.org can discourage this type of behavior and create a more fair and transparent market.
 5. Publish transparent reporting: untrading.org will publish regular transaction activity findings and provide transparent reporting in order to prevent wash trading.
