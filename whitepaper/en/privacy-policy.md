@@ -16,7 +16,7 @@ Before using the Service or submitting any personal information to untrading.org
 **For all other inquiries related to privacy please email privacy@untrading.org.**
 {% endhint %}
 
-## <mark style="color:red;">01</mark>   Personal Identifiable Information Collection <a href="#_xqdaqncnndyr" id="_xqdaqncnndyr"></a>
+## <mark style="color:green;">01</mark>   Personal Identifiable Information Collection <a href="#_xqdaqncnndyr" id="_xqdaqncnndyr"></a>
 
 We may collect information reasonably capable of identifying you as an individual (“**Personally Identifiable Information**” or PII). PII does not include anonymous or de-identified aggregated information that does not identify you as an individual.
 
@@ -58,7 +58,7 @@ We may use the following technologies to collect Internet Activity Information:
 
 We Collect from Publicly Available Sources: We may collect identification information about you from publicly available blockchain networks, such as the Ethereum blockchain.
 
-## <mark style="color:red;">02</mark>   What We Do with Personally Identifiable Information We Collect <a href="#_ttk3kjj0f69y" id="_ttk3kjj0f69y"></a>
+## <mark style="color:green;">02</mark>   What We Do with Personally Identifiable Information We Collect <a href="#_ttk3kjj0f69y" id="_ttk3kjj0f69y"></a>
 
 We use the PII we collect from users to:
 
@@ -80,7 +80,7 @@ We also use data collected to meet our Compliance and Protection policies, inclu
 * Audit our compliance with legal and contractual requirements and internal policies; and
 * Prevent, identify, investigate and deter fraudulent, harmful, unauthorized, unethical or illegal activity, including cyberattacks and identity theft.
 
-## <mark style="color:red;">03</mark>  When We May Share Personal Information <a href="#_s3waj0b9bfid" id="_s3waj0b9bfid"></a>
+## <mark style="color:green;">03</mark>   When We May Share Personal Information <a href="#_s3waj0b9bfid" id="_s3waj0b9bfid"></a>
 
 We rely on service providers to make some of the App’s features work, including our website providers or the companies that support the chat, intercom, or customer service features. These providers may have access to the PII we collect so they can do this work on our behalf. We work hard to ensure these providers only access and use your information as necessary to perform their functions. We do not guarantee that other Apps follow best privacy practices.
 
@@ -99,7 +99,7 @@ We may share personal information with:
 
 Your transactions through the Service will be recorded on the blockchain and associated with your wallet ID.
 
-## <mark style="color:red;">04</mark>   Cookies <a href="#_dc8xrq9milpt" id="_dc8xrq9milpt"></a>
+## <mark style="color:green;">04</mark>   Cookies <a href="#_dc8xrq9milpt" id="_dc8xrq9milpt"></a>
 
 We also collect basic analytics data through Cookies when you access or use the App. A “**Cookie**” is a small piece of data or text file stored on the local hard disk of your computer or mobile device. These include our own first-party Cookies and third-party Cookies. Some Cookies are only stored temporarily and destroyed each time you close your web browser. Others may remain on your browser and may collect and store data for a period of time after you have left the App.
 
@@ -123,7 +123,7 @@ You may opt out of interest-based advertising in general by visiting the[ Digita
 
 If you block cookies, some features that make the App function property may not work and your experience may be affected.
 
-## <mark style="color:red;">05</mark>   On-Chain Data and Metadata <a href="#_e4co3pn19xr2" id="_e4co3pn19xr2"></a>
+## <mark style="color:green;">05</mark>   On-Chain Data and Metadata <a href="#_e4co3pn19xr2" id="_e4co3pn19xr2"></a>
 
 By using untrading.org you acknowledge that your PII, including your Ethereum wallet address, is stored on the publicly searchable Ethereum blockchain and that neither untrading.org nor any third party, has any power to delete such data published by its User’s to the Ethereum blockchain. You hereby release and indemnify untrading.org of any data privacy liability associated with data that you published to the Ethereum blockchain by using untrading.org.
 
@@ -135,7 +135,7 @@ No entity, including untrading.org, is capable of modifying or deleting data tha
 
 By using the untrading.org App as an Originator, you may voluntarily embed PII in the Metadata of any minted unNFT(s) or in the media content referenced by the unNFT. All information embedded in the Metadata will not be available for deletion and there is no reasonable expectation of privacy for any PII put in the Metadata or the media content referenced by the unNFT. The Users and Parties associated with the minting, sale, transfer, and use of unNFT(s) are solely responsible for ensuring their PII or other sensitive data are properly protected.
 
-## <mark style="color:red;">06</mark>  Your Rights <a href="#_mb2c5drhgn2p" id="_mb2c5drhgn2p"></a>
+## <mark style="color:green;">06</mark>   Your Rights <a href="#_mb2c5drhgn2p" id="_mb2c5drhgn2p"></a>
 
 ### A. GDPR <a href="#_l6oqaoeq2bve" id="_l6oqaoeq2bve"></a>
 
@@ -158,25 +158,25 @@ You can unsubscribe from commercial or marketing communications from us by follo
 * **Third-party marketing**: We do not provide your information to third parties for their direct marketing purposes. However, we may share aggregate or other information that no longer personally identifies you with other parties for our business purposes, marketing, analytics, research, or other uses.
 * **Do not track**: In the absence of a uniform industry standard for detecting and regulating these signals, we cannot respond to “Do Not Track” settings from browsers.
 
-## <mark style="color:red;">07</mark>   Security <a href="#_muszwj15xtlx" id="_muszwj15xtlx"></a>
+## <mark style="color:green;">07</mark>   Security <a href="#_muszwj15xtlx" id="_muszwj15xtlx"></a>
 
 We employ a number of technical, organizational and physical safeguards designed to protect the personal information we collect. However, no security measures are failsafe and we cannot guarantee the security of your personal information and you use the Service at your own risk.
 
-## <mark style="color:red;">08</mark>   Minors and Children <a href="#_59slzyxnnjp6" id="_59slzyxnnjp6"></a>
+## <mark style="color:green;">08</mark>   Minors and Children <a href="#_59slzyxnnjp6" id="_59slzyxnnjp6"></a>
 
 **The App is not intended for use by children under the age of 18**, and we do not knowingly collect Personal Information from children under the age of 13. If we learn we collected Personal Information from a child under 13 we will delete that information from our files.
 
-## <mark style="color:red;">09</mark>   Third-Party Links and Services <a href="#_hu4f8tmuv1ho" id="_hu4f8tmuv1ho"></a>
+## <mark style="color:green;">09</mark>   Third-Party Links and Services <a href="#_hu4f8tmuv1ho" id="_hu4f8tmuv1ho"></a>
 
 Our Privacy Policy only applies to our App and does not apply to third-party websites or services because we do not control those third parties. We are not responsible for the privacy practices or content of third-party websites. We encourage you to review the privacy policies of those third-party sites to learn about their practices or what rights you may have.
 
-## <mark style="color:red;">10</mark>   Complaints, Disputes, and Actions <a href="#_bks18t4dtjgz" id="_bks18t4dtjgz"></a>
+## <mark style="color:green;">10</mark>   Complaints, Disputes, and Actions <a href="#_bks18t4dtjgz" id="_bks18t4dtjgz"></a>
 
 If untrading.org receives any notice of a complaint, dispute, or legal action against an artist, collector,, or untrading.org user then we may relay the necessary contact information of that user to the relevant parties. Necessary contact information includes, but is not limited to email addresses, phone numbers, social media handles, real names, usernames, and registered Ethereum addresses. Disputes include, but are not limited to contract, tort, right of publicity, privacy, trademark, copyright, or any other legal, regulatory, or administrative claim. By using the untrading.org App you waive any privacy expectations for your contact information if untrading.org Labs receives any notices of legal, administrative, or other types of complaint, dispute, or action related to your use of the App.
 
 In particular, the [Digital Millennium Copyright Act (DMCA)](https://www.law.cornell.edu/uscode/text/17/512) sets forth a Notification and Counter-Notification process initiated by a party complaining of alleged copyright infringement on the untrading.org App. In addition to DMCA, for trademark disputes, or other intellectual property claims untrading.org reserves the right to share information of the notifying, counter-notifying party, and any involved third parties, such as a Collector, of an allegedly infringing artwork to facilitate communication between the relevant parties for the purposes of complying with or resolving a DMCA dispute or allegation of intellectual property infringement. As stated in our Terms of Service, the untrading.org policy is to allow parties to resolve intellectual property, contract, or any other dispute between those parties without any involvement of untrading.org.
 
-## <mark style="color:red;">11</mark>   Important Limitations <a href="#_z5fyzgylqcxz" id="_z5fyzgylqcxz"></a>
+## <mark style="color:green;">11</mark>   Important Limitations <a href="#_z5fyzgylqcxz" id="_z5fyzgylqcxz"></a>
 
 Nothing in this Privacy Notice restricts our ability to:
 
@@ -187,10 +187,10 @@ Nothing in this Privacy Notice restricts our ability to:
 * Enforce our Terms of Service; or,
 * Prevent behavior that is (or that we have reason to believe may be) illegal or unethical.
 
-## <mark style="color:red;">12</mark>   Changes to the Privacy Policy <a href="#_no25nbalm10s" id="_no25nbalm10s"></a>
+## <mark style="color:green;">12</mark>   Changes to the Privacy Policy <a href="#_no25nbalm10s" id="_no25nbalm10s"></a>
 
 The Service and our business may change from time to time. As a result we may change this Privacy Policy at any time. When we do we will post an updated version on this page, unless another type of notice is required by applicable law. By continuing to use our Service or providing us with personal information after we have posted an updated Privacy Policy, or notified you by other means if applicable, you consent to the revised Privacy Policy and the practices described in it.
 
-## <mark style="color:red;">13</mark>   Contact Us <a href="#_ewi7thrdv8ep" id="_ewi7thrdv8ep"></a>
+## <mark style="color:green;">13</mark>   Contact Us <a href="#_ewi7thrdv8ep" id="_ewi7thrdv8ep"></a>
 
 If you have any questions about our Privacy Policy or information practices, please feel free to contact us at our designated request address: [legal@untrading.org](mailto:legal@untrading.org).

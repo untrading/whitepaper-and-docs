@@ -26,7 +26,7 @@ We reserve the right, at our sole discretion, to change or modify portions of th
 
 Our Privacy Policy found [here](privacy-policy.md) describes the ways we collect, use, store and disclose your personal information, and is hereby incorporated by this reference into these Terms. You agree to the collection, use, storage, and disclosure of your data in accordance with our Privacy Policy.&#x20;
 
-## <mark style="color:red;">01</mark>   What is untrading.org?&#x20;
+## <mark style="color:green;">01</mark>   What is untrading.org?&#x20;
 
 untrading.org provides an Interface for Users, including artists and cryptocurrency traders (”Originators,” “Creators,” or “Minter”) and collectors (“Collectors”), to sell, purchase, list for auction, make offers on, and bid on (each a “Transaction”) Digital Artwork and other tokenized assets (as defined below).
 
@@ -61,7 +61,7 @@ We may provide information about tokens in the Interface sourced from third-part
 
 The Interface may not be available or appropriate for use in your jurisdiction. By accessing or using the Interface, you agree that you are solely and entirely responsible for compliance with all laws and regulations that may apply to you. Specifically, your use of the Interface or the Protocol may result in various tax consequences, such as income or capital gains tax, value-added tax, goods and services tax, or sales tax in certain jurisdictions. It is your responsibility to determine whether taxes apply to any transactions you initiate or receive and, if so, to report and/or remit the correct tax to the appropriate tax authority.&#x20;
 
-## <mark style="color:red;">02</mark>   How Do I Use untrading.org?&#x20;
+## <mark style="color:green;">02</mark>   How Do I Use untrading.org?&#x20;
 
 ### a) Your Registration Obligations
 
@@ -79,7 +79,7 @@ In order to participate as a Creator or Collector on the App, you must connect y
 
 untrading.org reserves the right to modify or discontinue, temporarily or permanently, the Protocol (or any part thereof) with or without notice. You agree that untrading.org will not be liable to you or to any third party for any modification, suspension, or discontinuance of the Protocol.&#x20;
 
-## <mark style="color:red;">03</mark>   App Conduct&#x20;
+## <mark style="color:green;">03</mark>   App Conduct&#x20;
 
 When using the App, you will not directly or indirectly:&#x20;
 
@@ -100,7 +100,7 @@ When using the App, you will not directly or indirectly:&#x20;
 * access or use the App to carry out financial activities subject to registration or licensing, including but not limited to creating, listing, or buying securities, commodities, options, real estate, or debt instruments; or&#x20;
 * access or use the App for the purpose of creating a product or service that is competitive with any of our products or services.&#x20;
 
-## <mark style="color:red;">04</mark>   What Are the Intellectual Property Rights on the App?&#x20;
+## <mark style="color:green;">04</mark>   What Are the Intellectual Property Rights on the App?&#x20;
 
 ### a) [The Can’t Be Evil NFT Licenses](https://a16zcrypto.com/introducing-nft-licenses/)&#x20;
 
@@ -234,7 +234,7 @@ Creator expressly agrees to refund to the Collector and/or untrading.org, at unt
 
 Creators, Collectors, and all Users expressly agree to cooperate and timely respond to untrading.org’s investigations, requests, and inquiries related to DMCA disputes or allegations of infringement.&#x20;
 
-## <mark style="color:red;">05</mark>   What Fees Does untrading.org Charge?&#x20;
+## <mark style="color:green;">05</mark>   What Fees Does untrading.org Charge?&#x20;
 
 ### a) Fees and Royalties&#x20;
 
@@ -278,7 +278,7 @@ All Transactions on the Protocol, including without limitation minting, tokenizi
 
 Users are responsible to pay any and all sales, use, value-added and other taxes, duties, and assessments now or hereafter claimed or imposed by any governmental authority, “associated with your use of the Protocol (including, without limitation, any taxes that may become payable as the result of your ownership, transfer, purchase, sale, or creation of any artworks).&#x20;
 
-## <mark style="color:red;">06</mark> Assumption of the Risk&#x20;
+## <mark style="color:green;">06</mark>   Assumption of the Risk&#x20;
 
 ### a) User Acknowledges the Risk of Cryptocurrency and Smart Contracts&#x20;
 
@@ -308,7 +308,7 @@ Use of the Protocol, including the creating, buying, or selling trading digital 
 
 No information or statements available on or in connection with untrading.org should be regarded as a suggestion to engage in or refrain from any investment-related course of action as untrading.org and its affiliates are not undertaking to provide investment or financial advice. Such information or statements provided by untrading.org do NOT constitute any guarantee of future performance and undue reliance should not be placed on them. Purchasing non-fungible tokens necessarily involves known and unknown risks and uncertainties, which may cause actual performance and financial results to differ materially from any projections of future performance or result expressed or implied by information or statements contained herein.&#x20;
 
-## <mark style="color:red;">07</mark>   Other Legal Terms&#x20;
+## <mark style="color:green;">07</mark>   Other Legal Terms&#x20;
 
 ### a) Indemnity and Release
 
@@ -344,11 +344,11 @@ These Terms will be governed by and construed under the laws of the State of Del
 
 **IF YOU ARE A USER FROM NEW JERSEY, THE FOREGOING SECTIONS TITLED “INDEMNITY AND RELEASE”, “DISCLAIMER OF WARRANTIES” AND “LIMITATION OF LIABILITY” ARE INTENDED TO BE ONLY AS BROAD AS IS PERMITTED UNDER THE LAWS OF THE STATE OF NEW JERSEY. IF ANY PORTION OF THESE SECTIONS IS HELD TO BE INVALID UNDER THE LAWS OF THE STATE OF NEW JERSEY, THE INVALIDITY OF SUCH PORTION SHALL NOT AFFECT THE VALIDITY OF THE REMAINING PORTIONS OF THE APPLICABLE SECTIONS.**&#x20;
 
-## <mark style="color:red;">08</mark>   Our Termination Rights
+## <mark style="color:green;">08</mark>   Our Termination Rights
 
 You agree that untrading.org, in its sole discretion, may suspend or terminate your account (or any part thereof) or use of the App and remove and discard any content within the App, for any reason, including, without limitation, for lack of use or if untrading.org believes that you have violated or acted inconsistently with the letter or spirit of these Terms. Any suspected fraudulent, abusive or illegal activity that may be grounds for termination of your use of the App may be referred to appropriate law enforcement authorities. untrading.org may also in its sole discretion and at any time discontinue providing the App, or any part thereof, with or without notice. You agree that any termination of your access to the App under any provision of these Terms may be effected without prior notice, and acknowledge and agree that untrading.org may immediately deactivate or delete your account and all related information and files in your account and/or bar any further access to such files or the App. Further, you agree that untrading.org will not be liable to you or any third party for any termination of your access to the App.&#x20;
 
-## <mark style="color:red;">09</mark>  We Do Not Get Involved with User Disputes&#x20;
+## <mark style="color:green;">09</mark>   We Do Not Get Involved with User Disputes&#x20;
 
 You agree that you are solely responsible for your interactions with any other Users, Creators, and Collectors in connection with the App and untrading.org will have no liability or responsibility with respect thereto. untrading.org reserves the right, but has no obligation, to become involved in any way with disputes between you and any other User of the App.&#x20;
 
@@ -370,7 +370,7 @@ If you demonstrate that the costs of arbitration will be prohibitive as compared
 
 YOU MAY NOT ACT AS A CLASS REPRESENTATIVE OR PRIVATE ATTORNEY GENERAL, NOR PARTICIPATE AS A CLASS MEMBER OF ANY CLASS CLAIMANTS WITH RESPECT TO ANY CLAIM. CLAIMS MAY NOT BE ARBITRATED ON A CLASS OR REPRESENTATIVE BASIS. You may only bring individual claims, and the arbitrator may only decide individual claims. The arbitrator may not consolidate or join the claims of other persons or parties who may be similarly situated.&#x20;
 
-## <mark style="color:red;">11</mark>   Username Policies&#x20;
+## <mark style="color:green;">10</mark>   Username Policies&#x20;
 
 untrading.org account names are available on a first-come, first-served basis and are identical to your Twitter username. Only one (1) username can be assigned to a public Ethereum wallet address. Usernames can not be edited, changed or modified on the App. Usernames are not the User’s intellectual property or personal property. untrading.org reserves the absolute right to delete, modify or change a username associated with a User’s wallet address without notice for actual or suspected violation of these policies.&#x20;
 
@@ -382,7 +382,7 @@ untrading.org prohibits username squatting and the practice of reserving usernam
 
 untrading.org prohibits reserving inactive accounts for future use. untrading.org has the absolute authority to delete or modify inactive users. Users that have not conducted any transactions on the untrading.org App, collected any untrading.org Items, or initiated any transaction on the Ethereum blockchain for six (6) months may be deleted without notice.&#x20;
 
-## <mark style="color:red;">12</mark>   Notice for California Users&#x20;
+## <mark style="color:green;">11</mark>   Notice for California Users&#x20;
 
 Under California Civil Code Section 1789.3, users of the App from California are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Apps of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210. You may contact us at untrading.org, Inc., 11420 Santa Monica Blvd, PO Box 252111, Los Angeles, CA 90025, or at (657) 229-1518.&#x20;
 

@@ -7,7 +7,7 @@ description: 'Last Updated: October 16, 2022'
 These Community Guidelines set forth the type of conduct and decorum expected of all participants of the untrading.org digital art community. The untrading.org team is dedicated to building an ecosystem that empowers artists and collectors to connect with one another, collaborate, and participate in a new, natively digital art economy. But we cannot do it without your help. In the interest of keeping this community an open environment and ensuring the economic growth of the untrading.org App, we’ve put together these Community Guidelines to help foster an app that can support all of us as creators, art enthusiasts, and friends.
 
 {% hint style="danger" %}
-Your use of the untrading.org App is strictly subject to these Community Guidelines and the official untrading.org [Terms of Service](terms-of-service.md) found here.
+Your use of the untrading.org App is strictly subject to these Community Guidelines and the official untrading.org [Terms of Service](terms-of-service.md)[ ](terms-of-service.md)found here.
 {% endhint %}
 
 ## App Conduct <a href="#_38rga177qixc" id="_38rga177qixc"></a>
@@ -118,4 +118,4 @@ If you suspect that User(s) may be engaging in serious behavior that is violativ
 
 ### Give us Feedback <a href="#_t54zf7sbo0ko" id="_t54zf7sbo0ko"></a>
 
-We're crazy about feedback, so give us some. Contact [community@untrading.org](mailto:community@untrading.org) with ideas on how we can improve untrading.org, strengthen the community, or if you have any questions about our policies and guidelines. You may first want to check out our [Terms of Service](https://docs.untrading.org/legal/terms-of-service) and [Privacy Policy](https://docs.untrading.org/legal/privacy-policy).
+We're crazy about feedback, so give us some. Contact [community@untrading.org](mailto:community@untrading.org) with ideas on how we can improve untrading.org, strengthen the community, or if you have any questions about our policies and guidelines. You may first want to check out our [Terms of Service](terms-of-service.md) and [Privacy Policy](privacy-policy.md).
