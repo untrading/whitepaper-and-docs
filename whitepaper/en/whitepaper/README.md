@@ -16,7 +16,7 @@ _v. 1.7.0 beta_
 
 
 
-<figure><img src=".gitbook/assets/untrading_logo_ani_on_light_no_bg3000x1500.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/untrading_logo_ani_on_light_no_bg3000x1500.gif" alt=""><figcaption></figcaption></figure>
 
 ## Disclaimer <a href="#h.17v05jnu7qff" id="h.17v05jnu7qff"></a>
 
@@ -52,7 +52,7 @@ Experience the future of trading with untrading.org, where commission-free inves
 
 ### untrading.org in One Picture
 
-<figure><img src="../../images/nFR_animation.gif" alt=""><figcaption><p><a href="https://docs.untrading.org/nfr-distribution">https://docs.untrading.org/nfr-distribution</a></p></figcaption></figure>
+<figure><img src="../../../images/nFR_animation.gif" alt=""><figcaption><p><a href="https://docs.untrading.org/nfr-distribution">https://docs.untrading.org/nfr-distribution</a></p></figcaption></figure>
 
 Imagine selling ETH on untrading.org for $1,900 and its price increases to $4,000 later, you receive several payments that include portions of the $2,100 increase.
 
@@ -275,7 +275,7 @@ The total number of generations of owners in the sliding window is set by the Mi
 
 #### **Rewards formula**
 
-![Rewards formula](.gitbook/assets/image4.png)
+![Rewards formula](../.gitbook/assets/image4.png)
 
 In this equation:
 
@@ -295,7 +295,7 @@ As a result of defining a sliding window mechanism ( _n_ ), we can determine whi
 
 The profit distribution shall be only available to previous owners who fall within the window. &#x20;
 
-![Figure 1: Geometric sequence distribution](.gitbook/assets/image3.png)
+![Figure 1: Geometric sequence distribution](../.gitbook/assets/image3.png)
 
 In the example in _Figure 1_, there is a portion of the proceeds awarded to the Last Generation owner (the owner immediately prior to the current seller) based on the geometric sequence in which profits are distributed. The larger portion of the proceeds shall go to the Mid-Gen owners, the earlier the greater, until the last eligible owner is determined by the sliding window, the First Generation. Owners who purchase earlier will receive a greater reward, with first-generation owners receiving the greatest reward.
 
@@ -303,7 +303,7 @@ In the example in _Figure 1_, there is a portion of the proceeds awarded to the 
 
 _Figure. 2_ and _Table 1_ illustrate the price history of a 10-generation distribution unNFT token. We will examine the sharing and receiving of FRs by Owner #3.
 
-![Figure 2: An example of price history of an unNFT](.gitbook/assets/image10.png)
+![Figure 2: An example of price history of an unNFT](../.gitbook/assets/image10.png)
 
 Owning the token for $200, selling it for $400, and then sharing the $200 profit with the creator/minter, untrading.org, the o-token holders collectively, as ORs, and Owner #2 and #1 as FRs is your responsibility when you are Owner #3. As of Owner #6, all transactions have been sold and purchased at lower prices. This price is the highest ever for a period of time. Until Owner #6, no transactions had been sold or bought at lower prices. This is the highest price ever for a period of time.
 
@@ -345,7 +345,7 @@ _Figure 3_ shows how an original piece is minted on untrading.org as an nFR-comp
 
 #### **Original NFT Minting**
 
-![Figure 3: Original NFT minting](../../images/unNFT\_wrapping.jpg)
+![Figure 3: Original NFT minting](../../../images/unNFT\_wrapping.jpg)
 
 Royalties and platform’s share are as follows:
 
@@ -357,7 +357,7 @@ untrading.org receives a small number of o- tokens from each unNFT minted on the
 
 #### **Third-party blue-chip NFT Wrapping**
 
-![Figure 4: 3rd-party NFT wrapping](../../images/3rd-party\_unNFT\_minting.jpg)
+![Figure 4: 3rd-party NFT wrapping](../../../images/3rd-party\_unNFT\_minting.jpg)
 
 In addition for an artist and creator to mint their artwork on the platform, anyone can wrap an existing valuable NFT they bought from any marketplace in their collection on untrading.org as an unNFT of the same value, backed by the original NFT  (See _Figure 4_). Additional steps and safe-keeping measures are implemented.
 
@@ -375,7 +375,7 @@ When a user wraps their third-party existing NFT into an unNFT, the NFT they own
 
 No one, not even the untrading.org platform and their employees, can unilaterally unwrap an unNFT.
 
-![Figure 5: Multisig unwrapping](../../images/Multisig\_unwrapping.jpg)
+![Figure 5: Multisig unwrapping](../../../images/Multisig\_unwrapping.jpg)
 
 The untrading.org platform or the new owner of unNFT can initiate an unwrapping request in certain circumstances. The original Minter and all previous owners would be adversely affected if the original NFT was unwrapped and released to the current unNFT owner. On iob.fi DAO voting, the Minter and all affected previous owners must approve the process within the sliding window (see description in the Specification section). Aye votes will instruct the third party to sign the vault and unwrap the original NFT.
 
@@ -555,7 +555,7 @@ function _calculateFR(uint256 totalProfit, uint256 buyerReward, uint256 successi
 
 As explained in Section 2.3 The un-token, all untrading.org fees are based on the realized profits from a sale of an unNFT.
 
-![Reward formula](.gitbook/assets/image4.png)
+![Reward formula](../.gitbook/assets/image4.png)
 
 ```
 pragma solidity ^0.8.0;
@@ -590,11 +590,11 @@ The complete code can be found [here](https://www.google.com/url?q=https://githu
 
 In the example in _Figure 1_ in Section 2.2, detailed in _Table 2_ below, if an unNFT is sold for $50,000 worth of ETH and it resulted in a $10,000 profit for the seller, the seller shares a portion of their net profit with 10 previous holders of the token. Future Rewards will also be paid to the same seller as the value of the token increases from up to 10 subsequent owners.
 
-<figure><img src=".gitbook/assets/Algorithm description table.jpg" alt=""><figcaption><p><em>Table 2: Future Rewards (nFR) distribution example</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Algorithm description table.jpg" alt=""><figcaption><p><em>Table 2: Future Rewards (nFR) distribution example</em></p></figcaption></figure>
 
 When an owner loses money during their holding period, they will not be obligated to share Future Rewards distributions, since there is no profit to share. However, he still receives a share of Future Rewards distributions from future generations of owners, if they are profitable.
 
-![Figure 6: Future Rewards (nFR) distribution](../../images/nFR\_Distribution.jpeg)
+![Figure 6: Future Rewards (nFR) distribution](../../../images/nFR\_Distribution.jpeg)
 
 _Figure 6_ illustrates an example of a five-generation Future Rewards Distribution program based on an owner's realized profit.
 
@@ -648,7 +648,7 @@ We do not want a large portion of future rewards to go to a small number of wash
 
 In most cases, malicious actors will create excessively long or cyclical Future Rewards Owner Generations that will result in applications that attempt to distribute FR or shift generations running out of gas and not functioning. Therefore, clients are responsible for verifying that the contract with which they interact has an appropriate number of generations, so that looping over will not deplete the gas.
 
-![Figure 7: Same owner using different wallets](.gitbook/assets/Same\_owner\_using\_different\_wallets.jpeg)
+![Figure 7: Same owner using different wallets](../.gitbook/assets/Same\_owner\_using\_different\_wallets.jpeg)
 
 **User reputation**
 
