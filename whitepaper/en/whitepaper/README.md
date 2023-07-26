@@ -52,7 +52,7 @@ Experience the future of trading with untrading.org, where commission-free inves
 
 ### untrading.org in One Picture
 
-<figure><img src="../../../images/nFR_animation.gif" alt=""><figcaption><p><a href="https://docs.untrading.org/nfr-distribution">https://docs.untrading.org/nfr-distribution</a></p></figcaption></figure>
+<figure><img src="../../../images/nFR_animation.gif" alt=""><figcaption><p><a href="https://docs.untrading.org/whitepaper/nfr-distribution">https://docs.untrading.org/whitepaper/nfr-distribution</a></p></figcaption></figure>
 
 Imagine selling ETH on untrading.org for $1,900 and its price increases to $4,000 later, you receive several payments that include portions of the $2,100 increase.
 
