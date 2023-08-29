@@ -4,15 +4,16 @@
 * [👩💻 Redefining Asset Transactions with Enhanced Transparency and Ownership History](redefining-asset-transactions-with-enhanced-transparency-and-ownership-history.md)
 * [📃 Whitepaper](whitepaper/README.md)
   * [nFR Distribution](whitepaper/nfr-distribution.md)
+* [app.untrading.org Intro](app.untrading.org-intro.md)
 * [⚠ Risks](risks.md)
 * [📣 Community Guidelines](community-guidelines.md)
 * [🔠 Terms of Service](terms-of-service.md)
 * [🔏 Privacy Policy](privacy-policy.md)
+* [🎨 Creators' Introduction](readme.md)
+* [💡 Users' Guide](users-guide.md)
 
 ## tutorial
 
-* [🎨 Creators' Introduction](tutorial/readme.md)
-* [💡 Users' Guide](tutorial/users-guide.md)
 * [🔍 How to Use the Polygon Network on Metamask on Chrome Extension](tutorial/how-to-use-the-polygon-network-on-metamask-on-chrome-extension.md)
 * [🔍 Registering and Being Verified on untrading.org](tutorial/registering-and-being-verified-on-untrading.org.md)
 * [🔍 Creating a SET](tutorial/creating-a-set.md)
