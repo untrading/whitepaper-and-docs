@@ -474,7 +474,7 @@ A default `FRInfo` is stored in order to be backward compatible with ERC721 mint
 
 The codebase is broken up into facets with their respective facet storages using the Diamond storage pattern as defined in [EIP-2535](https://eips.ethereum.org/EIPS/eip-2535). The central diamond serves as the core contract and stores all of the contract data. This allows the entire contract’s functionality to be completely upgradable and modular. As the diamond contract has no functions but rather references a deployment of a facet. An access system is implemented which allows a designated address (or contract) to call the `diamondCut` function to modify the contract.
 
-### <mark style="color:green;">3.4</mark>     o-tokends
+### <mark style="color:green;">3.4</mark>     o-tokens
 
 Whenever a token is minted o-tokens will be distributed between the platform and the minter with `_distributeOTokens` internally. Balances and info for a given token ID can be retrieved with `retrieveORInfo` and `balanceOfOTokens`. OR rewards for a given address can be retrieved with `retrieveAllottedOR` and claimed with `releaseOR`. Additionally, `transferOTokens` can be used to transfer one’s o-tokens. Finally, whenever a profitable sale has been made `_distributeOR` is triggered.
 
