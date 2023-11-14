@@ -10,9 +10,9 @@ description: 'Phase One: unNFTs & unCryptos'
 
 by Yale ReiSoleil, @dRadiant, D Wang, PhD
 
-July 2023
+Nov 2023
 
-_v. 1.7.0 beta_
+_v. 1.7.2 beta_
 
 
 
@@ -36,7 +36,7 @@ untrading.org brings a revolutionary approach to trading, where token owners can
 
 In more detail, here is what untrading.org is all about:
 
-> [_**untrading.org**_](https://untrading.org/) _**is a revolutionary commission-free crypto investment protocol utilizing**_ [_**ERC-5173**_](https://eips.ethereum.org/EIPS/eip-5173)_**, on-chain payments & licenses, a truly divisible NFT framework, and an upgradable multisignature contract protocol to create a participatory value amplification system, enabling token owners to benefit from future price increases even after selling their tokens, while eliminating conflicts of interest and promoting fairness and transparency in the asset transaction industry.**_
+> [_**untrading.org**_](https://untrading.org/) _**is a revolutionary commission-free crypto investment protocol utilizing**_ [_**ERC-5173**_](https://eips.ethereum.org/EIPS/eip-5173)_**, on-chain payments & licenses, a truly divisible NFT framework, and an upgradable multisignature contract protocol to create a Provenance Value Amplification system, enabling token owners to benefit from future price increases even after selling their tokens, while eliminating conflicts of interest and promoting fairness and transparency in the asset transaction industry.**_
 
 untrading.org is not just another trading platform. It is a revolutionary commission-free crypto investment protocol that disrupts the traditional trading model. At its core is the implementation of ERC-5173, a groundbreaking solution that brings about a paradigm shift in the trading landscape.
 
@@ -52,7 +52,7 @@ Experience the future of trading with untrading.org, where commission-free inves
 
 ### untrading.org in One Picture
 
-<figure><img src="../../../images/nFR_animation.gif" alt=""><figcaption><p><a href="https://docs.untrading.org/whitepaper/nfr-distribution">https://docs.untrading.org/whitepaper/nfr-distribution</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/nFR.gif" alt=""><figcaption><p><a href="https://docs.untrading.org/whitepaper/nfr-distribution">https://docs.untrading.org/whitepaper/nfr-distribution</a></p></figcaption></figure>
 
 Imagine selling ETH on untrading.org for $1,900 and its price increases to $4,000 later, you receive several payments that include portions of the $2,100 increase.
 
@@ -62,7 +62,7 @@ No more zero-sum trading. &#x20;
 
 The following is a more comprehensive description that includes several key elements of the new trading platform architecture:
 
-> [_untrading.org_](https://untrading.org/)_, a revolutionary asset transaction protocol on the Ethereum and Polygon networks, employs ERC-5173, the innovative Non-fungible Future Rewards (nFR) framework, as the foundation of its Participatory Value Amplification (PVA) model. This groundbreaking approach empowers token holders to actively participate in future price increases, even after selling their tokens, with resilient rewards distributed through an on-chain payment mechanism._
+> [_untrading.org_](https://untrading.org/)_, a revolutionary asset transaction protocol on the Ethereum and Polygon networks, employs ERC-5173, the innovative Non-fungible Future Rewards (nFR) framework, as the foundation of its Provenance Value Amplification (PVA) model. This groundbreaking approach empowers token holders to actively participate in future price increases, even after selling their tokens, with resilient rewards distributed through an on-chain payment mechanism._
 >
 > _By eliminating commissions, untrading.org fosters a collaborative wealth creation ecosystem, aligning the interests of token holders. User asset protection is ensured through the implementation of multi-signature contracts._
 >
@@ -157,7 +157,7 @@ Moreover, the Flow ecosystem provides relief for traders who have experienced lo
 
 With the aim of aligning the interests of all parties - the protocol, buyers, and sellers - untrading.org establishes a positive gift economy that rewards and incentivizes participants fairly. The platform seeks to bring a touch of magic and excitement to the world of (un)trading. The non-fungible Future Reward (nFR) framework is an integral part of this effort to create a new paradigm that fosters fairness and equality in trading.
 
-### <mark style="color:green;">1.4</mark>        Introducing A Participatory Value Amplification (PVA) Framework <a href="#h.s6ava0wuzykt" id="h.s6ava0wuzykt"></a>
+### <mark style="color:green;">1.4</mark>        Introducing A **Provenance** Value Amplification (PVA) Framework <a href="#h.s6ava0wuzykt" id="h.s6ava0wuzykt"></a>
 
 The PVA Framework combines the best aspects of investment and trading, offering the flexibility and control of traditional trading alongside the rewards and benefits of a lifetime royalty system. With untrading.org, you are not compelled to trade for platform fees and can hold onto your high-quality assets for as long as you desire. Even if you choose to sell, you can still receive a portion of future profits if the price continues to rise. Join the Flow community today to experience these advantages.
 
@@ -209,7 +209,7 @@ The investors' confidence in the new funding increases since the founders' finan
 
 **Non-fungible Future Reward Protocol (nFR):** Also known as Ethereum Improvement Proposal (EIP-5173), nFR is an ERC721 token extension that  enables owners of EIP-721 tokens (NFTs) to participate in future price increases after they sell their tokens, resulting in more for you is also more for me.
 
-**Participatory Value Amplification (PVA) Framework:** The Participatory Value Amplification (PVA) Framework is a trading and investment framework implemented by untrading.org. It aims to create a more equitable and inclusive trading environment by prioritizing shared value creation and fairness among participants. Under the PVA Framework, the interests of all stakeholders, including platform users, creators, and marketplaces, are aligned to promote mutual success. It operates on the principles of interdependence and delayed reciprocity, fostering a sense of community and cooperation. Unlike traditional trading platforms, which often operate on a transactional basis, the PVA Framework emphasizes the concept of giving and receiving. It recognizes that when others in the community succeed, individual participants can also benefit more in the long run. Through this framework, participants are encouraged to hold high-quality assets and are not pressured to engage in excessive trading. The framework allows users to share in future profits even after selling their assets, ensuring a continued vested interest in the success of the community and the assets they have traded. By embracing the Participatory Value Amplification Framework, untrading.org seeks to redefine the relationship between trading platforms and users, fostering a more cooperative and mutually beneficial approach to trading and investment.
+**Provenance Value Amplification (PVA) Framework:** The Provenance Value Amplification (PVA) Framework is a trading and investment framework implemented by untrading.org. It aims to create a more equitable and inclusive trading environment by prioritizing shared value creation and fairness among participants. Under the PVA Framework, the interests of all stakeholders, including platform users, creators, and marketplaces, are aligned to promote mutual success. It operates on the principles of interdependence and delayed reciprocity, fostering a sense of community and cooperation. Unlike traditional trading platforms, which often operate on a transactional basis, the PVA Framework emphasizes the concept of giving and receiving. It recognizes that when others in the community succeed, individual participants can also benefit more in the long run. Through this framework, participants are encouraged to hold high-quality assets and are not pressured to engage in excessive trading. The framework allows users to share in future profits even after selling their assets, ensuring a continued vested interest in the success of the community and the assets they have traded. By embracing the Provenance Value Amplification Framework, untrading.org seeks to redefine the relationship between trading platforms and users, fostering a more cooperative and mutually beneficial approach to trading and investment.
 
 **Flow:** Each unNFT token under EIP-5173 has its own Flow, a unique "mini community" consists of its previous and current owners. Every cryptocurrency pair has its own Flow, so unNFT tokens can have multiple Flows. Each member gives and receives Future Rewards (FRs) generated by the new trading profits of each token.
 
@@ -345,7 +345,7 @@ _Figure 3_ shows how an original piece is minted on untrading.org as an nFR-comp
 
 #### **Original NFT Minting**
 
-![Figure 3: Original NFT minting](../../../images/unNFT\_wrapping.jpg)
+![Figure 3: Original NFT minting](../.gitbook/assets/unNFT\_wrapping.jpg)
 
 Royalties and platform’s share are as follows:
 
@@ -357,7 +357,7 @@ untrading.org receives a small number of o- tokens from each unNFT minted on the
 
 #### **Third-party blue-chip NFT Wrapping**
 
-![Figure 4: 3rd-party NFT wrapping](../../../images/3rd-party\_unNFT\_minting.jpg)
+![Figure 4: 3rd-party NFT wrapping](../.gitbook/assets/3rd-party\_unNFT\_minting.jpg)
 
 In addition for an artist and creator to mint their artwork on the platform, anyone can wrap an existing valuable NFT they bought from any marketplace in their collection on untrading.org as an unNFT of the same value, backed by the original NFT  (See _Figure 4_). Additional steps and safe-keeping measures are implemented.
 
@@ -375,7 +375,7 @@ When a user wraps their third-party existing NFT into an unNFT, the NFT they own
 
 No one, not even the untrading.org platform and their employees, can unilaterally unwrap an unNFT.
 
-![Figure 5: Multisig unwrapping](../../../images/Multisig\_unwrapping.jpg)
+![Figure 5: Multisig unwrapping](../.gitbook/assets/Multisig\_unwrapping.jpg)
 
 The untrading.org platform or the new owner of unNFT can initiate an unwrapping request in certain circumstances. The original Minter and all previous owners would be adversely affected if the original NFT was unwrapped and released to the current unNFT owner. On iob.fi DAO voting, the Minter and all affected previous owners must approve the process within the sliding window (see description in the Specification section). Aye votes will instruct the third party to sign the vault and unwrap the original NFT.
 
@@ -594,7 +594,7 @@ In the example in _Figure 1_ in Section 2.2, detailed in _Table 2_ below, if an 
 
 When an owner loses money during their holding period, they will not be obligated to share Future Rewards distributions, since there is no profit to share. However, he still receives a share of Future Rewards distributions from future generations of owners, if they are profitable.
 
-![Figure 6: Future Rewards (nFR) distribution](../../../images/nFR\_Distribution.jpeg)
+![Figure 6: Future Rewards (nFR) distribution](../.gitbook/assets/nFR\_Distribution.jpeg)
 
 _Figure 6_ illustrates an example of a five-generation Future Rewards Distribution program based on an owner's realized profit.
 

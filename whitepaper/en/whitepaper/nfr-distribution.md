@@ -2,4 +2,4 @@
 
 
 
-<figure><img src="../../../images/nFR_animation.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/nFR.gif" alt=""><figcaption></figcaption></figure>
