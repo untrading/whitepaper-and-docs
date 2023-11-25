@@ -1,6 +1,6 @@
 ---
 description: >-
-  We are revolutionizing crypto trading with our innovative Participatory Value
+  We are revolutionizing crypto trading with our innovative Provenance Value
   Amplification (PVA) framework and commission-free model to empower users and
   foster shared prosperity.
 ---

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to untrading.org](README.md)
+* [Welcome to untrading Technologies Pte Ltd](README.md)
 * [👩💻 Redefining Asset Transactions with Enhanced Transparency and Ownership History](redefining-asset-transactions-with-enhanced-transparency-and-ownership-history.md)
 * [📃 Whitepaper](whitepaper/README.md)
   * [nFR Distribution](whitepaper/nfr-distribution.md)
