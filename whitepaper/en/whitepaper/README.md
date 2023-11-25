@@ -4,7 +4,7 @@ description: 'Phase One: unNFTs & unCryptos'
 
 # 📃 Whitepaper
 
-<mark style="color:green;">**more for you is also more for me™**</mark>
+<mark style="color:green;">Past. Future. Rewarded.</mark>
 
 
 
@@ -12,7 +12,7 @@ by Yale ReiSoleil, @dRadiant, D Wang, PhD
 
 Nov 2023
 
-_v. 1.7.2 beta_
+_v. 1.8.0 beta_
 
 
 
@@ -26,27 +26,27 @@ This paper is for general information purposes only. It does not constitute inve
 
 ## Abstract
 
-### untrading.org in One Sentence
+### untrading Technologies Pte Ltd (untrading) in One Sentence
 
 In one short sentence:
 
-> [_**untrading.org**_](https://untrading.org) _**is a commission-free crypto investment protocol that enables token owners to participate in future price increases, even after selling their tokens.**_
+> [_**untrading**_](https://untrading.org) _**is a commission-free crypto investment protocol that enables token owners to participate in future price increases, even after selling their tokens.**_
 
-untrading.org brings a revolutionary approach to trading, where token owners can continue to benefit from future price increases, even after selling their tokens. Unlike fee-based transaction models, untrading.org does not profit from users' losses, ensuring a fair and transparent trading environment. By prioritizing users' success and eliminating the zero-sum mentality, untrading.org creates a community-driven platform that promotes collective wealth and long-term prosperity.
+untrading brings a revolutionary approach to trading, where token owners can continue to benefit from future price increases, even after selling their tokens. Unlike fee-based transaction models, untrading.org does not profit from users' losses, ensuring a fair and transparent trading environment. By prioritizing users' success and eliminating the zero-sum mentality, untrading.org creates a community-driven platform that promotes collective wealth and long-term prosperity.
 
-In more detail, here is what untrading.org is all about:
+In more detail, here is what untrading is all about:
 
-> [_**untrading.org**_](https://untrading.org/) _**is a revolutionary commission-free crypto investment protocol utilizing**_ [_**ERC-5173**_](https://eips.ethereum.org/EIPS/eip-5173)_**, on-chain payments & licenses, a truly divisible NFT framework, and an upgradable multisignature contract protocol to create a Provenance Value Amplification system, enabling token owners to benefit from future price increases even after selling their tokens, while eliminating conflicts of interest and promoting fairness and transparency in the asset transaction industry.**_
+> [_**untrading**_](https://untrading.org/) _**is a revolutionary commission-free crypto investment protocol utilizing**_ [_**ERC-5173**_](https://eips.ethereum.org/EIPS/eip-5173)_**, on-chain payments & licenses, a truly divisible NFT framework, and an upgradable multisignature contract protocol to create a Provenance Value Amplification system, enabling token owners to benefit from future price increases even after selling their tokens, while eliminating conflicts of interest and promoting fairness and transparency in the asset transaction industry.**_
 
-untrading.org is not just another trading platform. It is a revolutionary commission-free crypto investment protocol that disrupts the traditional trading model. At its core is the implementation of ERC-5173, a groundbreaking solution that brings about a paradigm shift in the trading landscape.
+untrading is not just another trading platform. It is a revolutionary commission-free crypto investment protocol that disrupts the traditional trading model. At its core is the implementation of ERC-5173, a groundbreaking solution that brings about a paradigm shift in the trading landscape.
 
-With untrading.org, token owners have the unique advantage of participating in future price increases, even after they have sold their tokens. This is made possible through the innovative Flow created by ERC-5173. Unlike conventional exchanges that focus solely on immediate gains, Untrading.org ensures that investors can continue to reap the rewards of their initial investment over time.&#x20;
+With untrading, token owners have the unique advantage of participating in future price increases, even after they have sold their tokens. This is made possible through the innovative Flow created by ERC-5173. Unlike conventional exchanges that focus solely on immediate gains, Untrading.org ensures that investors can continue to reap the rewards of their initial investment over time.&#x20;
 
-But untrading.org goes beyond just financial gains. It fundamentally transforms the trading experience by eliminating conflicts of interest and the zero-sum mentality prevalent in traditional platforms. By implementing a trustless Flow among creators, buyers, and sellers, untrading.org fosters collaboration, transparency, and shared prosperity.&#x20;
+But untrading goes beyond just financial gains. It fundamentally transforms the trading experience by eliminating conflicts of interest and the zero-sum mentality prevalent in traditional platforms. By implementing a trustless Flow among creators, buyers, and sellers, untrading fosters collaboration, transparency, and shared prosperity.&#x20;
 
-Through the advanced NFT framework powered by ERC-5173, untrading.org offers a new dimension to asset transactions. It creates a dynamic ecosystem where every participant benefits and contributes to collective wealth creation. The result is a community-driven platform that aligns the interests of all users and empowers them to build a more sustainable and beneficial trading environment.&#x20;
+Through the advanced NFT framework powered by ERC-5173, untrading offers a new dimension to asset transactions. It creates a dynamic ecosystem where every participant benefits and contributes to collective wealth creation. The result is a community-driven platform that aligns the interests of all users and empowers them to build a more sustainable and beneficial trading environment.&#x20;
 
-untrading.org stands apart from fee-based platforms that profit from users' losses. It is a platform designed to prioritize the success and interests of its users. By embracing ERC-5173 and its innovative approach, Untrading.org reshapes the way we think about trading, opening up new possibilities and opportunities for investors.&#x20;
+untrading stands apart from fee-based platforms that profit from users' losses. It is a platform designed to prioritize the success and interests of its users. By embracing ERC-5173 and its innovative approach, Untrading.org reshapes the way we think about trading, opening up new possibilities and opportunities for investors.&#x20;
 
 Experience the future of trading with untrading.org, where commission-free investing and participation in future price increases are not just promises but a reality. Join us today and be a part of the financial revolution that puts your success and prosperity first.
 
@@ -58,21 +58,21 @@ Imagine selling ETH on untrading.org for $1,900 and its price increases to $4,00
 
 No more zero-sum trading. &#x20;
 
-### **untrading.org in** 200 Words
+### **untrading in** 200 Words
 
 The following is a more comprehensive description that includes several key elements of the new trading platform architecture:
 
-> [_untrading.org_](https://untrading.org/)_, a revolutionary asset transaction protocol on the Ethereum and Polygon networks, employs ERC-5173, the innovative Non-fungible Future Rewards (nFR) framework, as the foundation of its Provenance Value Amplification (PVA) model. This groundbreaking approach empowers token holders to actively participate in future price increases, even after selling their tokens, with resilient rewards distributed through an on-chain payment mechanism._
+> [_untrading_](https://untrading.org/)_, a revolutionary asset transaction protocol on the Ethereum and Polygon networks, employs ERC-5173, the innovative Non-fungible Future Rewards (nFR) framework, as the foundation of its Provenance Value Amplification (PVA) model. This groundbreaking approach empowers token holders to actively participate in future price increases, even after selling their tokens, with resilient rewards distributed through an on-chain payment mechanism._
 >
-> _By eliminating commissions, untrading.org fosters a collaborative wealth creation ecosystem, aligning the interests of token holders. User asset protection is ensured through the implementation of multi-signature contracts._
+> _By eliminating commissions, untrading fosters a collaborative wealth creation ecosystem, aligning the interests of token holders. User asset protection is ensured through the implementation of multi-signature contracts._
 >
 > _The platform revolutionizes the industry by seamlessly integrating buyer and seller information into time and sales (T\&S) data, enhancing transparency, value, and security throughout the asset transaction process._
 >
-> _Additionally, untrading.org introduces a cutting-edge divisible NFT framework, merging the strengths of_ [_ERC-20_](https://eips.ethereum.org/EIPS/eip-20) _and_ [_ERC-721_](https://eips.ethereum.org/EIPS/eip-721) _standards. This framework enables efficient fractional token transfers and offers optimization opportunities for managing DAO treasuries._
+> _Additionally, untrading introduces a cutting-edge divisible NFT framework, merging the strengths of_ [_ERC-20_](https://eips.ethereum.org/EIPS/eip-20) _and_ [_ERC-721_](https://eips.ethereum.org/EIPS/eip-721) _standards. This framework enables efficient fractional token transfers and offers optimization opportunities for managing DAO treasuries._
 >
-> _With its commitment to continuous improvement, untrading.org ensures the platform's security and adaptability through upgradable smart contract deployment. By challenging the long-standing norms of traditional asset exchanges, untrading.org explores transformative possibilities for the industry._
+> _With its commitment to continuous improvement, untrading.org ensures the platform's security and adaptability through upgradable smart contract deployment. By challenging the long-standing norms of traditional asset exchanges, untrading explores transformative possibilities for the industry._
 >
-> _Join untrading.org today and be part of the future of inclusive and transparent asset trading._
+> _Join untrading today and be part of the future of inclusive and transparent asset trading._
 
 The paper will discuss the foundations of the untrading protocol. A number of new financial innovations have recently emerged, but not all of them offer the same features as untrading.org.
 
@@ -165,7 +165,7 @@ Operating on the principles of giving and receiving, the PVA Framework emphasize
 
 ### <mark style="color:green;">1.5</mark>        Pay Only After Making a Profit <a href="#h.x5hek4s7c18r" id="h.x5hek4s7c18r"></a>
 
-At untrading.org, we advocate for trading platforms that do not charge users for losses. Instead, we have adopted a hedge fund-inspired incentive fee model where users only pay if their transactions are profitable.
+At untrading, we advocate for trading platforms that do not charge users for losses. Instead, we have adopted a hedge fund-inspired incentive fee model where users only pay if their transactions are profitable.
 
 With the PVA Framework, there are no commissions, deposit fees, transfer fees, or withdrawal fees. Instead, we share a small portion of a user's profit with the Minters as o-token holders, generating revenue.
 
@@ -672,19 +672,19 @@ It is common for these companies to engage in wash trading independently or coll
 
 ## <mark style="color:green;">05</mark>       Summary <a href="#h.10bykgn0hh1c" id="h.10bykgn0hh1c"></a>
 
-At untrading.org, we aim to create a virtuous economic environment for the financial sector, removing conflicts of interest between exchanges and their users and ending zero-sum trading.
+At untrading, we aim to create a virtuous economic environment for the financial sector, removing conflicts of interest between exchanges and their users and ending zero-sum trading.
 
-The untrading.org platform enables users to participate in a gift economy based on EIP-5173 published in June 2022 by iob.fi DAO. Although it is not a charity or philanthropic endeavor, it helps all of its users - the creators, buyers, and sellers - as well as the organization's stakeholders build greater wealth through each other's success. There is no longer a zero-sum game when it comes to trading.
+The untrading platform enables users to participate in a gift economy based on EIP-5173 published in June 2022 by iob.fi DAO. Although it is not a charity or philanthropic endeavor, it helps all of its users - the creators, buyers, and sellers - as well as the organization's stakeholders build greater wealth through each other's success. There is no longer a zero-sum game when it comes to trading.
 
 ### <mark style="color:green;">5.1</mark>        Getting Compensated to Participate in Price Discovery <a href="#h.rqo4d8vvcwy9" id="h.rqo4d8vvcwy9"></a>
 
 #### **Buyer and seller both earn more**
 
-The framework offered by untrading.org, in addition to being desired by customers, is also justified by its existence since the value of a collectible is often determined by its provenance and history as well as the owner's ownership history. It is often the history of ownership that determines the price of a physical collectible, so its history of ownership is of paramount importance.
+The framework offered by untrading, in addition to being desired by customers, is also justified by its existence since the value of a collectible is often determined by its provenance and history as well as the owner's ownership history. It is often the history of ownership that determines the price of a physical collectible, so its history of ownership is of paramount importance.
 
 Therefore, we should retroactively compensate all parties for their contributions to the early stages of price discovery, including their community status, reputation, and early contributions.
 
-In every stage of the token's ownership history, untrading.org builds a profit-sharing structure that all market participants can take advantage of.
+In every stage of the token's ownership history, untrading builds a profit-sharing structure that all market participants can take advantage of.
 
 #### **Minter can be anyone**
 
@@ -696,7 +696,7 @@ The Future Rewards framework is based on smart contract rules on-chain, not rely
 
 ### <mark style="color:green;">5.3</mark>       New Trading Platform Model <a href="#h.tujj5q3ywqn" id="h.tujj5q3ywqn"></a>
 
-For untrading.org to be successful, several key technical and operational components must be integrated:
+For untrading to be successful, several key technical and operational components must be integrated:
 
 * Implementation of EIP-5173, EIP-2981, and some aspects of EIP-4910 for accurate and reliable on-chain royalty distribution and FRs;
 * Developing the escrow smart contract for fair, safe, on-chain, and verifiable trading;
@@ -707,7 +707,7 @@ For untrading.org to be successful, several key technical and operational compon
 
 Since the new technology building blocks are ready, it is finally possible to do this with the non-fungible token standard and several extensions, including our EIP-5173.&#x20;
 
-As a next-generation exchange, untrading.org builds on a gift economic model where members pay it forward to end centuries of zero-sum trading.&#x20;
+As a next-generation exchange, untrading builds on a gift economic model where members pay it forward to end centuries of zero-sum trading.&#x20;
 
 When all market participants adopt this platform, it has the potential to reach far beyond the art world, with the market being worth hundreds of billions of dollars.
 
