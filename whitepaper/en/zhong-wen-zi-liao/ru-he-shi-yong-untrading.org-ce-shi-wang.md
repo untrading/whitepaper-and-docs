@@ -63,7 +63,7 @@ Untrading.org 使用自己的代币，称为 unBTC 和 unETH，来启用 dSaaP �
 * 等待交易在区块链上被确认。您可以在 Etherscan 上查看状态。
 * 您将在您的钱包中收到代币。
 
-### 第四步：出售 unBTC 和 unETH&#x20;
+## 第四步：出售 unBTC 和 unETH&#x20;
 
 要创建自己的报价，请访问 [https://testnet.untrading.org/uncrypto](https://testnet.untrading.org/uncryptos)，并点击您的用户头像。
 
@@ -77,7 +77,7 @@ Untrading.org 使用自己的代币，称为 unBTC 和 unETH，来启用 dSaaP �
 * 点击限价出售，并在 MetaMask 上确认交易。
 * 等待交易在区块链上被确认。您可以在 Etherscan上查看状态。
 
-### 结论
+## 结论
 
 恭喜！您已经学会使用 untrading.org 的测试版本，这是一个免佣金的加密货币投资协议，即使在售出代币后，依然能使代币持有者从其未来价格上涨中获益。购买 unBTC 和 unETH 后，请立即将其列为出售，以便其他用户可以购买您的代币。真正的魔力会在您出售它们之后发生，因为您现在可以看着您的未来奖励增长。这是 untrading.org 与任何其他平台的根本区别。
 
