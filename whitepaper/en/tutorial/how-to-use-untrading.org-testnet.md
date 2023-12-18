@@ -28,7 +28,7 @@ To use untrading.org, you will need some test tokens that represent different cr
 * Select the blockchain from the drop-down menu.
 * Select the desired output token from the drop-down menus.
 * Follow the instructions on the screen for WBTC, WETH, USDC or USDT.
-* Click on Swap and confirm the transaction on MetaMask.
+* Click on "Swap" and confirm the transaction on MetaMask.
 * Wait for the transaction to be confirmed on the blockchain.&#x20;
 * Repeat the process for other tokens you want to acquire.
 
@@ -38,15 +38,15 @@ untrading.org uses its own tokens, called unBTC and unETH, to enable the dSaaP f
 
 * In the upper-right corner of [https://testnet.untrading.org/uncrypto](https://testnet.untrading.org/uncrypto), click the "Wrap Crypto" menu under your Profile picture.
 * Select WBTC as the input token and unBTC as the output token from the drop-down menus.
-* Enter the amount of WBTC you want to wrap or click on “Max” to wrap all your WBTC.
-* Click on “Wrap” and confirm the transaction on MetaMask.
+* Enter the amount of WBTC you want to wrap or click on "Max" to wrap all your WBTC.
+* Click on "Wrap" and confirm the transaction on MetaMask.
 * Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
 * Repeat the process for WETH and unETH.
 * Now you can sell your newly wrapped tokens.&#x20;
 * Select the token you want to sell (unBTC or unETH) and the token you want to receive (USDT or USDC) from the drop-down menus.
 * Enter the amount of tokens you want to sell and the price per token you want to receive.
 * Enter the Total Reward Ratio, Originator Reward Ratio (OR) and Number of Generations you are specifying for this unique unToken.&#x20;
-* Click on Sell and confirm the transaction on MetaMask.
+* Click on "Sell" and confirm the transaction on MetaMask.
 * Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
 * Your offering will be listed on the Markets, where other users can buy it.
 
@@ -54,10 +54,10 @@ untrading.org uses its own tokens, called unBTC and unETH, to enable the dSaaP f
 
 Once you have some test USDC and USDT tokens, you can buy and sell unBTC and unETH on [https://testnet.untrading.org/uncrypto](https://testnet.untrading.org/uncrypto). You can either create your own offerings or browse the existing offerings from other users.
 
-* To buy an existing offering, go to https://testnet.untrading.org/uncrypto and click on the “Markets” tab.&#x20;
+* To buy an existing offering, go to https://testnet.untrading.org/uncrypto and click on the “Markets" tab.&#x20;
 * Browse the available offerings and find one that matches your preferences.
-* Click on the “Buy - Limit” button and enter the amount of tokens you want to buy.
-* Click on “Buy - Limit”and confirm the transaction on MetaMask.
+* Click on the “Buy - Limit" button and enter the amount of tokens you want to buy.
+* Click on “Buy - Limit" and confirm the transaction on MetaMask.
 * Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
 
 You will receive the tokens you bought and the seller will receive the tokens you paid.&#x20;
