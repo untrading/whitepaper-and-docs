@@ -15,7 +15,7 @@ untrading.org 是一个革命性的平台，可让您以更高的盈利能力、
 * 支持 Web3 的网络浏览器，例如 Chrome、Firefox 或 Brave。
 * 安装在浏览器上并连接到以太坊测试网 (Sepolia 和 Goerli) 以及 Polygon 测试网 (Mumbai) 的 MetaMask 钱包扩展。
 * MetaMask 钱包中的一些测试 ETH 和测试 MATIC。
-* 对加密货币交易概念 (例如代币、交换和包装) 的基本理解。
+* 对加密货币交易概念 (例如 tokens、swaps 和 wrapping) 的基本理解。
 
 #### 步骤 1：获取测试代币
 
