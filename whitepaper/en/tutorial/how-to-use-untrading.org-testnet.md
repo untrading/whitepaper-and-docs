@@ -2,7 +2,7 @@
 description: >-
   Acquire test BTC and ETH and use it to swap into other test tokens; Wrap and
   unwrap unBTC and unETH from test WBTC and test WETH; Buy and sell unBTC and
-  unETH offerings on the Uncryptos marketplace.
+  unETH offerings on the untrading marketplace.
 ---
 
 # 🔍 How to Use untrading.org Testnet
@@ -28,7 +28,7 @@ To use untrading.org, you will need some test tokens that represent different cr
 * Select the blockchain from the drop-down menu.
 * Select the desired output token from the drop-down menus.
 * Follow the instructions on the screen for WBTC, WETH, USDC or USDT.
-* Click on "Swap" and confirm the transaction on MetaMask.
+* Click on "Swap" and confirm the transaction on MetaMask.
 * Wait for the transaction to be confirmed on the blockchain.&#x20;
 * Repeat the process for other tokens you want to acquire.
 
@@ -37,8 +37,8 @@ To use untrading.org, you will need some test tokens that represent different cr
 untrading.org uses its own tokens, called unBTC and unETH, to enable the dSaaP features. These tokens are wrapped versions of WBTC and WETH, which are ERC-20 tokens that represent Bitcoin and Ether on the Ethereum network. To wrap your WBTC and WETH into unBTC and unETH, follow these steps:
 
 * In the upper-right corner of [https://testnet.untrading.org/uncrypto](https://testnet.untrading.org/uncrypto), click the "Wrap Crypto" menu under your Profile picture.
-* Select WBTC as the input token and unBTC as the output token from the drop-down menus.
-* Enter the amount of WBTC you want to wrap or click on "Max" to wrap all your WBTC.
+* Select WBTC as the input token and unBTC as the output token from the drop-down menus.
+* Enter the amount of WBTC you want to wrap or click on "Max" to wrap all your WBTC.
 * Click on "Wrap" and confirm the transaction on MetaMask.
 * Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
 * Repeat the process for WETH and unETH.
