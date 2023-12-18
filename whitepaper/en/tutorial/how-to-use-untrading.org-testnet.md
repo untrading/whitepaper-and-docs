@@ -7,7 +7,7 @@ description: >-
 
 # 🔍 How to Use untrading.org Testnet
 
-untrading.org is a revolutionary platform that allows you to invest in cryptocurrencies with enhanced profitability, transparency and ownership history. By using the innovative Decentralized Strategy As A Platform (dSaaP) created by ERC-5173, you can participate in the future value increase of your tokens even after you sell them. In this tutorial, you will learn how to use the testnet version of untrading.org to get familiar with its features and functionalities.
+untrading is a revolutionary platform that allows you to invest in cryptocurrencies with enhanced profitability, transparency and ownership history. By using the innovative Decentralized Strategy As A Platform (dSaaP) created by ERC-5173, you can participate in the future value increase of your tokens even after you sell them. In this tutorial, you will learn how to use the testnet version of untrading to get familiar with its features and functionalities.
 
 ### Prerequisites
 
@@ -20,7 +20,7 @@ Before you start, you will need the following:
 
 ### Step 1: Acquire Test Tokens
 
-To use untrading.org, you will need some test tokens that represent different cryptocurrencies. You can swap your test ETH for test WBTC, test WETH, test USDT, and test USDC on the [https://testnet.untrading.org/](https://testnet.untrading.org/) testnet.
+To use untrading, you will need some test tokens that represent different cryptocurrencies. You can swap your test ETH for test WBTC, test WETH, test USDT, and test USDC on the [https://testnet.untrading.org/](https://testnet.untrading.org/) testnet.
 
 * You can get test ETH for free from a faucet: [https://goerlifaucet.com/](https://goerlifaucet.com/), [https://sepoliafaucet.com/](https://sepoliafaucet.com/), and [https://www.infura.io/faucet/sepolia](https://www.infura.io/faucet/sepolia).
 * Some test MATIC from [https://mumbaifaucet.com/](https://mumbaifaucet.com/).
@@ -34,7 +34,7 @@ To use untrading.org, you will need some test tokens that represent different cr
 
 ### Step 2: Wrap unBTC and unETH
 
-untrading.org uses its own tokens, called unBTC and unETH, to enable the dSaaP features. These tokens are wrapped versions of WBTC and WETH, which are ERC-20 tokens that represent Bitcoin and Ether on the Ethereum network. To wrap your WBTC and WETH into unBTC and unETH, follow these steps:
+untrading uses its own tokens, called unBTC and unETH, to enable the dSaaP features. These tokens are wrapped versions of WBTC and WETH, which are ERC-20 tokens that represent Bitcoin and Ether on the Ethereum network. To wrap your WBTC and WETH into unBTC and unETH, follow these steps:
 
 * In the upper-right corner of [https://testnet.untrading.org/uncrypto](https://testnet.untrading.org/uncrypto), click the "Wrap Crypto" menu under your Profile picture.
 * Select WBTC as the input token and unBTC as the output token from the drop-down menus.
@@ -73,7 +73,7 @@ To sell an existing offering, go to [https://testnet.untrading.org/uncrypto](htt
 
 ### Conclusion
 
-Congratulations! You have learned how to use the testnet version of untrading.org, a commission-free crypto investment protocol that enables token owners to benefit from future price increases even after selling their tokens. Once you’ve bought your unBTC and unETH, please immediately list them for sale so other users can buy your tokens. The real magic happens after you have sold them as you can now watch your Future Rewards grow. This is the fundamental difference between untrading.org and any other platforms.
+Congratulations! You have learned how to use the testnet version of untrading, a commission-free crypto investment protocol that enables token owners to benefit from future price increases even after selling their tokens. Once you’ve bought your unBTC and unETH, please immediately list them for sale so other users can buy your tokens. The real magic happens after you have sold them as you can now watch your Future Rewards grow. This is the fundamental difference between untrading and any other platforms.
 
 You can now explore the platform and experiment with different trading strategies. Remember, this is a testnet version, so the tokens you use have no real value and the platform may not be fully functional or stable.&#x20;
 

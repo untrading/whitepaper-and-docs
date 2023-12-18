@@ -34,4 +34,4 @@
 
 * [🎨 创作者指南](zhong-wen-zi-liao/chuang-zuo-zhe-zhi-nan.md)
 * [💡 用户指南](zhong-wen-zi-liao/yong-hu-zhi-nan.md)
-* [🔍 如何使用 untrading.org 测试网](zhong-wen-zi-liao/ru-he-shi-yong-untrading.org-ce-shi-wang.md)
+* [🔍 如何使用 untrading 测试网](zhong-wen-zi-liao/ru-he-shi-yong-untrading-ce-shi-wang.md)

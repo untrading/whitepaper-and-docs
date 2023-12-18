@@ -1,12 +1,12 @@
 ---
 description: >-
-  本教程向您展示了如何使用 untrading.org，获取代表不同加密货币的测试代币；将测试 WBTC 和测试 WETH 封装成 unBTC 和
-  unETH；在 untrading.org 平台上购买和出售unBTC和unETH报价。
+  本教程向您展示了如何使用 untrading，获取代表不同加密货币的测试代币；将测试 WBTC 和测试 WETH 封装成 unBTC 和 unETH；在
+  untrading 平台上购买和出售unBTC和unETH报价。
 ---
 
-# 🔍 如何使用 untrading.org 测试网
+# 🔍 如何使用 untrading 测试网
 
-untrading.org 是一个革命性的平台，可让您以更高的盈利能力、透明度和所有权历史投资加密货币。通过使用由 ERC-5173 创建的创新去中心化策略即平台 (dSaaP)，即使您出售代币，仍然可以参与其未来价值增长。在这个教程中，您将学习如何使用 untrading.org 的测试版本，以熟悉其功能和特性。
+untrading 是一个革命性的平台，可让您以更高的盈利能力、透明度和所有权历史投资加密货币。通过使用由 ERC-5173 创建的创新去中心化策略即平台 (dSaaP)，即使您出售代币，仍然可以参与其未来价值增长。在这个教程中，您将学习如何使用 untrading 的测试版本，以熟悉其功能和特性。
 
 ## 前提条件
 
@@ -19,7 +19,7 @@ untrading.org 是一个革命性的平台，可让您以更高的盈利能力、
 
 ## 步骤 1：获取测试代币
 
-要使用 untrading.org，您需要一些代表不同加密货币的测试代币。您可以在 untrading.org 测试网上将您的测试 ETH 换成测试 WBTC、测试 WETH、测试 USDT 和测试 USDC。
+要使用 untrading，您需要一些代表不同加密货币的测试代币。您可以在 untrading 测试网上将您的测试 ETH 换成测试 WBTC、测试 WETH、测试 USDT 和测试 USDC。
 
 * 您可以免费从水龙头获取测试 ETH：[https://goerlifaucet.com/](https://goerlifaucet.com/)、[https://sepoliafaucet.com/](https://sepoliafaucet.com/) 和 [https://www.infura.io/faucet/sepolia](https://www.infura.io/faucet/sepolia)。
 * 从 [https://mumbaifaucet.com/](https://mumbaifaucet.com/) 获取一些测试 MATIC。
@@ -33,12 +33,12 @@ untrading.org 是一个革命性的平台，可让您以更高的盈利能力、
 
 ## 第二步：封装 unBTC 和 unETH
 
-Untrading.org 使用自己的代币，称为 unBTC 和 unETH，来启用 dSaaP 功能。这些代币是在以太坊网络上代表比特币和以太币的 ERC-20 代币 WBTC 和 WETH 的再次封装版本。要将您的 WBTC 和 WETH 封装成 unBTC 和 unETH，请按照以下步骤操作：
+Untrading 使用自己的代币，称为 unBTC 和 unETH，来启用 dSaaP 功能。这些代币是在以太坊网络上代表比特币和以太币的 ERC-20 代币 WBTC 和 WETH 的再次封装版本。要将您的 WBTC 和 WETH 封装成 unBTC 和 unETH，请按照以下步骤操作：
 
 * 访问 [https://testnet.untrading.org/uncrypto](https://testnet.untrading.org/uncrypto)，并点击页面右上角您的个人资料 （Profile）照片下的封装加密菜单。
 * 从下拉菜单中选择 WBTC 作为输入代币。
 * 输入您想要封装的 WBTC 的数量，或点击最大值，以封装您所有的 WBTC。
-* 点击封装，并在 MetaMas k上确认交易。
+* 点击封装，并在 MetaMask 上确认交易。
 * 等待交易在区块链上被确认。您可以在 Etherscan 上查看状态。
 * 重复此过程，对 WETH 和 unETH 进行封装。
 
@@ -79,13 +79,13 @@ Untrading.org 使用自己的代币，称为 unBTC 和 unETH，来启用 dSaaP �
 
 ## 结论
 
-恭喜！您已经学会使用 untrading.org 的测试版本，这是一个免佣金的加密货币投资协议，即使在售出代币后，依然能使代币持有者从其未来价格上涨中获益。购买 unBTC 和 unETH 后，请立即将其列为出售，以便其他用户可以购买您的代币。真正的魔力会在您出售它们之后发生，因为您现在可以看着您的未来奖励增长。这是 untrading.org 与任何其他平台的根本区别。
+恭喜！您已经学会使用 untrading 的测试版本，这是一个免佣金的加密货币投资协议，即使在售出代币后，依然能使代币持有者从其未来价格上涨中获益。购买 unBTC 和 unETH 后，请立即将其列为出售，以便其他用户可以购买您的代币。真正的魔力会在您出售它们之后发生，因为您现在可以看着您的未来奖励增长。这是 untrading 与任何其他平台的根本区别。
 
-本教程向您展示了如何使用 untrading.org，这是一个让您可以以更高的盈利性、透明度和所有权历史来投资加密货币的革命性平台。您已经学会了如何：
+本教程向您展示了如何使用 untrading，这是一个让您可以以更高的盈利性、透明度和所有权历史来投资加密货币的革命性平台。您已经学会了如何：
 
 * 获取代表不同加密货币的测试代币；
 * 将测试 WBTC 和测试 WETH 封装成 unBTC 和 unETH；
-* 在 untrading.org 平台上购买和出售unBTC和unETH报价。
+* 在 untrading 平台上购买和出售unBTC和unETH报价。
 
 我们希望您喜欢这个教程，并觉得它有用。如果您有任何问题或反馈，请随时联系我们，邮箱是support@untrading.org。祝您投资愉快！
 
