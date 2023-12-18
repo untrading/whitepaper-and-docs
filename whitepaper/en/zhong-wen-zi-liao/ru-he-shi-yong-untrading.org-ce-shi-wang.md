@@ -35,8 +35,7 @@ untrading.org 是一个革命性的平台，可让您以更高的盈利能力、
 
 Untrading.org 使用自己的代币，称为 unBTC 和 unETH，来启用 dSaaP 功能。这些代币是在以太坊网络上代表比特币和以太币的 ERC-20 代币 WBTC 和 WETH 的再次封装版本。要将您的 WBTC 和 WETH 封装成 unBTC 和 unETH，请按照以下步骤操作：
 
-访问 [https://testnet.untrading.org/uncrypto](https://testnet.untrading.org/uncrypto)，并点击您的个人资料电话下的封装加密菜单。
-
+* 访问 [https://testnet.untrading.org/uncrypto](https://testnet.untrading.org/uncrypto)，并点击页面右上角您的个人资料 （Profile）照片下的封装加密菜单。
 * 从下拉菜单中选择 WBTC 作为输入代币。
 * 输入您想要封装的 WBTC 的数量，或点击最大值，以封装您所有的 WBTC。
 * 点击封装，并在 MetaMas k上确认交易。
