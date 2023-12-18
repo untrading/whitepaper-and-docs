@@ -86,6 +86,6 @@ Creating a Collection on untrading.org
 
 #### 21. A "SUCCESS" confirmation will appear on the top-right corner.
 
-
+***
 
 [_This Workflow was created with Tango._](https://app.tango.us/app/workflow/5c9e72c1-dbbc-41e3-a855-29cd41d45da6?utm\_source=magicCopy\&utm\_medium=magicCopy\&utm\_campaign=workflow%20export%20links)

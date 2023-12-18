@@ -23,8 +23,7 @@
 * [🔍 Wrapping and upgrading your NFT on untrading](tutorial/wrapping-and-upgrading-your-nft-on-untrading.md)
 * [🔍 Checking nFR Received and Total Payouts](tutorial/checking-nfr-received-and-total-payouts.md)
 * [🔧 Testnet on Ethereum and Polygon Networks](https://testnet.untrading.org)
-* [🔍 How to Use untrading.org Testnet](tutorial/how-to-use-untrading.org-testnet/README.md)
-  * [🔍 如何使用 untrading.org 测试网](tutorial/how-to-use-untrading.org-testnet/ru-he-shi-yong-untrading.org-ce-shi-wang.md)
+* [🔍 How to Use untrading.org Testnet](tutorial/how-to-use-untrading.org-testnet.md)
 
 ## FAQs
 
@@ -35,3 +34,4 @@
 
 * [🎨 创作者指南](zhong-wen-zi-liao/chuang-zuo-zhe-zhi-nan.md)
 * [💡 用户指南](zhong-wen-zi-liao/yong-hu-zhi-nan.md)
+* [🔍 如何使用 untrading.org 测试网](zhong-wen-zi-liao/ru-he-shi-yong-untrading.org-ce-shi-wang.md)
