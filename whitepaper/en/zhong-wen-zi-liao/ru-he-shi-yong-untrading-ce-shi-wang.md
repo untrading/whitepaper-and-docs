@@ -1,7 +1,7 @@
 ---
 description: >-
   本教程向您展示了如何使用 untrading，获取代表不同加密货币的测试代币；将测试 WBTC 和测试 WETH 封装成 unBTC 和 unETH；在
-  untrading 平台上购买和出售unBTC和unETH报价。
+  untrading 平台上购买和出售 unBTC 和 unETH 报价。
 ---
 
 # 🔍 如何使用 untrading 测试网
