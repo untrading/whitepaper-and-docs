@@ -1,4 +1,4 @@
-# ❔ General
+# 🌎 General
 
 <details>
 

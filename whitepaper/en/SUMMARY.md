@@ -27,8 +27,10 @@
 
 ## FAQs
 
-* [❔ General](faqs/general.md)
-* [❔ Getting Started](faqs/signing-up.md)
+* [🌎 General](faqs/general.md)
+* [🚀 Getting Started](faqs/signing-up.md)
+* [📈 Strategies and Investing](faqs/strategies-and-investing.md)
+* [⚙ Technical](faqs/technical.md)
 
 ## 中文资料
 
