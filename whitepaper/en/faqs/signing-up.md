@@ -2,11 +2,12 @@
 
 <details>
 
-<summary>How do I pass the KYC?</summary>
+<summary>Is untrading safe?</summary>
 
-With Web3, users can participate in digital economies without giving up control over their data due to its decentralized nature. Your W3 wallet is your identity and you have the sole control of it.
+Yes. untrading is an open-source Web3 project. Anyone can exam its source code on GitHub at: [https://github.com/untrading](https://github.com/untrading).&#x20;
 
-User accounts are verified via their Twitter accounts. Users are encouraged to provide their name, email address, and other social media accounts, but they are not required to do so.
+* **Non-custodial**: untrading is non-custodial, meaning it doesn't hold users' private keys or crypto assets directly. This can be considered a security advantage because users maintain control over their funds and aren't reliant on the platform's security measures.
+* **Smart contracts**: Many core functions of untrading are powered by smart contracts, which are tamper-proof and transparent blocks of code on the blockchain. This can increase trust and security, as the platform's actions are governed by publicly verifiable code.
 
 </details>
 
