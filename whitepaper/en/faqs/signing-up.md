@@ -1,19 +1,18 @@
-# ❔ Signing Up
+# ❔ Getting Started
 
 <details>
 
-<summary>Is untrading safe?</summary>
+<summary><strong>How do I start using untrading.org testnet?</strong></summary>
 
-Yes. untrading is an open-source Web3 project. Anyone can exam its source code on GitHub at: [https://github.com/untrading](https://github.com/untrading).&#x20;
-
-* **Non-custodial**: untrading is non-custodial, meaning it doesn't hold users' private keys or crypto assets directly. This can be considered a security advantage because users maintain control over their funds and aren't reliant on the platform's security measures.
-* **Smart contracts**: Many core functions of untrading are powered by smart contracts, which are tamper-proof and transparent blocks of code on the blockchain. This can increase trust and security, as the platform's actions are governed by publicly verifiable code.
+* Install a Web3-compatible browser extension (e.g., MetaMask) and connect it to the untrading.org testnet.
+* Acquire test ETH and other tokens from testnet faucets.
+* Follow the guide on the untrading.org documentation to wrap your test tokens into unBTC and unETH.
 
 </details>
 
 <details>
 
-<summary>Why must I be verified via Twitter?</summary>
+<summary>Why must I be verified via Twitter on app.untrading.org?</summary>
 
 By requiring users to verify their identity and link their accounts to a Twitter account, the protocol can ensure that it is doing its best to prevent wash trading. It may also help to protect users by ensuring that only legitimate accounts can access the service.
 
@@ -28,5 +27,13 @@ There are several ways to prevent wash trading:
 5. Publish transparent reporting: untrading.org will publish regular transaction activity findings and provide transparent reporting in order to prevent wash trading.
 
 Later, additional verification methods and OAuth sign-ins will be added.
+
+</details>
+
+<details>
+
+<summary>What is the difference between BTC and unBTC (as well as ETH and unETH)?</summary>
+
+unBTC and unETH are wrapped versions of Bitcoin (WBTC) and Ethereum (WETH) designed specifically for use on untrading.org. They enable participation in the platform's Decentralized Strategies as a Platform (dSaaP) features.
 
 </details>

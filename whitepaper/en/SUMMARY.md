@@ -28,7 +28,7 @@
 ## FAQs
 
 * [❔ General](faqs/general.md)
-* [❔ Signing Up](faqs/signing-up.md)
+* [❔ Getting Started](faqs/signing-up.md)
 
 ## 中文资料
 
