@@ -24,7 +24,7 @@ To use untrading, you will need some test tokens that represent different crypto
 
 * You can get test ETH for free from a faucet: [https://goerlifaucet.com/](https://goerlifaucet.com/), [https://sepoliafaucet.com/](https://sepoliafaucet.com/), and [https://www.infura.io/faucet/sepolia](https://www.infura.io/faucet/sepolia).
 * Some test MATIC from [https://mumbaifaucet.com/](https://mumbaifaucet.com/).
-* Go to the [https://testnet.untrading.org/uncrypto](https://testnet.untrading.org/uncryptos) testnet and click on the Test Tokens button.
+* Go to the [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos) testnet and click on the Test Tokens button.
 * Select the blockchain from the drop-down menu.
 * Select the desired output token from the drop-down menus.
 * Follow the instructions on the screen for WBTC, WETH, USDC or USDT.
@@ -34,42 +34,44 @@ To use untrading, you will need some test tokens that represent different crypto
 
 ### Step 2: Wrap unBTC and unETH
 
-untrading uses its own tokens, called unBTC and unETH, to enable the dSaaP features. These tokens are wrapped versions of WBTC and WETH, which are ERC-20 tokens that represent Bitcoin and Ether on the Ethereum network. To wrap your WBTC and WETH into unBTC and unETH, follow these steps:
+untrading uses its own tokens, called unBTC and unETH, to enable the dSaaP features. These tokens are wrapped versions of WBTC and WETH, which are ERC-20 tokens that represent Bitcoin and Ether on the Ethereum network. To wrap your WBTC and WETH into unBTC/USDT and unETH/USDC, follow these steps:
 
-* In the upper-right corner of [https://testnet.untrading.org/uncrypto](https://testnet.untrading.org/uncrypto), click the "Wrap Crypto" menu under your Profile picture.
-* Select WBTC as the input token and unBTC as the output token from the drop-down menus.
+* In the upper-right corner of [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos), click the "Wrap Crypto" menu under your Avatar.
+* Select WBTC as the Original token and  USDT as the Payment token from the drop-down menus.
 * Enter the amount of WBTC you want to wrap or click on "Max" to wrap all your WBTC.
+* Enter the Total Reward Ratio, Originator Reward Ratio (OR) and Number of Generations you are specifying for this unique unToken.&#x20;
 * Click on "Wrap" and confirm the transaction on MetaMask.
 * Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
-* Repeat the process for WETH and unETH.
-* Now you can sell your newly wrapped tokens.&#x20;
-* Select the token you want to sell (unBTC or unETH) and the token you want to receive (USDT or USDC) from the drop-down menus.
+* Repeat the process for WETH .
+
+### Step 3: Sell and change unBTC and unETH Offerings
+
+To sell an existing offering, go to [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos) and click on the Avatar.
+
+* Click the "Profile" menu and find the offering you want to sell and click on the “Sell” button.
 * Enter the amount of tokens you want to sell and the price per token you want to receive.
-* Enter the Total Reward Ratio, Originator Reward Ratio (OR) and Number of Generations you are specifying for this unique unToken.&#x20;
-* Click on "Sell" and confirm the transaction on MetaMask.
+* Click on the "List for sale" button and confirm the transaction on MetaMask.
 * Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
-* Your offering will be listed on the Markets, where other users can buy it.
 
-### Step 3: Buy unBTC and unETH Offerings
+To change an existing offering price, go to [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos) and click on the Avatar.
 
-Once you have some test USDC and USDT tokens, you can buy and sell unBTC and unETH on [https://testnet.untrading.org/uncrypto](https://testnet.untrading.org/uncrypto). You can either create your own offerings or browse the existing offerings from other users.
+* Click the "Profile" menu and find the offering you want to change and click into detail page.
+* Open the "..." menu under the price and click "Change price".
+* Modify the amount of token you want to sell and the price per token you want to receive.
+* Click on the "Change price" button and confirm the transaction on MetaMask.
+* Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
 
-* To buy an existing offering, go to https://testnet.untrading.org/uncrypto and click on the “Markets" tab.&#x20;
+### Step 4: Buy unBTC and unETH Offerings
+
+Once you have some test USDC and USDT tokens, you can buy unBTC and unETH on [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos).&#x20;
+
+* To buy an existing offering, go to [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos) and click on the “Markets" tab.&#x20;
 * Browse the available offerings and find one that matches your preferences.
 * Click on the “Buy - Limit" button and enter the amount of tokens you want to buy.
-* Click on “Buy - Limit" and confirm the transaction on MetaMask.
+* Click on “Buy - Limit"，approve amount of payment tokens then confirm the transaction on MetaMask.
 * Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
 
 You will receive the tokens you bought and the seller will receive the tokens you paid.&#x20;
-
-### Step 4: Sell unBTC and unETH Offerings
-
-To sell an existing offering, go to [https://testnet.untrading.org/uncrypto](https://testnet.untrading.org/uncryptos) and click on the Profile picture.
-
-* Click the “Profile” menu and find the offering you want to sell and click on the “Sell” button.
-* Enter the amount of tokens you want to sell and the price per token you want to receive.
-* Click on the “List for sale button” and confirm the transaction on MetaMask.
-* Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
 
 ### Conclusion
 
