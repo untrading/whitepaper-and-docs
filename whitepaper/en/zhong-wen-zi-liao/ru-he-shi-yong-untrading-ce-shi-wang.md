@@ -31,7 +31,19 @@ untrading 是一个革命性的平台，可让您以更高的盈利能力、透�
 * 等待交易在区块链上确认。
 * 重复此过程，获取您想要的其他测试代币。
 
-## 二、封装&#x20;
+## 二、购买
+
+一旦您拥有了一些测试 USDC 和 USDT 代币，您就可以在 [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos) 上购买和出售 unBTC 和 unETH。您可以创建自己的交易对报价，也可以浏览其他用户的现有的交易对报价。
+
+要购买现有的交易对，请访问 [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos)，并点击 “Markets” 标签。
+
+* 浏览 unBTC 和 unETH 的交易对报价列表，找到符合您偏好的交易对报价点击进入详情页面。
+* 点击 “Buy - Limit” 按钮，在购买页面中输入您想要购买的数量。
+* 点击 “Buy - Limit” ，并在 MetaMask 上授权扣除支付代币，并确认购买交易。
+* 等待交易在区块链上被确认。您可以在 Etherscan 上查看状态。
+* 您可以在 Profile 个人页面看到您购买的代币
+
+## 三、封装&#x20;
 
 Untrading 上的交易需要封装成特定的交易对，如 unBTC/USDT、unETH/USDC。要将您的 WBTC 和 WETH 封装成 unBTC/USDT 或 unETH/USDC，请按照以下步骤操作：
 
@@ -45,19 +57,9 @@ Untrading 上的交易需要封装成特定的交易对，如 unBTC/USDT、unETH
 * 等待交易在区块链上被确认。您可以在 Etherscan 上查看状态；
 * 重复此过程，对 WETH 进行封装。
 
-## 三、购买
-
-一旦您拥有了一些测试 USDC 和 USDT 代币，您就可以在 [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos) 上购买和出售 unBTC 和 unETH。您可以创建自己的交易对报价，也可以浏览其他用户的现有的交易对报价。
-
-要购买现有的交易对，请访问 [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos)，并点击 “Markets” 标签。
-
-* 浏览 unBTC 和 unETH 的交易对报价列表，找到符合您偏好的交易对报价点击进入详情页面。
-* 点击 “Buy - Limit” 按钮，在购买页面中输入您想要购买的数量。
-* 点击 “Buy - Limit” ，并在 MetaMask 上授权扣除支付代币，并确认购买交易。
-* 等待交易在区块链上被确认。您可以在 Etherscan 上查看状态。
-* 您可以在 Profile 个人页面看到您购买的代币
-
 ## 四、出售和修改价格
+
+**快来测试市场换取奖励！把你的测试 unBTC/unETH 卖掉，尽享测试网福利！**
 
 要创建自己的交易对报价，请访问 [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos)，并点击您的用户头像。
 

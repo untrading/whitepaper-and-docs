@@ -22,7 +22,7 @@ Before you start, you will need the following:
 
 To use untrading, you will need some test tokens that represent different cryptocurrencies. You can swap your test ETH for test WBTC, test WETH, test USDT, and test USDC on the [https://testnet.untrading.org/](https://testnet.untrading.org/) testnet.
 
-* You can get test ETH for free from a faucet: [https://goerlifaucet.com/](https://goerlifaucet.com/), [https://sepoliafaucet.com/](https://sepoliafaucet.com/), and [https://www.infura.io/faucet/sepolia](https://www.infura.io/faucet/sepolia).
+* You can get test ETH for free from a faucet (we recommend a Sepolia faucet): [https://goerlifaucet.com/](https://goerlifaucet.com/), [https://sepoliafaucet.com/](https://sepoliafaucet.com/), and [https://www.infura.io/faucet/sepolia](https://www.infura.io/faucet/sepolia).
 * Some test MATIC from [https://mumbaifaucet.com/](https://mumbaifaucet.com/).
 * Go to the [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos) testnet and click on the Test Tokens button.
 * Select the blockchain from the drop-down menu.
@@ -32,7 +32,19 @@ To use untrading, you will need some test tokens that represent different crypto
 * Wait for the transaction to be confirmed on the blockchain.&#x20;
 * Repeat the process for other tokens you want to acquire.
 
-### Step 2: Wrap unBTC and unETH
+### Step 2: Buy unBTC and unETH Offerings
+
+Once you have some test USDC and USDT tokens, you can buy unBTC and unETH on [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos).&#x20;
+
+* To buy an existing offering, go to [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos) and click on the “Markets" tab.&#x20;
+* Browse the available offerings and find one that matches your preferences.
+* Click on the “Buy - Limit" button and enter the amount of tokens you want to buy.
+* Click on “Buy - Limit"，approve amount of payment tokens then confirm the transaction on MetaMask.
+* Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
+
+You will receive the tokens you bought and the seller will receive the tokens you paid.&#x20;
+
+### Step 3: Wrap unBTC and unETH
 
 untrading uses its own tokens, called unBTC and unETH, to enable the dSaaP features. These tokens are wrapped versions of WBTC and WETH, which are ERC-20 tokens that represent Bitcoin and Ether on the Ethereum network. To wrap your WBTC and WETH into unBTC/USDT and unETH/USDC, follow these steps:
 
@@ -44,7 +56,9 @@ untrading uses its own tokens, called unBTC and unETH, to enable the dSaaP featu
 * Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
 * Repeat the process for WETH .
 
-### Step 3: Sell and change unBTC and unETH Offerings
+### Step 4: List, Sell and Make Changes to unBTC and unETH Offerings
+
+**Turn your test unBTC/unETH into rewards! Sell them on the marketplace and unlock your Testnet earnings.**
 
 To sell an existing offering, go to [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos) and click on the Avatar.
 
@@ -60,18 +74,6 @@ To change an existing offering price, go to [https://testnet.untrading.org/uncry
 * Modify the amount of token you want to sell and the price per token you want to receive.
 * Click on the "Change price" button and confirm the transaction on MetaMask.
 * Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
-
-### Step 4: Buy unBTC and unETH Offerings
-
-Once you have some test USDC and USDT tokens, you can buy unBTC and unETH on [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos).&#x20;
-
-* To buy an existing offering, go to [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos) and click on the “Markets" tab.&#x20;
-* Browse the available offerings and find one that matches your preferences.
-* Click on the “Buy - Limit" button and enter the amount of tokens you want to buy.
-* Click on “Buy - Limit"，approve amount of payment tokens then confirm the transaction on MetaMask.
-* Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
-
-You will receive the tokens you bought and the seller will receive the tokens you paid.&#x20;
 
 ### Conclusion
 
