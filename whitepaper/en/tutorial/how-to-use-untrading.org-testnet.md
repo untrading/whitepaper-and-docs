@@ -9,7 +9,11 @@ description: >-
 
 untrading is a revolutionary platform that allows you to invest in cryptocurrencies with enhanced profitability, transparency and ownership history. By using the innovative Decentralized Strategy As A Platform (dSaaP) created by ERC-5173, you can participate in the future value increase of your tokens even after you sell them. In this tutorial, you will learn how to use the testnet version of untrading to get familiar with its features and functionalities.
 
-### Prerequisites
+Are you ready to rewrite the rules of investing? With untrading and its revolutionary unCryptos, you can! unCryptos are living, breathing investments that keep rewarding you long after you sell. These dynamic investment vehicles are defined by four key parameters: **Total Rewards (R), Originator's Rewards (ORs), Future Rewards (FRs)**, and N**umber of Participating Generations (# of Gens)**. These parameters dictate your share of future profits, the Originator's cut, and the token's lineage. Dive into the testnet with this tutorial and unlock the secrets of personalized wealth creation with unCryptos!
+
+Ready to take control of your crypto future? Let's begin!
+
+## Prerequisites
 
 Before you start, you will need the following:
 
@@ -18,7 +22,7 @@ Before you start, you will need the following:
 * Some test ETH and test MATIC in your MetaMask wallet.&#x20;
 * A basic understanding of cryptocurrency trading concepts, such as tokens, swaps, and wrapping.
 
-### Step 1: Acquire Test Tokens
+## Step 1: Acquire Test Tokens
 
 To use untrading, you will need some test tokens that represent different cryptocurrencies. You can swap your test ETH for test WBTC, test WETH, test USDT, and test USDC on the [https://testnet.untrading.org/](https://testnet.untrading.org/) testnet.
 
@@ -32,7 +36,7 @@ To use untrading, you will need some test tokens that represent different crypto
 * Wait for the transaction to be confirmed on the blockchain.&#x20;
 * Repeat the process for other tokens you want to acquire.
 
-### Step 2: Buy unBTC and unETH Offerings
+## Step 2: Buy unBTC and unETH Offerings
 
 Once you have some test USDC and USDT tokens, you can buy unBTC and unETH on [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos).&#x20;
 
@@ -56,7 +60,7 @@ untrading uses its own tokens, called unBTC and unETH, to enable the dSaaP featu
 * Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
 * Repeat the process for WETH .
 
-### Step 4: List, Sell and Make Changes to unBTC and unETH Offerings
+## Step 4: List, Sell and Make Changes to unBTC and unETH Offerings
 
 **Turn your test unBTC/unETH into rewards! Sell them on the marketplace and unlock your Testnet earnings.**
 
@@ -75,7 +79,7 @@ To change an existing offering price, go to [https://testnet.untrading.org/uncry
 * Click on the "Change price" button and confirm the transaction on MetaMask.
 * Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
 
-### Conclusion
+## Conclusion
 
 Congratulations! You have learned how to use the testnet version of untrading, a commission-free crypto investment protocol that enables token owners to benefit from future price increases even after selling their tokens. Once you’ve bought your unBTC and unETH, please immediately list them for sale so other users can buy your tokens. The real magic happens after you have sold them as you can now watch your Future Rewards grow. This is the fundamental difference between untrading and any other platforms.
 
