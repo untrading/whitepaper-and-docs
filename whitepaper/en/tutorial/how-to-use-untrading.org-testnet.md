@@ -48,7 +48,7 @@ Once you have some test USDC and USDT tokens, you can buy unBTC and unETH on [ht
 
 You will receive the tokens you bought and the seller will receive the tokens you paid.&#x20;
 
-### Step 3: Wrap unBTC and unETH
+## Step 3: Wrap unBTC and unETH
 
 untrading uses its own tokens, called unBTC and unETH, to enable the dSaaP features. These tokens are wrapped versions of WBTC and WETH, which are ERC-20 tokens that represent Bitcoin and Ether on the Ethereum network. To wrap your WBTC and WETH into unBTC/USDT and unETH/USDC, follow these steps:
 
