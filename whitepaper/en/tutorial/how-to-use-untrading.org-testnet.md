@@ -9,7 +9,7 @@ description: >-
 
 untrading is a revolutionary platform that allows you to invest in cryptocurrencies with enhanced profitability, transparency and ownership history. By using the innovative Decentralized Strategy As A Platform (dSaaP) created by ERC-5173, you can participate in the future value increase of your tokens even after you sell them. In this tutorial, you will learn how to use the testnet version of untrading to get familiar with its features and functionalities.
 
-Are you ready to rewrite the rules of investing? With untrading and its revolutionary unCryptos, you can! unCryptos are living, breathing investments that keep rewarding you long after you sell. These dynamic investment vehicles are defined by four key parameters: **Total Rewards (R), Originator's Rewards (ORs), Future Rewards (FRs)**, and N**umber of Participating Generations (# of Gens)**. These parameters dictate your share of future profits, the Originator's cut, and the token's lineage. Dive into the testnet with this tutorial and unlock the secrets of personalized wealth creation with unCryptos!
+**Are you ready to rewrite the rules of investing?** With untrading and its revolutionary unCryptos, you can! unCryptos are living, breathing investments that keep rewarding you long after you sell. These dynamic investment vehicles are defined by four key parameters: **Total Rewards (R), Originator's Rewards (ORs), Future Rewards (FRs)**, and N**umber of Participating Generations (# of Gens)**. These parameters dictate your share of future profits, the Originator's cut, and the token's lineage. Dive into the testnet with this tutorial and unlock the secrets of personalized wealth creation with unCryptos!
 
 Ready to take control of your crypto future? Let's begin!
 
@@ -24,7 +24,7 @@ Before you start, you will need the following:
 
 ## Step 1: Acquire Test Tokens
 
-To use untrading, you will need some test tokens that represent different cryptocurrencies. You can swap your test ETH for test WBTC, test WETH, test USDT, and test USDC on the [https://testnet.untrading.org/](https://testnet.untrading.org/) testnet.
+To use untrading, you will need some test tokens that represent different cryptocurrencies. You can directly mint test tokens on our Sepolia chain. On other testnets, you can swap your test ETH (or test MATIC) for test WBTC, test WETH, test USDT, and test USDC on the [https://testnet.untrading.org/](https://testnet.untrading.org/) testnet.
 
 * You can get test ETH for free from a faucet (we recommend a Sepolia faucet): [https://goerlifaucet.com/](https://goerlifaucet.com/), [https://sepoliafaucet.com/](https://sepoliafaucet.com/), and [https://www.infura.io/faucet/sepolia](https://www.infura.io/faucet/sepolia).
 * Some test MATIC from [https://mumbaifaucet.com/](https://mumbaifaucet.com/).
@@ -40,7 +40,7 @@ To use untrading, you will need some test tokens that represent different crypto
 
 Once you have some test USDC and USDT tokens, you can buy unBTC and unETH on [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos).&#x20;
 
-* To buy an existing offering, go to [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos) and click on the “Markets" tab.&#x20;
+* To buy an existing offering, go to [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos), or click on the “Markets" tab on any other page you are on.&#x20;
 * Browse the available offerings and find one that matches your preferences.
 * Click on the “Buy - Limit" button and enter the amount of tokens you want to buy.
 * Click on “Buy - Limit"，approve amount of payment tokens then confirm the transaction on MetaMask.
