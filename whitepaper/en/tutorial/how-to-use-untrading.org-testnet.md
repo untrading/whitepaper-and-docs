@@ -26,17 +26,22 @@ Before you start, you will need the following:
 
 To use untrading, you will need some test tokens that represent different cryptocurrencies. You can directly mint test tokens on our Sepolia chain. On other testnets, you can swap your test ETH (or test MATIC) for test WBTC, test WETH, test USDT, and test USDC on the [https://testnet.untrading.org/](https://testnet.untrading.org/) testnet.
 
-* You can get test ETH for free from a faucet (we recommend a Sepolia faucet): [https://goerlifaucet.com/](https://goerlifaucet.com/), [https://sepoliafaucet.com/](https://sepoliafaucet.com/), and [https://www.infura.io/faucet/sepolia](https://www.infura.io/faucet/sepolia).
-* Some test MATIC from [https://mumbaifaucet.com/](https://mumbaifaucet.com/).
+### Testnet Native Tokens:
+
+* **Ethereum testnet native test tokens:** You can get test ETH for free from a faucet (we recommend a Sepolia faucet):  [https://sepoliafaucet.com/](https://sepoliafaucet.com/), [https://www.infura.io/faucet/sepolia](https://www.infura.io/faucet/sepolia) or [https://goerlifaucet.com/](https://goerlifaucet.com/).
+* **Mumbai testnet native tokens:** Some test MATIC from [https://mumbaifaucet.com/](https://mumbaifaucet.com/).
+
+### Untrading Testnet Tokens:
+
 * Go to the [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos) testnet and click on the Test Tokens button.
-* Select the blockchain from the drop-down menu.
+* Select the blockchain from the drop-down menu (e.g. Sepolia).
 * Select the desired output token from the drop-down menus.
-* Follow the instructions on the screen for WBTC, WETH, USDC or USDT.
-* Click on "Swap" and confirm the transaction on MetaMask.
+* Follow the instructions on the screen for WBTC, WETH, SOL, LINK, UNI, UN, USDC or USDT.
+* Click on "Mint" and confirm the transaction on MetaMask.
 * Wait for the transaction to be confirmed on the blockchain.&#x20;
 * Repeat the process for other tokens you want to acquire.
 
-## Step 2: Buy unBTC and unETH Offerings
+## Step 2: Buy unBTC, unETH, unSOL, unLINK, unUNI, and UN² Offerings
 
 Once you have some test USDC and USDT tokens, you can buy unBTC and unETH on [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos).&#x20;
 
@@ -48,9 +53,9 @@ Once you have some test USDC and USDT tokens, you can buy unBTC and unETH on [ht
 
 You will receive the tokens you bought and the seller will receive the tokens you paid.&#x20;
 
-## Step 3: Wrap unBTC and unETH
+## Step 3: Wrap unBTC, unETH, unSOL, unLINK, unUNI, and UN²&#x20;
 
-untrading uses its own tokens, called unBTC and unETH, to enable the dSaaP features. These tokens are wrapped versions of WBTC and WETH, which are ERC-20 tokens that represent Bitcoin and Ether on the Ethereum network. To wrap your WBTC and WETH into unBTC/USDT and unETH/USDC, follow these steps:
+untrading uses its own tokens, called unBTC, unETH, unSOL, unLINK, unUNI, and UN², to enable the dSaaP features. These tokens are wrapped versions of WBTC, WETH, SOL, LINK, UNI and UN respectively, which are ERC-20 tokens that represent Bitcoin and Ether on the Ethereum network. To wrap your unBTC, unETH, unSOL, unLINK, unUNI, and UN² into unBTC/USDT and unETH/USDC, for example, follow these steps:
 
 * In the upper-right corner of [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos), click the "Wrap Crypto" menu under your Avatar.
 * Select WBTC as the Original token and  USDT as the Payment token from the drop-down menus.
@@ -60,9 +65,9 @@ untrading uses its own tokens, called unBTC and unETH, to enable the dSaaP featu
 * Wait for the transaction to be confirmed on the blockchain. You can check the status on Etherscan.
 * Repeat the process for WETH .
 
-## Step 4: List, Sell and Make Changes to unBTC and unETH Offerings
+## Step 4: List, Sell and Make Changes to unBTC, unETH, unSOL, unLINK, unUNI, and UN² Offerings
 
-**Turn your test unBTC/unETH into rewards! Sell them on the marketplace and unlock your Testnet earnings.**
+**Turn your test unBTC, unETH, unSOL, unLINK, unUNI, and UN² into rewards! Sell them on the marketplace and unlock your Testnet earnings.**
 
 To sell an existing offering, go to [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos) and click on the Avatar.
 
@@ -87,9 +92,9 @@ You can now explore the platform and experiment with different trading strategie
 
 You have learned how to:
 
-* Acquire test BTC and ETH and use it to swap into other test tokens;
-* Wrap and unwrap unBTC and unETH from test WBTC and test WETH;
-* Buy and sell unBTC and unETH offerings on the Uncryptos marketplace.
+* Acquire test tokens;
+* Wrap and unwrap unBTC, unETH, unSOL, unLINK, unUNI, and UN² from test WBTC and test WETH, test SOL, test LINK, test UNI and test UN tokens;
+* Buy and sell unToken offerings on the uncryptos marketplace.
 
 We hope you enjoyed this tutorial and found it useful. If you have any questions or feedback, please feel free to contact us at support@untrading.org. Happy testing!
 
