@@ -1,39 +1,40 @@
 # Table of contents
 
-* [Managed DeFi Hedged Pools](README.md)
+* [Welcome to Untrading Technologies Pte Ltd](README.md)
+* [👩‍💻 Redefining Asset Transactions with Enhanced Transparency and Ownership History](redefining-asset-transactions-with-enhanced-transparency-and-ownership-history.md)
+* [📃 Whitepaper](whitepaper/README.md)
+  * [Print Version](whitepaper/print-version.md)
+  * [nFR Distribution](whitepaper/nfr-distribution.md)
+* [app.untrading.org Intro](app.untrading.org-intro.md)
+* [⚠️ Risks](risks.md)
+* [📣 Community Guidelines](community-guidelines.md)
+* [🔠 Terms of Service](terms-of-service.md)
+* [🔏 Privacy Policy](privacy-policy.md)
+* [🎨 Creators' Introduction](readme.md)
+* [💡 Users' Guide](users-guide.md)
 
-## getting started
+## tutorial
 
-* [Legal notice and disclaimer](getting-started/legal-notice-and-disclaimer/README.md)
-  * [Terms and conditions](getting-started/legal-notice-and-disclaimer/terms-and-conditions.md)
-  * [Privacy Statement](getting-started/legal-notice-and-disclaimer/privacy-statement.md)
-  * [Corporate GDPR Statement](getting-started/legal-notice-and-disclaimer/corporate-gdpr-statement.md)
-* [On diversification and risk control](getting-started/on-diversification-and-risk-control.md)
-* [FAQ](getting-started/faq/README.md)
-  * [ioBots](getting-started/faq/iobots.md)
-  * [Hedged pools for retails investors](getting-started/faq/hedged-pool-products-for-retail-investors.md)
-  * [Solutions for institutional investors](getting-started/faq/solutions-for-institutional-investors.md)
-  * [DeFi](getting-started/faq/defi.md)
-  * [Tokens](getting-started/faq/tokens.md)
-  * [DAOs](getting-started/faq/dao-faq.md)
+* [🔍 How to Use the Polygon Network on Metamask on Chrome Extension](tutorial/how-to-use-the-polygon-network-on-metamask-on-chrome-extension.md)
+* [🔍 Registering and Being Verified on untrading.org](tutorial/registering-and-being-verified-on-untrading.org.md)
+* [🔍 Creating a SET](tutorial/creating-a-set.md)
+* [🔍 Creating a Collection](tutorial/creating-a-collection.md)
+* [🔍 unNFT Import from an Airdrop](tutorial/unnft-import-from-an-airdrop.md)
+* [🔍 Minting an unNFT and List It for Sell on untrading](tutorial/minting-an-unnft-and-list-it-for-sell-on-untrading.md)
+* [🔍 Wrapping and upgrading your NFT on untrading](tutorial/wrapping-and-upgrading-your-nft-on-untrading.md)
+* [🔍 Checking nFR Received and Total Payouts](tutorial/checking-nfr-received-and-total-payouts.md)
+* [🔧 Testnet on Ethereum and Polygon Networks](https://testnet.untrading.org)
+* [🔍 How to Use untrading.org Testnet](tutorial/how-to-use-untrading.org-testnet.md)
 
-## Products
+## FAQs
 
-* [Defy Hedged Pool](products/defy-fund-pool.md)
-* [How to invest in Defy by buying DEFY token](products/how-to-buy-defy-1.md)
+* [🌎 General](faqs/general.md)
+* [🚀 Getting Started](faqs/signing-up.md)
+* [📈 Strategies and Investing](faqs/strategies-and-investing.md)
+* [⚙️ Technical](faqs/technical.md)
 
-## DAOs <a href="#dao" id="dao"></a>
+## 中文资料
 
-* [iob.fi DAOs](dao/iob.fi-daos.md)
-
-## Smart Contracts
-
-* [Addresses](smart-contracts/addresses.md)
-* [Useful tools](smart-contracts/useful-tools.md)
-
-## Tutorials
-
-* [Requesting and Accessing 2021 IOB Dividend](tutorials/requesting-and-accessing-2021-iob-dividend.md)
-* [请求并使用 2021 IOB 股息](tutorials/qing-qiu-bing-shi-yong-2021-iob-gu-xi.md)
-* [Rinkeby Testnet](tutorials/rinkeby-testnet/README.md)
-  * [Popular Vote Token Request and Voting](tutorials/rinkeby-testnet/popular-vote-token-request-and-voting.md)
+* [🎨 创作者指南](zhong-wen-zi-liao/chuang-zuo-zhe-zhi-nan.md)
+* [💡 用户指南](zhong-wen-zi-liao/yong-hu-zhi-nan.md)
+* [🔍 如何使用 untrading 测试网](zhong-wen-zi-liao/ru-he-shi-yong-untrading-ce-shi-wang.md)
