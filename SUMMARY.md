@@ -24,7 +24,7 @@
 * [🔍 Wrapping and upgrading your NFT on untrading](tutorial/wrapping-and-upgrading-your-nft-on-untrading.md)
 * [🔍 Checking nFR Received and Total Payouts](tutorial/checking-nfr-received-and-total-payouts.md)
 * [🔧 Testnet on Ethereum and Polygon Networks](https://testnet.untrading.org)
-* [🔍 How to Use untrading.org Testnet](tutorial/how-to-use-untrading.org-testnet.md)
+* [🔍 How to Buy and Sell unCryptos on untrading.org Testnet](tutorial/how-to-buy-and-sell-uncryptos-on-untrading.org-testnet.md)
 
 ## FAQs
 
