@@ -419,6 +419,40 @@ When creating an unCrypto token exchange pair, users act as Originators and must
 
 Untrading unCryptos like unBTC and unETH break new ground by being truly divisible non-fungible tokens (NFTs) within the ERC-721 framework. This innovative approach allows users to purchase any fraction or the entire amount of an unCrypto being offered by a seller, providing unmatched flexibility, customization, and increasing the liquidity and flexibility of the unCrypto tokens. In summary, unCryptos offer a secure, user-friendly, and innovative approach to owning and trading popular cryptocurrencies. With pre-approved tokens, stablecoin payments, and true divisibility, unCryptos empower users to participate in the crypto market with greater control and flexibility.
 
+<mark style="color:green;">**2.4.4.4**</mark>**        Functionality of unCryptos**&#x20;
+
+This section details the core functionalities associated with unCryptos, including wrapping, order types, and unwrapping processes.
+
+<mark style="color:green;">**2.4.4.4.1**</mark>**      Wrapping ERC-20 Tokens**
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-11 12.57.43.png" alt=""><figcaption><p><em>Wrapping ERC-20 Tokens</em></p></figcaption></figure>
+
+The process of wrapping ERC-20 tokens into unCryptos is a cornerstone of the Untrading platform. This procedure transforms standard ERC-20 tokens into ERC-5173 compliant tokens, endowing them with unique characteristics. These include eligibility for Future Rewards and enhanced traceability of ownership. The wrapping mechanism is designed to be seamless and secure, ensuring that the integrity of the underlying asset is maintained throughout the conversion:
+
+* **Originators:** Users initiate the wrapping process, acting as the "Originator" for the new unCrypto token.&#x20;
+* **Selection of ERC-20 Token:** Originators choose a specific ERC-20 token from Untrading's pre-approved list (e.g., BTC, ETH, etc.) to be wrapped into an unCrypto.&#x20;
+* **Specifying Payment Token:** Originators also define the "Payment Token" used for purchasing fractions of the unCrypto. Currently, USDC and USDT stablecoins are supported for this purpose.&#x20;
+* **Wrapping Process:** Once the selection is complete, Untrading securely wraps the chosen ERC-20 token, converting it into a unique unCrypto token on the Ethereum blockchain. This unCrypto inherits the value of the underlying ERC-20 token while unlocking additional functionalities like future rewards and divisibility.
+
+<mark style="color:green;">**2.4.4.4.2**</mark>   **Limit Price Selling and Buying**
+
+Untrading introduces a limit price feature for transactions involving unCryptos. This allows users to set specific price thresholds for buying or selling their tokens, providing greater control over their investment strategies. The limit price functionality ensures that trades are executed only when the market conditions align with the user's predefined parameters, optimizing the timing and profitability of transactions:
+
+* **Limit Sell Orders:** Users can specify a minimum price they are willing to accept for selling a fraction or their entire holding of an unCrypto. The order remains active until filled or manually canceled.&#x20;
+* **Limit Buy Orders:** Users can define a maximum price they are willing to pay for acquiring a fraction or the entirety of an unCrypto offered by another user. This approach allows for more strategic buying opportunities.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-11 12.58.52.png" alt=""><figcaption><p><em>Limit Price Selling and Buying</em></p></figcaption></figure>
+
+<mark style="color:green;">**2.4.4.4.3**</mark>**     Unwrapping unCryptos from the Multisignature Contracts**
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-11 12.59.32.png" alt=""><figcaption></figcaption></figure>
+
+Token holders (current unCrypto holders) may redeem their holdings back to the underlying ERC-20 token. For the benefits of all Flow members, this process requires approval from the original creator of the unCrypto. The unwrapping process is designed to be as straightforward as the wrapping procedure, offering flexibility and choice to the token holders in managing their assets:
+
+* **Unwrapping Request:** The current holder of the unCrypto initiates an unwrapping request through the Untrading platform.&#x20;
+* **Originator Approval:** The originator who created the unCrypto has the final say on the unwrapping request. They can either approve or reject the request based on their own discretion.&#x20;
+* **Automatic Unwrapping:** Upon receiving approval from the originator, Untrading automatically unwinds the wrapping process. The user receives the equivalent amount of the underlying ERC-20 token back into their wallet.
+
 ## <mark style="color:green;">2.5</mark>        PVA Specification <a href="#h.sdzwoztnri38" id="h.sdzwoztnri38"></a>
 
 We are implementing our EIP-5173 extension using the ERC721 standard, with additional extensions proposed by EIP-2981 and EIP-4910 for on-chain royalty distribution.
