@@ -12,7 +12,7 @@ by Yale ReiSoleil, @dRadiant, D Wang, PhD
 
 March, 2024
 
-_v. 2.0.1 beta_
+_v. 2.1.1 beta_
 
 
 
@@ -157,7 +157,7 @@ By using dSaaP, users can benefit from the following advantages:
 In conclusion, dSaap has the potential to fundamentally reshape the landscape of asset management, empowering individuals with greater control, transparency, and access to sophisticated investment opportunities.\
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_This paper is organized into five sections and discusses two key features: 1) Provenance Value Amplification (PVA), which enables users to trade their cryptocurrencies and NFTs without losing the future value of their assets, and 2) Statistical Arbitrage Market Making Yield (SAMMY), a feature that will offer market-neutral hedge fund strategies that leverage statistical arbitrage techniques. The paper also discusses the challenges of the traditional financial trading system and how Untrading aims to revolutionize the industry by offering its users a fair, transparent, and accessible platform._
+_This paper is organized into five sections and discusses three key features: 1) Provenance Value Amplification (PVA), which enables users to trade their cryptocurrencies and NFTs without losing the future value of their assets, 2) Statistical Arbitrage Market Making Yield (SAMMY), a feature that will offer market-neutral hedge fund strategies that leverage statistical arbitrage techniques, and 3) UN tokenomics. The paper also discusses the challenges of the traditional financial trading system and how Untrading aims to revolutionize the industry by offering its users a fair, transparent, and accessible platform._
 
 ## <mark style="color:green;">02           Strategy 1 - Provenance Value Amplification (PVA) Framework</mark>
 
