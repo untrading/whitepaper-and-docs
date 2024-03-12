@@ -441,7 +441,9 @@ Untrading introduces a limit price feature for transactions involving unCryptos.
 * **Limit Sell Orders:** Users can specify a minimum price they are willing to accept for selling a fraction or their entire holding of an unCrypto. The order remains active until filled or manually canceled.&#x20;
 * **Limit Buy Orders:** Users can define a maximum price they are willing to pay for acquiring a fraction or the entirety of an unCrypto offered by another user. This approach allows for more strategic buying opportunities.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-03-11 12.58.52.png" alt=""><figcaption><p><em>Limit Price Selling and Buying</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-12 09.18.58.png" alt=""><figcaption><p><em>Limit Price Selling</em></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-11 12.58.52.png" alt=""><figcaption><p><em>Limit Price Buying</em></p></figcaption></figure>
 
 <mark style="color:green;">**2.4.4.4.3**</mark>**     Unwrapping unCryptos from the Multisignature Contracts**
 
