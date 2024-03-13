@@ -841,6 +841,99 @@ Untrading is set to introduce Statistical Arbitrage Market Making Yield (SAMMY) 
 
 In conclusion, Untrading's Statistical Arbitrage Market Making strategy is a comprehensive approach that empowers users with access to sophisticated trading strategies. By strategically deploying the system and expanding its B2B services, Untrading positions itself as a valuable partner in the cryptocurrency landscape, unlocking new revenue streams and fostering long-term growth.
 
+## <mark style="color:green;">04         Tokenomics</mark>
+
+The tokenomics of a project are crucial in ensuring long-term viability and success. This section outlines the economic structure of the Untrading ecosystem, focusing on the UN token, its allocation, distribution, and utility. A well-designed token economics (tokenomics) model fosters a sustainable and thriving platform by incentivizing various stakeholders and ensuring a healthy token distribution.&#x20;
+
+The Untrading platform is powered by the UN token, an ERC-20 utility token that serves as the backbone of the ecosystem. This section outlines the initial token allocation, vesting schedules, and various mechanisms designed to promote a healthy token economy.&#x20;
+
+### <mark style="color:green;">4.1            Initial Token Allocation</mark>&#x20;
+
+The initial total supply of UN tokens will be 10,000,000,000. The UN token distribution will be strategically allocated to various stakeholders, fostering a balanced and sustainable ecosystem. Here's a breakdown of the initial allocation:
+
+<figure><img src="../.gitbook/assets/Initial Token Allocation %.svg" alt=""><figcaption><p><em>UN Initial Token Allocation</em></p></figcaption></figure>
+
+<table data-header-hidden><thead><tr><th width="245"></th><th width="101" align="right"></th><th></th></tr></thead><tbody><tr><td>Early Investors &#x26; Strategic Partners  </td><td align="right">6.00%</td><td>Allocated for early investors and contributors who support the project in its nascent stages, the IOB Tokenholders</td></tr><tr><td>IDO Investors</td><td align="right">5.00%</td><td>Launchpad Token Sale available for purchase by the general public, providing a fair and transparent way for community participation.</td></tr><tr><td>Ecosystem</td><td align="right">28.00%</td><td>Aimed at fostering the platform ecosystem, including grants, and community incentives.</td></tr><tr><td>Development Fund</td><td align="right">18.00%</td><td>Reserved for ongoing development, future upgrades, and maintenance of the platform.</td></tr><tr><td>Team</td><td align="right">16.00%</td><td>Allocated to the founding members and the team, acknowledging their efforts and incentivizing continued innovation.</td></tr><tr><td>Marketing and Partnerships</td><td align="right">10.00%</td><td>Dedicated to marketing initiatives and forming strategic partnerships to enhance platform visibility and adoption.</td></tr><tr><td>Liquidity Provision</td><td align="right">10.00%</td><td>Liquidity Provision &#x26; Market Making to ensure smooth trading and price stability.</td></tr><tr><td>User Rewards</td><td align="right">4.00%</td><td>Platform Rewards Earned by Users</td></tr><tr><td>Advisors</td><td align="right">3.00%</td><td>Set aside for advisors who provide strategic guidance and expertise.</td></tr></tbody></table>
+
+### <mark style="color:green;">4.2            Vesting Schedule</mark>&#x20;
+
+A vesting schedule will be implemented for tokens allocated to the Early Investors & Strategic Partners Team, Advisors, the Ecosystem fund and the User Rewards. This ensures a gradual release of tokens over a predefined period, promoting long-term commitment and preventing market manipulation. The specific vesting schedule will be clearly defined, outlining:
+
+|                                      | Cliff Period | Vesting Duration | Vesting Schedule                                                                                                           |
+| ------------------------------------ | ------------ | ---------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Early Investors & Strategic Partners | None         | 4 Years          | Unlocked quarterly subject to a 4-year vesting schedule.                                                                   |
+| Ecosystem                            | 1 Year       | 5 Years          | 10% unlocked at launch to kickstart development, remaining 90% subject to a 5-year vesting schedule with a 1-year cliff.   |
+| Team                                 | 3 Months     | 4 Years          | 25% unlocked after the first year, followed by monthly vesting of the remaining 75%.                                       |
+| Marketing and Partnerships           | 6 Months     | 2 Years          | 50% unlocked at launch for immediate utilization, remaining 50% subject to a 2-year vesting schedule with a 6-month cliff. |
+| User Rewards                         | 6 Months     | 5 Years          | 10% unlocked at launch, remaining 90% subject to a 5-year vesting schedule with a 6-month cliff.                           |
+| Advisors                             | 6 Months     | 2 Years          | Unlocked quarterly subject to a 2-year vesting schedule with a 6-month cliff.                                              |
+
+* **Cliff Period:** An initial lock-up period before any tokens are unlocked.&#x20;
+* **Vesting Duration:** The total period over which the remaining tokens will be distributed.&#x20;
+* **Vesting Schedule:** The percentage of tokens released at specific intervals throughout the vesting duration.
+
+### <mark style="color:green;">4.3           UN Token Utility: Fostering Engagement and Platform Growth</mark>&#x20;
+
+The UN token serves as a crucial multi-purpose utility and governance token within the Untrading ecosystem, incentivizing user participation, promoting platform growth, and ensuring a fair and secure trading environment. The key utilities of the UN token are as follows:
+
+#### <mark style="color:green;">4.3.1</mark>           Combating Malicious Activity&#x20;
+
+<mark style="color:green;">**4.3.1.1**</mark>**          Staking Requirement**&#x20;
+
+To discourage wash trading and related-person transactions (previously discussed in 2.6.3.4, both buyers and sellers might be required to stake a specific amount of UN tokens. This requirement discourages manipulative behavior by financially penalizing offenders.&#x20;
+
+<mark style="color:green;">**4.3.1.2**</mark>**         Governance Voting**&#x20;
+
+UN token holders will have voting rights on specific proposals related to transactions, such as:&#x20;
+
+* Untrading transaction disputes.&#x20;
+* Unwrapping of underlying NFTs or cryptocurrencies.&#x20;
+* Changes to protocol rules and policies.
+
+<mark style="color:green;">**4.3.1.2**</mark>**         Confiscation and Redistribution**&#x20;
+
+Wash trading attempts will be met with consequences, including confiscation of the involved parties' staked UN tokens. These confiscated tokens may be redistributed to the community through various means.&#x20;
+
+* Feature implementation.&#x20;
+* Resource allocation.&#x20;
+* Community initiatives.
+
+#### &#x20;<mark style="color:green;">**4.3.2**</mark>**         Active Participation and Governance**&#x20;
+
+Voting Rights: UN token holders will have the power to influence the platform's future through well-defined voting mechanisms. This could involve proposals on:&#x20;
+
+* Feature implementation.&#x20;
+* Resource allocation.&#x20;
+* Community initiatives.
+
+#### <mark style="color:green;">4.3.3</mark>         Frictionless Transactions and Incentives&#x20;
+
+Reduced Transaction Fees: A portion of the blockchain transaction fees incurred during platform usage might be offset by paying an equivalent amount in UN tokens. This incentivizes the use of UN tokens and fosters a more cost-effective trading experience.&#x20;
+
+#### <mark style="color:green;">4.3.4</mark>         Exclusive Features and Benefits&#x20;
+
+**Early Access:** Holding UN tokens may grant access to new platform functionalities before they become available to the general public.&#x20;
+
+**Discounted Fees:** Owning UN tokens could unlock reduced fees for various platform services, such as trading or staking.&#x20;
+
+By incorporating these multiple utilities, the UN token plays a crucial role in maintaining a fair and secure trading environment, enabling decentralized governance, and incentivizing user participation and platform growth. The staking requirement for voting and wash trade prevention, combined with the ability to offset transaction fees and access premium features, creates a symbiotic relationship between the token's value and the platform's success.&#x20;
+
+### <mark style="color:green;">4.4          UN Token Disclaimer and Future Adjustments to Tokenomics</mark>&#x20;
+
+#### <mark style="color:green;">4.4.1</mark>            Disclaimer&#x20;
+
+The information presented in this document regarding the UN token, its distribution, and functionalities is for informational purposes only and does not constitute financial advice. It is highly recommended to consult with a qualified financial advisor before making any investment decisions related to the UN token.&#x20;
+
+#### <mark style="color:green;">4.4.2</mark>         Future Adjustments to Tokenomics&#x20;
+
+The Untrading platform acknowledges the dynamic nature of the cryptocurrency market and the potential need to adapt the tokenomics model over time. We are committed to maintaining a sustainable and thriving ecosystem and reserve the right to make adjustments to the token distribution, vesting schedule, or token utilities based on various factors:&#x20;
+
+* **Market Conditions:** Significant fluctuations in the UN token price or broader market trends may necessitate adjustments to ensure the long-term viability of the platform.&#x20;
+* **Evolving Platform Needs:** As the Untrading platform grows and introduces new functionalities, the tokenomics model may need to be adapted to support these developments and incentivize user participation effectively.&#x20;
+* **Community Feedback:** We value the input of our community and will actively consider suggestions for improvements to the tokenomics structure.
+
+Any future adjustments will be made with careful consideration and will be clearly communicated to the community well in advance through official channels. We remain committed to transparency and fostering a collaborative environment where the UN token serves as a valuable tool for users to actively participate in the Untrading ecosystem.
+
 ## <mark style="color:green;">Disclaimer</mark>
 
 PLEASE READ THE ENTIRETY OF THIS “NOTICE AND DISCLAIMER” SECTION CAREFULLY. NOTHING HEREIN CONSTITUTES LEGAL, FINANCIAL, BUSINESS, INVESTMENT OR TAX ADVICE AND YOU SHOULD CONSULT YOUR OWN LEGAL, FINANCIAL, BUSINESS, INVESTMENT, TAX OR OTHER PROFESSIONAL ADVISOR(S) BEFORE ENGAGING IN ANY ACTIVITY IN CONNECTION HEREWITH. NEITHER THE UNTRADING DAO (THE **DAO**) AND ANY OF THE PROJECT PARTICIPANTS (TOGETHER WITH THE PROJECT PARTICIPANTS, THE **UNTRADING ECOSYSTEM**) WHO HAVE WORKED ON THE UNTRADING PLATFORM (AS DESCRIBED HEREIN) OR DEVELOPERS OF THE UNTRADING PLATFORM IN ANY CAPACITY WHATSOEVER, ANY DISTRIBUTOR/VENDOR OF UN TOKENS (THE **DISTRIBUTOR**), NOR ANY SERVICE PROVIDER SHALL BE LIABLE FOR ANY KIND OF DIRECT OR INDIRECT DAMAGE OR LOSS WHATSOEVER WHICH YOU MAY SUFFER IN CONNECTION WITH ACCESSING THIS WHITEPAPER, THE WEBSITE AT HTTPS://UNTRADING.ORG (THE **WEBSITE**) OR ANY OTHER WEBSITES OR MATERIALS PUBLISHED BY THE DAO.
