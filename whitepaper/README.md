@@ -79,9 +79,9 @@ Francois Baechtold
 
 
 
-## <mark style="color:green;">01        Introduction</mark> <a href="#h.5php9w692ai5" id="h.5php9w692ai5"></a>
+## <mark style="color:green;">01         Introduction</mark> <a href="#h.5php9w692ai5" id="h.5php9w692ai5"></a>
 
-### <mark style="color:green;">1.1           The Challenges of Retail Trading</mark>
+### <mark style="color:green;">1.1            The Challenges of Retail Trading</mark>
 
 The traditional asset management landscape presents numerous hurdles for retail investors:
 
@@ -106,7 +106,7 @@ The cryptocurrency market has attracted a wave of new investors, many unfamiliar
 * **High minimum investments:** Traditional institutions offering sophisticated investment strategies typically require high minimum investments, making them inaccessible to most retail investors.&#x20;
 * **Complexity and opaqueness:** Even if accessible, these strategies might be complex and difficult for beginner investors to understand and manage effectively.
 
-### <mark style="color:green;">1.2           These Factors Contribute to A Vicious Cycle</mark>
+### <mark style="color:green;">1.2           These Factors Contribute to a Vicious Cycle</mark>
 
 * **High losses:** Over 90% of active retail traders reportedly lose money within a short period, leading to frustration and potentially significant financial losses.&#x20;
 * **Discouragement and distrust:** These negative experiences can discourage or even prevent these individuals from seeking professional advice or exploring other avenues for wealth creation.&#x20;
@@ -149,7 +149,7 @@ By using dSaaP, users can benefit from the following advantages:
 * **Reduced fees:** By eliminating intermediaries and leveraging the efficiencies of blockchain technology, dSaap offers significantly lower fees compared to traditional asset management options. This empowers individuals to retain more of their investment returns.&#x20;
 * **Increased security and control:** dSaap leverages the inherent security features of blockchain technology, such as immutability and censorship resistance, to safeguard user assets. Additionally, users maintain full control over their investments, eliminating reliance on centralized entities.
 
-#### <mark style="color:green;">1.4.5</mark>           Beyond just lowering fees and increasing accessibility, dSaap brings several key advantages
+#### <mark style="color:green;">1.4.5</mark>           Beyond Just Lowering Fees and Increasing Accessibility, dSaap Brings Several Key Advantages
 
 * **Innovation and customization:** dSaap serves as a platform for continuous innovation and development of new investment strategies. Users are empowered to customize and personalize their investment experience by choosing from a diverse range of strategies built on the platform.&#x20;
 * **Community-driven governance:** dSaap can facilitate community-driven governance models, allowing users to participate in decision-making and contribute to the platform's evolution.
@@ -171,7 +171,7 @@ Additionally, Untrading introduces a cutting-edge divisible NFT framework, mergi
 
 With its commitment to continuous improvement, Untrading.org ensures the platform's security and adaptability through upgradable smart contract deployment. By challenging the long-standing norms of traditional asset exchanges, Untrading explores transformative possibilities for the industry.
 
-### <mark style="color:green;">2.1        Share Only After Making a Profit</mark> <a href="#h.kplu6gt7s2fs" id="h.kplu6gt7s2fs"></a>
+### <mark style="color:green;">2.1        Share Only after Making a Profit</mark> <a href="#h.kplu6gt7s2fs" id="h.kplu6gt7s2fs"></a>
 
 At Untrading, we support trading platforms that don’t charge users for losses. Instead, we use a hedge fund-inspired incentive fee model where users only pay if they profit.&#x20;
 
@@ -751,7 +751,7 @@ If no contests are successfully upheld, the amounts withheld in the escrow walle
 
 A certain amount of UN tokens must be staked by both sellers and buyers in order to participate in the Untrading voting for specific proposals related to transactions, as well as for underlying NFT unwrapping and changes to the protocol rules and policies.
 
-Wash trades will result in the confiscation and redistribution of fraudsters' staked IOB tokens, among other punishments.
+Wash trades will result in the confiscation and redistribution of fraudsters' staked UN tokens, among other punishments.
 
 <mark style="color:green;">2.6.3.5</mark>     **Wash trading by the marketplace operator**
 
@@ -843,7 +843,7 @@ In conclusion, Untrading's Statistical Arbitrage Market Making strategy is a com
 
 ## <mark style="color:green;">04         Tokenomics</mark>
 
-### Building a Sustainable Ecosystem&#x20;
+### <mark style="color:green;">Building a Sustainable Ecosystem</mark>&#x20;
 
 A project's tokenomics are the foundation for its long-term success. This section delves into the economic structure of the Untrading ecosystem, specifically focusing on the UN token – the lifeblood that powers various functionalities and incentives.&#x20;
 
@@ -872,14 +872,7 @@ The initial total supply of UN tokens will be 10,000,000,000. The UN token distr
 
 A vesting schedule will be implemented for tokens allocated to the Early Investors & Strategic Partners Team, Advisors, the Ecosystem fund and the User Rewards. This ensures a gradual release of tokens over a predefined period, promoting long-term commitment and preventing market manipulation. The specific vesting schedule will be clearly defined, outlining:
 
-|                                      | Cliff Period | Vesting Duration | Vesting Schedule                                                                                                           |
-| ------------------------------------ | ------------ | ---------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Early Investors & Strategic Partners | None         | 4 Years          | Unlocked quarterly subject to a 4-year vesting schedule.                                                                   |
-| Ecosystem                            | 1 Year       | 5 Years          | 10% unlocked at launch to kickstart development, remaining 90% subject to a 5-year vesting schedule with a 1-year cliff.   |
-| Team                                 | 3 Months     | 4 Years          | 25% unlocked after the first year, followed by monthly vesting of the remaining 75%.                                       |
-| Marketing and Partnerships           | 6 Months     | 2 Years          | 50% unlocked at launch for immediate utilization, remaining 50% subject to a 2-year vesting schedule with a 6-month cliff. |
-| User Rewards                         | 6 Months     | 5 Years          | 10% unlocked at launch, remaining 90% subject to a 5-year vesting schedule with a 6-month cliff.                           |
-| Advisors                             | 6 Months     | 2 Years          | Unlocked quarterly subject to a 2-year vesting schedule with a 6-month cliff.                                              |
+<table><thead><tr><th></th><th width="118">Cliff Period</th><th width="157">Vesting Duration</th><th>Vesting Schedule</th></tr></thead><tbody><tr><td>Early Investors &#x26; Strategic Partners</td><td>None</td><td>4 Years</td><td>Unlocked quarterly subject to a 4-year vesting schedule.</td></tr><tr><td>Ecosystem</td><td>1 Year</td><td>5 Years</td><td>10% unlocked at launch to kickstart development, remaining 90% subject to a 5-year vesting schedule with a 1-year cliff.</td></tr><tr><td>Team</td><td>3 Months</td><td>4 Years</td><td>25% unlocked after the first year, followed by monthly vesting of the remaining 75%.</td></tr><tr><td>Marketing and Partnerships</td><td>6 Months</td><td>2 Years</td><td>50% unlocked at launch for immediate utilization, remaining 50% subject to a 2-year vesting schedule with a 6-month cliff.</td></tr><tr><td>User Rewards</td><td>6 Months</td><td>5 Years</td><td>10% unlocked at launch, remaining 90% subject to a 5-year vesting schedule with a 6-month cliff.</td></tr><tr><td>Advisors</td><td>6 Months</td><td>2 Years</td><td>Unlocked quarterly subject to a 2-year vesting schedule with a 6-month cliff.</td></tr></tbody></table>
 
 * **Cliff Period:** An initial lock-up period before any tokens are unlocked.&#x20;
 * **Vesting Duration:** The total period over which the remaining tokens will be distributed.&#x20;
@@ -893,7 +886,7 @@ The UN token serves as a crucial multi-purpose utility and governance token with
 
 <mark style="color:green;">**4.3.1.1**</mark>**          Staking Requirement**&#x20;
 
-To discourage wash trading and related-person transactions (previously discussed in 2.6.3.4, both buyers and sellers might be required to stake a specific amount of UN tokens. This requirement discourages manipulative behavior by financially penalizing offenders.&#x20;
+To discourage wash trading and related-person transactions (previously discussed in 2.6.3.4), both buyers and sellers might be required to stake a specific amount of UN tokens. This requirement discourages manipulative behavior by financially penalizing offenders.&#x20;
 
 <mark style="color:green;">**4.3.1.2**</mark>**         Governance Voting**&#x20;
 
