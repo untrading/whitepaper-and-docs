@@ -761,9 +761,9 @@ It is common for these companies to engage in wash trading independently or coll
 
 ### <mark style="color:green;">2.7</mark>       PVA Summary <a href="#h.10bykgn0hh1c" id="h.10bykgn0hh1c"></a>
 
-At untrading, we aim to create a virtuous economic environment for the financial sector, removing conflicts of interest between exchanges and their users and ending zero-sum trading.
+Untrading's mission is to foster a virtuous economic ecosystem for the financial sector, aligning incentives between exchanges and users, and transcending the zero-sum paradigm of traditional trading.&#x20;
 
-The untrading platform enables users to participate in a gift economy based on EIP-5173 published in June 2022 by iob.fi DAO. Although it is not a charity or philanthropic endeavor, it helps all of its users - the creators, buyers, and sellers - as well as the organization's stakeholders build greater wealth through each other's success. There is no longer a zero-sum game when it comes to trading.
+The Untrading protocol empowers users to participate in a collaborative value creation model based on the ERC-5173 standard introduced by Untrading in June 2022. Unlike charity or philanthropy, this model enables all participants – creators, buyers, sellers, and stakeholders – to collectively build wealth through each other's success. The zero-sum game inherent in traditional trading is eliminated, as the protocol incentivizes cooperation and shared prosperity.
 
 #### <mark style="color:green;">2.7.1</mark>        Getting Compensated to Participate in Price Discovery <a href="#h.rqo4d8vvcwy9" id="h.rqo4d8vvcwy9"></a>
 
