@@ -455,7 +455,7 @@ Token holders (current unCrypto holders) may redeem their holdings back to the u
 * **Originator Approval:** The originator who created the unCrypto has the final say on the unwrapping request. They can either approve or reject the request based on their own discretion.&#x20;
 * **Automatic Unwrapping:** Upon receiving approval from the originator, Untrading automatically unwinds the wrapping process. The user receives the equivalent amount of the underlying ERC-20 token back into their wallet.
 
-### <mark style="color:green;">2.5</mark>        PVA Specification <a href="#h.sdzwoztnri38" id="h.sdzwoztnri38"></a>
+### <mark style="color:green;">2.5        PVA Specification</mark> <a href="#h.sdzwoztnri38" id="h.sdzwoztnri38"></a>
 
 We are implementing our EIP-5173 extension using the ERC721 standard, with additional extensions proposed by EIP-2981 and EIP-4910 for on-chain royalty distribution.
 
