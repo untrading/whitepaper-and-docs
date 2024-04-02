@@ -5,7 +5,7 @@ description: >-
   unETH offerings on the untrading marketplace.
 ---
 
-# 🔍 How to Use untrading.org Testnet
+# 🔍 How to Buy and Sell unCryptos on untrading.org Testnet
 
 untrading is a revolutionary platform that allows you to invest in cryptocurrencies with enhanced profitability, transparency and ownership history. By using the innovative Decentralized Strategy As A Platform (dSaaP) created by ERC-5173, you can participate in the future value increase of your tokens even after you sell them. In this tutorial, you will learn how to use the testnet version of untrading to get familiar with its features and functionalities.
 
@@ -28,7 +28,7 @@ To use untrading, you will need some test tokens that represent different crypto
 
 ### Testnet Native Tokens:
 
-* **Ethereum testnet native test tokens:** You can get test ETH for free from a faucet (we recommend a Sepolia faucet):  [https://sepoliafaucet.com/](https://sepoliafaucet.com/), [https://www.infura.io/faucet/sepolia](https://www.infura.io/faucet/sepolia) or [https://goerlifaucet.com/](https://goerlifaucet.com/).
+* **Ethereum testnet native test tokens:** You can get test ETH for free from a faucet (we recommend a Sepolia faucet):  [https://sepolia-faucet.pk910.de/](https://sepolia-faucet.pk910.de/), [https://sepoliafaucet.com/](https://sepoliafaucet.com/), [https://www.infura.io/faucet/sepolia](https://www.infura.io/faucet/sepolia) or [https://goerlifaucet.com/](https://goerlifaucet.com/).
 * **Mumbai testnet native tokens:** Some test MATIC from [https://mumbaifaucet.com/](https://mumbaifaucet.com/).
 
 ### Untrading Testnet Tokens:

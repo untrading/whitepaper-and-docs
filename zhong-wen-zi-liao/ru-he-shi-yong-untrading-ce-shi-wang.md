@@ -25,7 +25,7 @@ untrading 是一个革命性的平台，可让您以更高的盈利能力、透�
 
 使用 untrading，您需要一些代表不同加密货币的测试代币。您可以在 untrading 测试网上将您的测试 ETH 换成测试 WBTC、测试 WETH、测试 USDT 和测试 USDC。
 
-* 您可以免费从水龙头获取测试 ETH：[https://goerlifaucet.com/](https://goerlifaucet.com/)、[https://sepoliafaucet.com/](https://sepoliafaucet.com/) 和 [https://www.infura.io/faucet/sepolia](https://www.infura.io/faucet/sepolia)
+* 您可以免费从水龙头获取测试 ETH：[https://sepolia-faucet.pk910.de/](https://sepolia-faucet.pk910.de/)、[https://goerlifaucet.com/](https://goerlifaucet.com/)、[https://sepoliafaucet.com/](https://sepoliafaucet.com/) 和 [https://www.infura.io/faucet/sepolia](https://www.infura.io/faucet/sepolia)
 * 从 [https://mumbaifaucet.com/](https://mumbaifaucet.com/) 获取一些测试 MATIC；
 * 前往 [https://testnet.untrading.org/uncryptos](https://testnet.untrading.org/uncryptos) 测试网，点击 “Test Tokens” 按钮。
 * 从弹出页面的第一个下拉菜单中选择区块链网络。
