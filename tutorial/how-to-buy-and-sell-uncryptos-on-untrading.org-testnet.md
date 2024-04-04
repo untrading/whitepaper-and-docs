@@ -7,6 +7,8 @@ description: >-
 
 # 🔍 How to Buy and Sell unCryptos on untrading.org Testnet
 
+
+
 untrading is a revolutionary platform that allows you to invest in cryptocurrencies with enhanced profitability, transparency and ownership history. By using the innovative Decentralized Strategy As A Platform (dSaaP) created by ERC-5173, you can participate in the future value increase of your tokens even after you sell them. In this tutorial, you will learn how to use the testnet version of untrading to get familiar with its features and functionalities.
 
 **Are you ready to rewrite the rules of investing?** With untrading and its revolutionary unCryptos, you can! unCryptos are living, breathing investments that keep rewarding you long after you sell. These dynamic investment vehicles are defined by four key parameters: **Total Rewards (R), Originator's Rewards (ORs), Future Rewards (FRs)**, and N**umber of Participating Generations (# of Gens)**. These parameters dictate your share of future profits, the Originator's cut, and the token's lineage. Dive into the testnet with this tutorial and unlock the secrets of personalized wealth creation with unCryptos!
@@ -18,7 +20,7 @@ Ready to take control of your crypto future? Let's begin!
 Before you start, you will need the following:
 
 * A web browser that supports Web3, such as Chrome, Firefox, or Brave.
-* A MetaMask wallet extension installed on your browser and connected to the Ethereum testnet (Sepolia and Goerli), as well as the Polygon testnet (Mumbai).
+* A MetaMask wallet extension installed on your browser and connected to the Ethereum testnet (Sepolia), as well as the Polygon testnet (Mumbai).
 * Some test ETH and test MATIC in your MetaMask wallet.&#x20;
 * A basic understanding of cryptocurrency trading concepts, such as tokens, swaps, and wrapping.
 
@@ -28,7 +30,20 @@ To use untrading, you will need some test tokens that represent different crypto
 
 ### Testnet Native Tokens:
 
-* **Ethereum testnet native test tokens:** You can get test ETH for free from a faucet (we recommend a Sepolia faucet):  [https://sepolia-faucet.pk910.de/](https://sepolia-faucet.pk910.de/), [https://sepoliafaucet.com/](https://sepoliafaucet.com/), [https://www.infura.io/faucet/sepolia](https://www.infura.io/faucet/sepolia) or [https://goerlifaucet.com/](https://goerlifaucet.com/).
+* **Ethereum testnet native test tokens:** You can get test ETH for free from a faucet (we recommend a Sepolia faucet):  [https://sepolia-faucet.pk910.de/](https://sepolia-faucet.pk910.de/), [https://sepoliafaucet.com/](https://sepoliafaucet.com/), or [https://www.infura.io/faucet/sepolia](https://www.infura.io/faucet/sepolia).
+
+
+
+{% embed url="https://youtu.be/SWOZ5Fpwtcw?si=icNe201aCFX2NA9G" %}
+[_https://sepolia-faucet.pk910.de/_](https://sepolia-faucet.pk910.de/)
+{% endembed %}
+
+{% embed url="https://youtu.be/ofBpOcoA1gs?si=Cpj2Loe7Kap8iQiB" %}
+
+{% embed url="https://youtu.be/WkojkWkVdZY?si=A885IhgTtWfULH7F" %}
+[_https://www.infura.io/faucet/sepolia_](https://www.infura.io/faucet/sepolia)
+{% endembed %}
+
 * **Mumbai testnet native tokens:** Some test MATIC from [https://mumbaifaucet.com/](https://mumbaifaucet.com/).
 
 ### Untrading Testnet Tokens:

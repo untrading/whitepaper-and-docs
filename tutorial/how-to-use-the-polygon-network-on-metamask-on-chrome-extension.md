@@ -1,5 +1,7 @@
 # 🔍 How to Use the Polygon Network on Metamask on Chrome Extension
 
+{% embed url="https://youtu.be/V6YUGO2ogfM?si=JoEuQLkUiRZWTw0A" %}
+
 1. First, make sure you have the latest version of the Metamask extension installed on your browser.
 2. Open Metamask and click on the Ethereum Mainnet button (top-middle bar) between the fox icon and the circled account icon.
 3. From the dropdown, select the "Add network" tab at the bottom.
