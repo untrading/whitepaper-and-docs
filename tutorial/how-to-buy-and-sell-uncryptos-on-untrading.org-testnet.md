@@ -40,7 +40,7 @@ To use untrading, you will need some test tokens that represent different crypto
 [_https://www.infura.io/faucet/sepolia_](https://www.infura.io/faucet/sepolia)
 {% endembed %}
 
-* **Amoy testnet native tokens:** Some test MATIC from [https://mumbaifaucet.com/](https://mumbaifaucet.com/).
+* **Mumbai testnet native tokens:** Some test MATIC from [https://mumbaifaucet.com/](https://mumbaifaucet.com/) (deprecated).
 
 ### Untrading Testnet Tokens:
 
