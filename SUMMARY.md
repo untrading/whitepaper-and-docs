@@ -15,6 +15,7 @@
 
 ## tutorial
 
+* [🔍 How to Bridge an ERC-20 Token to Arbitrum](tutorial/how-to-bridge-an-erc-20-token-to-arbitrum.md)
 * [🔍 How to Use the Polygon Network on Metamask on Chrome Extension](tutorial/how-to-use-the-polygon-network-on-metamask-on-chrome-extension.md)
 * [🔍 Registering and Being Verified on untrading.org](tutorial/registering-and-being-verified-on-untrading.org.md)
 * [🔍 Creating a SET](tutorial/creating-a-set.md)
