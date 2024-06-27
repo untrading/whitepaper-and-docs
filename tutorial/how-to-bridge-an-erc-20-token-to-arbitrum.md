@@ -13,7 +13,7 @@ Bridging tokens to Arbitrum allows you to take advantage of lower fees and faste
    * Ensure you have ETH for gas fees on both networks
 2. **Choose a bridge**
    * Popular options include the Arbitrum Bridge or third-party bridges like Hop or Across
-   * For this tutorial, we'll use the official Arbitrum Bridge (bridge.arbitrum.io)
+   * For this tutorial, we'll use the official Arbitrum Bridge ([bridge.arbitrum.io](https://bridge.arbitrum.io/))
 3. **Select token and amount**
    * Choose the ERC-20 token you want to bridge
    * Enter the amount you wish to transfer
