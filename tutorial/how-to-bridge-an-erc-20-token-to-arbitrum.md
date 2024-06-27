@@ -6,6 +6,10 @@ description: >-
 
 # 🔍 How to Bridge an ERC-20 Token to Arbitrum
 
+
+
+{% embed url="https://www.youtube.com/watch?v=6SEqpkPPIgQ" %}
+
 Bridging tokens to Arbitrum allows you to take advantage of lower fees and faster transactions on this Layer 2 scaling solution. Follow these steps to bridge your ERC-20 tokens from Ethereum mainnet to Arbitrum:
 
 1. **Connect your wallet**
