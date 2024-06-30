@@ -5,7 +5,7 @@ description: >-
   foster shared prosperity.
 ---
 
-# app.untrading.org Intro
+# 🔣 Untrading App Intro
 
 {% embed url="https://docs.google.com/presentation/d/1VFl_vyzVosXf3uCuc_bV8uNkV0cS6dr9McUuV_WAPUM/edit?usp=sharing" %}
 

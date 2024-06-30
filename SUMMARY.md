@@ -5,7 +5,7 @@
 * [📃 Whitepaper](whitepaper/README.md)
   * [Print Version](whitepaper/print-version.md)
   * [nFR Distribution](whitepaper/nfr-distribution.md)
-* [app.untrading.org Intro](app.untrading.org-intro.md)
+* [🔣 Untrading App Intro](untrading-app-intro.md)
 * [⚠️ Risks](risks.md)
 * [📣 Community Guidelines](community-guidelines.md)
 * [🔠 Terms of Service](terms-of-service.md)
