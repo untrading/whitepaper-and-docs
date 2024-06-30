@@ -15,7 +15,7 @@
 
 ## official addresses
 
-* [🔍 Official Addresses](official-addresses/official-addresses.md)
+* [🔗 Official Addresses](official-addresses/official-addresses.md)
 
 ## tutorials
 
