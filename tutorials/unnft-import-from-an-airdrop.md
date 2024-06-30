@@ -4,7 +4,7 @@ description: >-
   to receive Future Rewards by importing them from your MetaMask wallet.
 ---
 
-# 🔍 UnNFT Import from an Airdrop
+# 🔍 unNFT Import from an Airdrop
 
 {% embed url="https://youtu.be/AOVVoSAWnCI" %}
 
