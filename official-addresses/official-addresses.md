@@ -5,7 +5,7 @@ description: >-
   interacting with any contracts or services.
 ---
 
-# 🔍 Official Addresses
+# 🔗 Official Addresses
 
 ## Official Website
 
@@ -29,7 +29,13 @@ The following token contracts are official ERC-5173 tokens on the Untrading app 
 
 <table><thead><tr><th width="244">ERC-5173 Token</th><th>Contract Address</th></tr></thead><tbody><tr><td>unBTC</td><td><a href="https://arbiscan.io/address/0xC7a6bb975bD275b27e5B2D4f5568BdD0F9c0A0bb">0xC7a6bb975bD275b27e5B2D4f5568BdD0F9c0A0bb</a></td></tr><tr><td>unETH</td><td><a href="https://arbiscan.io/address/0xB2E1BeB4e0da601176eD04738d4C2f657C5e4148">0xB2E1BeB4e0da601176eD04738d4C2f657C5e4148</a></td></tr><tr><td>unLINK</td><td><a href="https://arbiscan.io/address/0x81e0A3ddfb5CD0dc6F39588bB3F6eD7Be61eC8aa">0x81e0A3ddfb5CD0dc6F39588bB3F6eD7Be61eC8aa</a></td></tr><tr><td>unUNI</td><td><a href="https://arbiscan.io/address/0xBd7De4d0143aDaAFD83317674A6809B59C017e00">0xBd7De4d0143aDaAFD83317674A6809B59C017e00</a></td></tr><tr><td>UN²</td><td><a href="https://arbiscan.io/address/0x3E86C64c22273D834e17e3B49d796DEc2F7A153E">0x3E86C64c22273D834e17e3B49d796DEc2F7A153E</a></td></tr></tbody></table>
 
-Always double-check these addresses against official Untrading communications and trusted sources. If you're unsure about an address, please contact our support team for verification.
+### Payment Tokens on Arbitrum
+
+The following stable coin tokenss are supported on the Untrading app on Arbitrum:
+
+<table><thead><tr><th width="248">ERC-20 Token</th><th>Contract Address</th></tr></thead><tbody><tr><td>USDT</td><td><a href="https://arbiscan.io/token/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9">0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9</a></td></tr><tr><td>USDC</td><td><a href="https://arbiscan.io/token/0xaf88d065e77c8cc2239327c5edb3a432268e5831">0xaf88d065e77c8cc2239327c5edb3a432268e5831</a></td></tr></tbody></table>
+
+
 
 Always double-check these addresses against official Untrading communications and trusted sources. If you're unsure about an address, please contact our support team for verification.
 
