@@ -336,7 +336,35 @@ These Terms may be discretionarily modified or replaced at any time unless state
 
 The User acknowledges that untrading.org may modify, change, amend, or replace one or more of the Smart Contracts from time to time. The User agrees that a modification to one or more of the Smart Contracts does not alter any right or obligation conferred by these Terms.&#x20;
 
-### g) Governing Law and Jurisdiction&#x20;
+### g) Restricted Countries and Regions
+
+### Restricted Countries and Regions
+
+By using our services, you represent and warrant that you are not a resident of, or located in, any of the following restricted countries or regions:
+
+1. United States of America (including all territories and possessions)
+2. Singapore
+
+Additionally, our services are not available to individuals or entities in countries subject to sanctions by the Monetary Authority of Singapore (MAS). This list includes, but is not limited to:
+
+3. Democratic People's Republic of Korea (North Korea)
+4. Iran
+5. Syria
+6. Cuba
+7. Crimea region of Ukraine
+8. Ukraine (including all regions)
+
+We reserve the right to add or remove countries from this list at any time without prior notice. It is your responsibility to ensure that you are not a resident of, or located in, any restricted country or region when accessing or using our services.
+
+If we determine that you are accessing our services from a restricted country or region, we may, without prior notice:
+
+* Suspend or terminate your account
+* Void any transactions you have made
+* Seize any assets in your account
+
+We are not responsible for any losses you may incur as a result of our enforcement of these restrictions. By using our services, you agree to comply with all applicable laws and regulations, including those related to economic sanctions and trade embargoes.
+
+### h) Governing Law and Jurisdiction&#x20;
 
 These Terms will be governed by and construed under the laws of the State of Delaware, without giving effect to any conflict of laws, rules, or provisions. You agree that any action of whatever nature arising from or relating to these Terms, the Site, or our Products will be filed only in the state or federal courts in Wilmington, Delaware You consent and submit to the personal jurisdiction of such courts for any such action. The failure by us to enforce any right or provision of these Terms will not prevent us from enforcing such right or provision in the future We may assign our rights and obligations under these Terms, including in connection with a merger, acquisition, sale of assets or equity, or by operation of law.&#x20;
 
