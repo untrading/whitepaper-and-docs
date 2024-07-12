@@ -338,8 +338,6 @@ The User acknowledges that untrading.org may modify, change, amend, or replace o
 
 ### g) Restricted Countries and Regions
 
-### Restricted Countries and Regions
-
 By using our services, you represent and warrant that you are not a resident of, or located in, any of the following restricted countries or regions:
 
 1. United States of America (including all territories and possessions)
