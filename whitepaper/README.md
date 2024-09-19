@@ -293,21 +293,22 @@ The total number of generations of owners in the sliding window is set by the Mi
 
 #### <mark style="color:green;">2.4.2.2</mark>  **Rewards formula**
 
-![Rewards formula](../.gitbook/assets/image4.png)
+<figure><img src="../.gitbook/assets/Untrading nFR Reward Formula.png" alt=""><figcaption><p><em>Untrading nFR Rewards Formula</em></p></figcaption></figure>
 
 In this equation:
 
 * P is the total profit;
-* _f_ is reward ratio
-* _r_ is buyer reward ratio of the total P
-* _a_ is originator reward ratio
-* _b_ is buyer reward ratio of the total P, and b = 1 – a
-* w is the window size, i.e. the maximum number of layers eligible for profit distribution
+* _R_ is reward ratio
+* _FR_ is buyer reward ratio of the total P
+* _OR_ is originator reward ratio, and OR = 1 - FR
+* _o_ is originator's share ratio of the total OR
+* _u_ is Untrading’s share ratio of the total OR, and u = 1 – o
+* _w_ is the window size, i.e. the maximum number of layers eligible for profit distribution
 * _g_ is the common ratio of successive in the geometric sequence
 * _m_ is the total number of all owners of a token
-* _n_ is the actual number of owners eligible in the profit distributions. To calculate the formula value of _n_, we have _n_ = min(_m, w_), and _w_ is the window size of the profit distribution sliding window algorithm, , set by the Minter when minting the unNFT.
+* _n_ is the actual number of owners eligible in the profit distributions. To calculate the formula value of _n_, we have _n = min( m, w )_, and w is the window size of the profit distribution sliding window algorithm, set by the Originator when minting the unNFT.
 
-The buyers/owners receive a portion ( _r_ ) of the realized profit  (P ) from an NFT transaction. The remaining proceeds go to the seller.
+The buyers/owners receive a portion (Reward Value, or RV) of the realized profit (P) from an unToken transaction. The remaining proceeds go to the seller.
 
 As a result of defining a sliding window mechanism ( _n_ ), we can determine which previous owners will receive distributions. The owners are arranged in a queue, starting with the earliest owner and ending with the owner immediately before the current owner (the Last Generation). The First Generation is the last of the next n generations. There is a fixed-size profit distribution window from the First Generation to the Last Generation.
 
