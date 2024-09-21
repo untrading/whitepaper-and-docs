@@ -3,7 +3,6 @@
 * [Welcome to Untrading Technologies Pte Ltd](README.md)
 * [👩‍💻 Redefining Asset Transactions with Enhanced Transparency and Ownership History](redefining-asset-transactions-with-enhanced-transparency-and-ownership-history.md)
 * [📃 Whitepaper](whitepaper/README.md)
-  * [Print Version](whitepaper/print-version.md)
   * [nFR Distribution](whitepaper/nfr-distribution.md)
 * [🔣 Untrading App Intro](untrading-app-intro.md)
 * [⚠️ Risks](risks.md)
