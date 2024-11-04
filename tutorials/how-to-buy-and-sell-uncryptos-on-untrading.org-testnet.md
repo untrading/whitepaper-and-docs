@@ -3,9 +3,10 @@ description: >-
   Acquire test BTC and ETH and use it to swap into other test tokens; Wrap and
   unwrap unBTC and unETH from test WBTC and test WETH; Buy and sell unBTC and
   unETH offerings on the untrading marketplace.
+icon: person-chalkboard
 ---
 
-# 🔍 How to Buy and Sell unCryptos on untrading.org Testnet
+# How to Buy and Sell unCryptos on untrading.org Testnet
 
 untrading is a revolutionary platform that allows you to invest in cryptocurrencies with enhanced profitability, transparency and ownership history. By using the innovative Decentralized Strategy As A Platform (dSaaP) created by ERC-5173, you can participate in the future value increase of your tokens even after you sell them. In this tutorial, you will learn how to use the testnet version of untrading to get familiar with its features and functionalities.
 

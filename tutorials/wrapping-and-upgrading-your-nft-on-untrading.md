@@ -1,4 +1,8 @@
-# 🔍 Wrapping and upgrading your NFT on untrading
+---
+icon: person-chalkboard
+---
+
+# Wrapping and upgrading your NFT on untrading
 
 ## Wrap and upgrade your NFT on untrading.org
 

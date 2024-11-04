@@ -2,9 +2,10 @@
 description: >-
   You can list and sell unNFT you have received from an airdrop on untrading.org
   to receive Future Rewards by importing them from your MetaMask wallet.
+icon: person-chalkboard
 ---
 
-# 🔍 unNFT Import from an Airdrop
+# unNFT Import from an Airdrop
 
 {% embed url="https://youtu.be/AOVVoSAWnCI" %}
 

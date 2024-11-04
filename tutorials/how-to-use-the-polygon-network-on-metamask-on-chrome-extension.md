@@ -1,4 +1,8 @@
-# 🔍 How to Use the Polygon Network on Metamask on Chrome Extension
+---
+icon: person-chalkboard
+---
+
+# How to Use the Polygon Network on Metamask on Chrome Extension
 
 {% embed url="https://youtu.be/V6YUGO2ogfM?si=JoEuQLkUiRZWTw0A" %}
 

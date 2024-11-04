@@ -2,9 +2,10 @@
 description: >-
   To prevent cheating and fraud, each user interacting with untrading.org must
   be verified through Twitter.
+icon: person-chalkboard
 ---
 
-# 🔍 Registering and Being Verified on untrading.org
+# Registering and Being Verified on untrading.org
 
 {% embed url="https://youtu.be/asIBF2j7sp8" %}
 

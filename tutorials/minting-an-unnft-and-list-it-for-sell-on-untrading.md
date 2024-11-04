@@ -3,9 +3,10 @@ description: >-
   An unNFT can be created separately under the profile icon pull-down menu on
   any page or within an existing SET. This tutorial creates an unNFT from an
   empty SET.
+icon: person-chalkboard
 ---
 
-# 🔍 Minting an unNFT and List It for Sell on untrading
+# Minting an unNFT and List It for Sell on untrading
 
 {% embed url="https://youtu.be/snf13fpDdVE" %}
 

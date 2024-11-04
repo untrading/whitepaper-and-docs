@@ -2,9 +2,10 @@
 description: >-
   Using the Arbitrum Bridge is the official method provided by Arbitrum. It's a
   user-friendly interface that works with most ERC-20 tokens.
+icon: person-chalkboard
 ---
 
-# 🔍 How to Bridge an ERC-20 Token to Arbitrum
+# How to Bridge an ERC-20 Token to Arbitrum
 
 
 

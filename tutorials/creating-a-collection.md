@@ -1,4 +1,8 @@
-# 🔍 Creating a Collection
+---
+icon: person-chalkboard
+---
+
+# Creating a Collection
 
 {% embed url="https://youtu.be/p-w4AcMq14Y" %}
 Creating a Collection on untrading.org

@@ -1,8 +1,9 @@
 ---
 description: unNFTs can be grouped by Originators/artists using SETs.
+icon: person-chalkboard
 ---
 
-# 🔍 Creating a SET
+# Creating a SET
 
 {% embed url="https://youtu.be/BVWF2c33lpc" %}
 
