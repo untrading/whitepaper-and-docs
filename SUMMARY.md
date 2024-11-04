@@ -28,8 +28,8 @@
 * [🔍 Wrapping and upgrading your NFT on untrading](tutorials/wrapping-and-upgrading-your-nft-on-untrading.md)
 * [🔍 Checking nFR Received and Total Payouts](tutorials/checking-nfr-received-and-total-payouts.md)
 * [🔧 Testnet on Ethereum and Polygon Networks](https://testnet.untrading.org)
-* [How to Wrap and Sell Wrapped Bitcoin](tutorials/how-to-wrap-and-sell-wrapped-bitcoin.md)
 * [🔍 How to Buy and Sell unCryptos on untrading.org Testnet](tutorials/how-to-buy-and-sell-uncryptos-on-untrading.org-testnet.md)
+* [Wrapping Tokens on Untrading: From ERC-20 to ERC-5173](tutorials/wrapping-tokens-on-untrading-from-erc-20-to-erc-5173.md)
 
 ## FAQs
 
