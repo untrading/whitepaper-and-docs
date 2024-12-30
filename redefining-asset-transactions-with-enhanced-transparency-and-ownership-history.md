@@ -2,9 +2,10 @@
 description: >-
   The power of who: A Revolutionary Approach to Asset Transactions by
   untrading.org
+hidden: true
 ---
 
-# 👩💻 Redefining Asset Transactions with Enhanced Transparency and Ownership History
+# 👩‍💻 Redefining Asset Transactions with Enhanced Transparency and Ownership History
 
 {% embed url="https://youtu.be/8ROyJNb3_J4" %}
 The power of who in transaction records

@@ -1,17 +1,23 @@
 ---
-description: >-
-  We foster strong bonds and reward participation. Even after selling their
-  tokens, people can capture portions of the future price increases and maintain
-  a vested interest in the project.
-cover: >-
-  https://images.unsplash.com/photo-1559863345-02eae058c2c2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxoYXBweSUyMHdvbWFufGVufDB8fHx8MTY4Nzc5MDk1OXww&ixlib=rb-4.0.3&q=85
-coverY: 116
+icon: globe-pointer
+cover: .gitbook/assets/Screenshot 2024-12-30 9.53.37 AM.png
+coverY: 0
 ---
 
-# Welcome to untrading.org
+# Welcome to Untrading Technologies Pte Ltd
 
-{% embed url="https://youtu.be/C0psKsiO7XQ" %}
-[untrading.org](https://untrading.org) is a commission-free crypto investment protocol that enables token owners to participate in future price increases, even after selling their tokens.
+Thousands of traders enter financial markets daily with dreams of success, yet 90% fail within two years. This is not due to bad decisions but a system inherently biased against individuals, favoring the resourceful few while overwhelming the rest.
+
+{% embed url="https://youtu.be/hDjKo8WtKr0" %}
+Untrading intro podcast
 {% endembed %}
 
-untrading.org brings a revolutionary approach to trading, where token owners can continue to benefit from future price increases, even after selling their tokens. Unlike fee-based transaction models, untrading.org does not profit from users' losses, ensuring a fair and transparent trading environment. By prioritizing users' success and eliminating the zero-sum mentality, untrading.org creates a community-driven platform that promotes collective wealth and long-term prosperity.
+### The Problem with Trading
+
+Trading resembles a growing jigsaw puzzle where each piece alters others. With diverse participants—from pension fund managers to microsecond-trading algorithms—conflicting goals create a chaotic, unpredictable market. Asymmetry in information and emotional biases further disadvantage most traders, leaving them outmatched in a highly competitive environment.
+
+### Untrading: A New Approach
+
+Untrading shifts focus from prediction to participation, inspired by the Chinese principle "以不变应万变" (yǐ bù biàn yìng wàn biàn) or "using the unchanging to deal with the ever-changing."
+
+At its core lies the Future Reward system—a fair, mathematical framework distributing value through two components: Flows and Kingdoms.
