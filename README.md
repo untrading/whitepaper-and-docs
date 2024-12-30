@@ -14,7 +14,7 @@ Untrading intro podcast
 
 ### The Problem with Trading
 
-Trading resembles a growing jigsaw puzzle where each piece alters others. With diverse participants—from pension fund managers to microsecond-trading algorithms—conflicting goals create a chaotic, unpredictable market. Asymmetry in information and emotional biases further disadvantage most traders, leaving them outmatched in a highly competitive environment.
+Imagine a turbulent river filled with countless particles, each moving in response to the flow—yet every movement alters the flow itself. As more particles enter, the current grows more complex, with eddies and whirlpools forming unpredictably. Some particles are propelled forward, others are dragged backward, and a few are caught in cycles. This dynamic, self-altering system mirrors the overwhelming and chaotic nature of trading for the average person, where every action reshapes the environment.
 
 ### Untrading: A New Approach
 
