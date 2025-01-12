@@ -18,6 +18,6 @@ Imagine a turbulent river filled with countless particles, each moving in respon
 
 ### Untrading: A New Approach
 
-Untrading shifts focus from prediction to participation, inspired by the Chinese principle "以不变应万变" (yǐ bù biàn yìng wàn biàn) or "using the unchanging to deal with the ever-changing."
+Untrading shifts focus from prediction to participation, inspired by the Chinese principle "以不变应万变" or "using the unchanging to deal with the ever-changing."
 
 At its core lies the Future Reward system—a fair, mathematical framework distributing value through two components: Flows and Kingdoms.
