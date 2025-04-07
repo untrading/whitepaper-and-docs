@@ -1,5 +1,6 @@
 ---
 description: A buyer is more than someone paid for an unNFT on untrading.org
+hidden: true
 ---
 
 # 💡 Users' Guide
