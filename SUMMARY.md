@@ -19,6 +19,7 @@
 
 ## tutorials
 
+* [How to Buy and Sell on Racetrack Mainnet](tutorials/how-to-buy-and-sell-on-racetrack-mainnet.md)
 * [How to Bridge an ERC-20 Token to Arbitrum](tutorials/how-to-bridge-an-erc-20-token-to-arbitrum.md)
 * [How to Use the Polygon Network on Metamask on Chrome Extension](tutorials/how-to-use-the-polygon-network-on-metamask-on-chrome-extension.md)
 * [Registering and Being Verified on untrading.org](tutorials/registering-and-being-verified-on-untrading.org.md)
