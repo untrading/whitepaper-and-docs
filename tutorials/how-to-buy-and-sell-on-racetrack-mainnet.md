@@ -19,6 +19,8 @@ Racetrack is your go-to spot for trading unCryptos like unBTC and unETH, styled 
 
 ### How to Play:
 
+<figure><img src="../.gitbook/assets/Untrading Racetrack Onboarding.gif" alt=""><figcaption></figcaption></figure>
+
 1. Head to [untrading.org/uncryptos](https://untrading.org/uncryptos), connect your wallet.&#x20;
 2. Browse the marketplace (think OpenSea for unCryptos!). Check the Profit Expectancy (PE) – it shows your potential earnings based on future price rises and rewards.&#x20;
 3. Spot an unBTC or unETH you like? Click“Buy - Limit,”set your amount, confirm with MetaMask. [See testnet steps](https://docs.untrading.org/tutorials/how-to-buy-and-sell-uncryptos-on-untrading.org-testnet).&#x20;
