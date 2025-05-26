@@ -1,6 +1,6 @@
 ---
 description: >-
-  This tutorial highlighted Racetrack as an “OpenSea-style NFT marketplace” to
+  This tutorial highlights Racetrack as an “OpenSea-style NFT marketplace” to
   set clear expectations, avoiding confusion with CEX/Uniswap interfaces.
 icon: newspaper
 ---
