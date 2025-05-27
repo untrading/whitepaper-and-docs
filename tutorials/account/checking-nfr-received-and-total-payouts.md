@@ -11,7 +11,7 @@ icon: gift
 The following explanations provide step-by-step instructions:
 {% endhint %}
 
-### 1.[ Go to untrading.org App](https://app.untrading.org/)
+### 1.[ Go to untrading.org App](https://untrading.org/unnfts)
 
 ### 2. Click on your profile icon
 
