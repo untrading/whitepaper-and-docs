@@ -1,5 +1,5 @@
 ---
-icon: person-chalkboard
+icon: diagram-project
 ---
 
 # How to Use the Polygon Network on Metamask on Chrome Extension

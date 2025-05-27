@@ -1,5 +1,5 @@
 ---
-icon: person-chalkboard
+icon: folder-grid
 ---
 
 # Creating a Collection
@@ -92,4 +92,4 @@ Creating a Collection on untrading.org
 
 ***
 
-[_This Workflow was created with Tango._](https://app.tango.us/app/workflow/5c9e72c1-dbbc-41e3-a855-29cd41d45da6?utm\_source=magicCopy\&utm\_medium=magicCopy\&utm\_campaign=workflow%20export%20links)
+[_This Workflow was created with Tango._](https://app.tango.us/app/workflow/5c9e72c1-dbbc-41e3-a855-29cd41d45da6?utm_source=magicCopy\&utm_medium=magicCopy\&utm_campaign=workflow%20export%20links)

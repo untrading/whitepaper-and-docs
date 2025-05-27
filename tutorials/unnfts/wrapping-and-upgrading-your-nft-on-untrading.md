@@ -1,5 +1,5 @@
 ---
-icon: person-chalkboard
+icon: arrow-up-triangle-square
 ---
 
 # Wrapping and upgrading your NFT on untrading

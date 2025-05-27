@@ -3,7 +3,7 @@ description: >-
   Acquire test BTC and ETH and use it to swap into other test tokens; Wrap and
   unwrap unBTC and unETH from test WBTC and test WETH; Buy and sell unBTC and
   unETH offerings on the untrading marketplace.
-icon: person-chalkboard
+icon: money-bill
 ---
 
 # How to Buy and Sell unCryptos on untrading.org Testnet
