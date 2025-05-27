@@ -12,7 +12,7 @@ Racetrack is your go-to spot for trading unCryptos like unBTC and unETH, styled 
 ### Get Set Up:
 
 1. Grab a Web3 browser (Chrome, Firefox, Brave). [Learn how](https://www.youtube.com/watch?v=2QR11oDukn4).&#x20;
-2. Install MetaMask, add Arbitrum One mainnets. [Setup guide](https://www.youtube.com/watch?v=9o5g5lziq0c).&#x20;
+2. Install MetaMask, add Arbitrum One mainnets. [Setup guide](https://metamask.io/download).&#x20;
 3. Fund your wallet with USDC or USDT and [bridge them to Aribitrum One](how-to-bridge-an-erc-20-token-to-arbitrum.md) via an exchange (e.g., Coinbase, Binance, or Uniswap).&#x20;
 4. Connect your wallet on [untrading.org/uncryptos](http://untrading.org/uncryptos).
 5. [Get verified](https://docs.untrading.org/tutorials/registering-and-being-verified-on-untrading.org) by connecting your X account.
