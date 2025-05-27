@@ -23,6 +23,7 @@
   * [Registering and Being Verified on untrading.org](tutorials/account/registering-and-being-verified-on-untrading.org.md)
   * [Register an account on untrading.org using a web3 wallet](tutorials/account/register-an-account-on-untrading.org-using-a-web3-wallet.md)
   * [Connect Wallet to untrading.org](tutorials/account/connect-wallet-to-untrading.org.md)
+  * [Verify account via X and update profile on untrading.org](tutorials/account/verify-account-via-x-and-update-profile-on-untrading.org.md)
   * [Checking nFR Received and Total Payouts](tutorials/account/checking-nfr-received-and-total-payouts.md)
 * [unCryptos Racetrack](tutorials/uncryptos-racetrack/README.md)
   * [How to Buy and Sell on Racetrack Mainnet](tutorials/uncryptos-racetrack/how-to-buy-and-sell-on-racetrack-mainnet.md)
