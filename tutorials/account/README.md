@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/image.png
+cover: https://pbs.twimg.com/media/GqSCzsnXgAA_qCV?format=jpg&name=large
 coverY: 0
 layout:
   cover:
@@ -18,13 +18,4 @@ layout:
 ---
 
 # Account
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-* [Registering and Being Verified on untrading.org](registering-and-being-verified-on-untrading.org.md)
-* [Checking nFR Received and Total Payouts](checking-nfr-received-and-total-payouts.md)
 
