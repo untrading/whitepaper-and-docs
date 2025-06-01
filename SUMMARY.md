@@ -16,6 +16,9 @@
 ## official addresses
 
 * [🔗 Official Addresses](official-addresses/official-addresses.md)
+* [Testnet](official-addresses/testnet/README.md)
+  * [unCryptos Racetrack Testnet](https://testnet.untrading.org/uncryptos)
+  * [unNFTs Testnet](https://testnet.untrading.org/unnfts)
 
 ## tutorials
 
@@ -40,9 +43,6 @@
   * [How to Use the Polygon Network on Metamask on Chrome Extension](tutorials/web3/how-to-use-the-polygon-network-on-metamask-on-chrome-extension.md)
   * [How to Use Arbitrum MetaMask (Bridge, Swap, Trade, Withdraw)](tutorials/web3/how-to-use-arbitrum-metamask-bridge-swap-trade-withdraw.md)
   * [How to Bridge an ERC-20 Token to Arbitrum](tutorials/web3/how-to-bridge-an-erc-20-token-to-arbitrum.md)
-* [Testnet](tutorials/testnet/README.md)
-  * [unCryptos Racetrack Testnet](https://testnet.untrading.org/uncryptos)
-  * [unNFTs Testnet](https://testnet.untrading.org/unnfts)
 
 ## FAQs
 
