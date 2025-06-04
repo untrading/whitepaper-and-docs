@@ -1,8 +1,4 @@
----
-icon: badge-check
----
-
-# Verify account via X and update profile on untrading.org
+# ✅ Verify account via X and update profile on untrading.org
 
 
 

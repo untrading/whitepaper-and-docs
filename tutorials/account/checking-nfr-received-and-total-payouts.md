@@ -1,9 +1,8 @@
 ---
 description: Dashboard instruction
-icon: gift
 ---
 
-# Checking nFR Received and Total Payouts
+# 🎁 Checking nFR Received and Total Payouts
 
 {% embed url="https://youtu.be/l9fsbhbLAq0" %}
 

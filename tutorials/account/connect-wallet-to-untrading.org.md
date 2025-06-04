@@ -1,8 +1,4 @@
----
-icon: arrow-right-to-bracket
----
-
-# Connect Wallet to untrading.org
+# 📶 Connect Wallet to untrading.org
 
 
 

@@ -2,10 +2,9 @@
 description: >-
   To prevent cheating and fraud, each user interacting with untrading.org must
   be verified through X (Twitter).
-icon: user-plus
 ---
 
-# Register an account on untrading.org using a web3 wallet
+# 🆔 Register an account on untrading.org using a web3 wallet
 
 
 
