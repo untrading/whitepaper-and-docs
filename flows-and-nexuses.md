@@ -2,7 +2,7 @@
 icon: wrench
 ---
 
-# Flows and Kingdoms
+# Flows and Nexuses
 
 ## The Flow System
 
@@ -53,11 +53,12 @@ For instance:
 
 When you buy an un-token, you join an exclusive mini-community of past and current owners known as the Flow. By participating in a high-growth, long-lasting asset, you contribute the same percentage of your profit to the Flow as everyone else. However, as the asset's price increases in the future after you sell it, you receive Future Rewards distributions that can significantly exceed your initial contribution—akin to buying a variable annuity. Visit the[ Extra Earnings Calculator](https://untrading.org/) to see how Future Rewards work in practice.&#x20;
 
-## The Kingdom Layer
+## The Community Layer
 
-Kingdoms expand beyond individual tokens to platform-wide collaboration. They enable decentralized governance and collective wealth creation, linking multiple Flows into unified, cooperative ecosystems. This structure amplifies collective success and fosters sustainability.
+Community expand beyond individual tokens to platform-wide collaboration. They enable decentralized governance and collective wealth creation, linking multiple Flows into unified, cooperative ecosystems. This structure amplifies collective success and fosters sustainability.
 
-Why the Kingdoms? Kingdoms introduce an element of gamification to community building, providing a structured pathway for leadership to evolve. Participants can ascend through ranks—starting as street gang leaders, advancing to powerful sultans, becoming lords of Houses, and ultimately achieving the status of Kings. This progression fosters engagement, collaboration, and a sense of purpose, creating vibrant, self-sustaining communities within the Untrading ecosystem.&#x20;
+**Untrading Community Ranking System: Node to Nexus**\
+This 5-tier progression uses futuristic, network-inspired names to symbolize growth from isolated participants to a vast, resilient ecosystem. Each level builds on the last, emphasizing collaboration, shared upside (via ERC-5173's future rewards), and Network State-like sovereignty.
 
 ## A Fair Framework
 
