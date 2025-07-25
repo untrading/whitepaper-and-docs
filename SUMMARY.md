@@ -30,7 +30,7 @@
   * [✅ Verify account via X and update profile on untrading.org](tutorials/account/verify-account-via-x-and-update-profile-on-untrading.org.md)
   * [🎁 Checking nFR Received and Total Payouts](tutorials/account/checking-nfr-received-and-total-payouts.md)
   * [👑 How can I share referral code and build my Nexus?](tutorials/account/how-can-i-share-referral-code-and-build-my-nexus.md)
-  * [💰 How can I view my User Rewards and Kingdom Rewards details?](tutorials/account/how-can-i-view-my-user-rewards-and-kingdom-rewards-details.md)
+  * [💰 How can I view my User Rewards and Nexus Rewards details?](tutorials/account/how-can-i-view-my-user-rewards-and-nexus-rewards-details.md)
 * [unCryptos Racetrack](tutorials/uncryptos-racetrack/README.md)
   * [How to Buy and Sell on Racetrack Mainnet](tutorials/uncryptos-racetrack/how-to-buy-and-sell-on-racetrack-mainnet.md)
   * [How to Buy and Sell unCryptos on untrading.org Testnet](tutorials/uncryptos-racetrack/how-to-buy-and-sell-uncryptos-on-untrading.org-testnet.md)
