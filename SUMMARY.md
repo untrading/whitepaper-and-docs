@@ -37,6 +37,7 @@
   * [Wrapping Tokens on Untrading: From ERC-20 to ERC-5173](tutorials/uncryptos-racetrack/wrapping-tokens-on-untrading-from-erc-20-to-erc-5173.md)
 * [unNFTs](tutorials/unnfts/README.md)
   * [Creating a SET](tutorials/unnfts/creating-a-set.md)
+  * [Creating a SET](tutorials/unnfts/creating-a-set-1.md)
   * [Creating a Collection](tutorials/unnfts/creating-a-collection.md)
   * [Minting an unNFT and List It for Sell on untrading](tutorials/unnfts/minting-an-unnft-and-list-it-for-sell-on-untrading.md)
   * [Wrapping and upgrading your NFT on untrading](tutorials/unnfts/wrapping-and-upgrading-your-nft-on-untrading.md)

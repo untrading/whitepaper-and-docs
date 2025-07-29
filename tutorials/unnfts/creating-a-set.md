@@ -1,5 +1,6 @@
 ---
 description: unNFTs can be grouped by Originators/artists using SETs.
+hidden: true
 icon: folder-bookmark
 ---
 
