@@ -4,91 +4,89 @@ icon: folder-grid
 
 # Creating a Collection
 
-{% embed url="https://youtu.be/p-w4AcMq14Y" %}
-Creating a Collection on untrading.org
-{% endembed %}
+{% embed url="https://app.tango.us/app/workflow/Creating-a-Collection-8c3486276d26451f9da3ad6488f62c57" %}
 
-#### 1. Go to Profile - untrading.org App and click on Collections tab.
+## 1. Visit https://untrading.org/unnfts and click on the "navigation icon" in the upper left corner
 
-![Go to Profile - untrading.org App and click on Collections tab.](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/20266b12-d7f0-497e-b683-2515f9adc612/0ced288c-4d75-45ee-8317-83d055d31afc.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.5000\&fp-y=0.5000\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/6a3f9b99-f25e-4792-9849-261476c4da36/b6229a6c-0473-4988-b58d-3ce992012de4.png?mark-x=51&#x26;mark-y=30&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz00MiZoPTQyJmZpdD1jcm9wJmNvcm5lci1yYWRpdXM9MTA%3D" alt=""><figcaption></figcaption></figure>
 
-#### 2. Click on + to add a new Collection.
+## 2. Click on "Avatar & Username"
 
-![Click on + to add a new Collection.](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/2dbd9724-c189-4750-8d83-ad94ee857ff9/34cbebd1-96c4-43f3-aefa-2524fc8dc7aa.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.5000\&fp-y=0.5000\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/7fa67513-a070-4f85-8ab2-543af520be6c/b4a4a7a4-c2b3-444c-b204-b2b9b8b58693.png?mark-x=6&#x26;mark-y=1101&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz00MzUmaD05MCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
 
-#### 3. Type The Name of the Collection.
+## 3. Click on Profile
 
-![Type The Name of the Collection.](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/9ce6bf93-e666-43bf-bcd8-0009e0584fbd/bb584ae3-383b-49be-b8b2-d071cb49f7cb.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.3656\&fp-y=0.4480\&fp-z=2.8129\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/8b131b10-9408-424c-8f6f-e5763ea99cec/a76dde13-99e7-4edc-8550-a47c4c2befd0.png?mark-x=58&#x26;mark-y=190&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0zMTQmaD01MyZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
 
-#### 4. Type something to describe your personal Collection.
+## 4.  Click on "Collections tab"
 
-![Type something to describe your personal Collection.](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/dd8f7a93-f476-4c3b-9874-f6e070bb970e/f219643f-35ea-4d90-9ba2-ee21db184bc7.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.3656\&fp-y=0.6343\&fp-z=2.2472\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/7443ea49-f4e3-4c18-81f9-750068638b05/8303bf69-0f82-42fa-86b0-4e22b1196cfc.png?mark-x=1166&#x26;mark-y=518&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0yNDUmaD03MCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
 
-#### 5. Click on Category
+## 5. Click on + to add a new Collection
 
-![Click on Category](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/e4447cf9-3b3a-47b9-9873-3895a90090b2/5f9bc8ae-496a-414a-bef4-b10a73d4729c.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.4839\&fp-y=0.7610\&fp-z=2.0911\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/ca0307ff-4dfa-4957-a202-bb83caf9f293/6607586e-ea8e-4a67-b4f1-6ba1c2619d4e.png?mark-x=2026&#x26;mark-y=578&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz03MCZoPTcwJmZpdD1jcm9wJmNvcm5lci1yYWRpdXM9MTA%3D" alt=""><figcaption></figcaption></figure>
 
-#### 6. Choose a category
+## 6. Type The Name of the Collection
 
-![Choose a category](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/aabe10f7-9fc7-4689-99f9-7a7d111dd492/ffeb76ba-4ae2-4733-8544-dd18d3653124.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.3771\&fp-y=0.2636\&fp-z=3.0146\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/6101b2f4-679a-457f-90b9-3445e53b0677/929bbfdb-d591-43cd-8149-04fd936bef86.png?mark-x=325&#x26;mark-y=667&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz03MTcmaD05MCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
 
-#### 7. Click on Blockchain \*
+## 7. Type something to describe your personal Collection
 
-![Click on Blockchain \*](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/c967bc26-a386-4fa6-8797-4b5cd416d8ab/273f41c7-e341-42d1-b8fa-f56a6b156997.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.4781\&fp-y=0.6888\&fp-z=2.9503\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/f9d95a0c-610c-4002-89fc-384df8338e9d/f577efec-48c6-4f01-9b92-f41c8145aa60.png?mark-x=325&#x26;mark-y=885&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz03MTcmaD0yMzImZml0PWNyb3AmY29ybmVyLXJhZGl1cz0xMA%3D%3D" alt=""><figcaption></figcaption></figure>
 
-#### 8. Choose a blockchain.
+## 8. Click on Category
 
-![Choose a blockchain.](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/0b756f22-a3d2-4a7f-b9d3-431d861e6859/580a2751-414c-48f1-a390-bfd672a8ca1a.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.3771\&fp-y=0.7919\&fp-z=3.0968\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/8108a89d-6127-4cb6-bd62-9801f8dd5cf0/c5d6da4f-572d-4610-be4a-0ab56b46e691.png?mark-x=325&#x26;mark-y=734&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz03MTcmaD05MCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
 
-#### 9. Click on Create
+## 9. Choose a category
 
-![Click on Create](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/d103911a-fef7-4a32-a95e-e656ae8ffd47/c570e9e0-2c10-41f7-a975-2905e08fe8a1.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.3240\&fp-y=0.9039\&fp-z=3.4751\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/a1eb8ee8-7108-4c02-9161-25fb7426db59/a15f03b6-c8f1-42b5-b97e-34dcf32fc4a8.png?mark-x=325&#x26;mark-y=734&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz03MTcmaD05MCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
 
-#### 10. See it under the Collection tab
+## 10. Click on Blockchain \*
 
-![See it under the Collection tab](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/5b152ff3-20a8-46dc-bd3f-ede6e7aa3fe0/05a705b9-4820-4b64-946f-01e60e2b732a.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.5000\&fp-y=0.5000\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/ff97dfcc-8d76-42d2-aaec-911343828b3a/dedccd91-6e3a-4afa-a9f3-220149c07214.png?mark-x=325&#x26;mark-y=987&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz03MTcmaD05MCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
 
-#### 11. You will see the empty Collection you have just created. Click on the big Edit icon to select a file on the computer to be the Featured Image of the Collection.
+## 11. Choose a blockchain
 
-![You will see the empty Collection you have just created. Click on the big Edit icon to select a file on the computer to be the Featured Image of the Collection.](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/eca0dcac-d20c-45b2-82e1-79dab0b4f807/858b6b46-593f-4d1e-9660-601ba058f677.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.5000\&fp-y=0.5000\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/dca290d4-057d-48e6-a5fb-2c81de662ce6/2c5b305b-7056-4a71-b30d-df002e1010a1.png?mark-x=325&#x26;mark-y=744&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz03MTcmaD05MCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
 
-#### 12. Select an image (500x500 pixels recommended) from the upload menu and click Open to upload.
+## 12. Click on Create
 
-![Select an image (500x500 pixels recommended) from the upload menu and click Open to upload.](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/3ad825e2-107e-45d7-a8f1-cddca2a802df/5c2b65b2-beea-40cc-a7dc-52effb2d8151.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.5000\&fp-y=0.5000\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/6f998b34-a2c5-4593-8391-3327c012a415/4af85976-1268-4c49-a66f-39c32805fc4b.png?mark-x=274&#x26;mark-y=1147&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz00OTMmaD05NiZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
 
-#### 13. Click on the small Edit icon to upload a logo image.
+## 13. See it under the Collection tab
 
-![Click on the small Edit icon to upload a logo image.](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/acedb0ed-7784-432b-a304-5d96b1276221/d9c7413e-b3ab-4a7d-92a0-43eeb3807b55.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.4908\&fp-y=0.4936\&fp-z=1.0412\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/6b0246ea-4c69-4249-8193-f77596a978fd/c92d0ad7-a8f1-46bc-8063-1ebe25255328.png?mark-x=1208&#x26;mark-y=518&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0yNDYmaD03MCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
 
-#### 14. Click on Select an image file an image file (350x350 pixels recommended) on computer
+## 14. Click on Labubu wallpaper collection
 
-![Click on Select an image file an image file (350x350 pixels recommended) on computer](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/528851e3-99d1-4c9e-91cc-ccf3290b044c/fcd8edbd-5d40-4716-9a83-ee9d720a035d.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.4999\&fp-y=0.5346\&fp-z=1.1719\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/301ffaee-07ab-4e91-8715-cff8278e7b9e/aa068c19-7a40-4510-b1cc-bf3ad93e38ea.png?mark-x=598&#x26;mark-y=597&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz00ODYmaD00ODYmZml0PWNyb3AmY29ybmVyLXJhZGl1cz0xMA%3D%3D" alt=""><figcaption></figcaption></figure>
 
-#### 15. Click Open to upload.
+## 15. Click on Upload featured image
 
-![Click Open to upload.](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/59b71925-fd6e-4bf3-b4b0-ba136408cdc5/5eed2481-0775-48d7-a624-afac06f1c0ce.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.5000\&fp-y=0.5000\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/f52e581b-f707-4b2a-9da0-3ee0e100d681/d2483035-849c-42f2-8136-b7a0029e0f3c.png?mark-x=685&#x26;mark-y=280&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz03NTImaD03NzkmZml0PWNyb3AmY29ybmVyLXJhZGl1cz0xMA%3D%3D" alt=""><figcaption></figcaption></figure>
 
-#### 16. A new Collection is created.
+## 16. A new Collection is created
 
-![A new Collection is created.](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/a63cc290-3242-4c8f-9715-3732bdf133bc/d0d80e07-166f-44c9-a32f-f12559a78153.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.3997\&fp-y=0.4950\&fp-z=1.5822\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/3d9f9391-881b-4e81-8123-69a2b4d767ef/a3981140-b1e3-4785-b296-00408d50e508.png?mark-x=598&#x26;mark-y=597&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz00ODYmaD00ODYmZml0PWNyb3AmY29ybmVyLXJhZGl1cz0xMA%3D%3D" alt=""><figcaption></figcaption></figure>
 
-#### 17. Click on the Collected tab.
+## 17. Click on the Collected tab
 
-![Click on the Collected tab.](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/8a5f750e-6dc7-42f6-a37a-b5170ddd54e7/13c2ce9c-bebc-4a2f-8283-d20e3e6418e2.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.5000\&fp-y=0.5000\&fp-z=2.0000\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/bde9e306-8c95-4f72-a28a-f614d505c02a/af7249f6-464e-4e6e-8baf-7a501abe3c1e.png?mark-x=598&#x26;mark-y=518&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0yMTkmaD03MCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
 
-#### 18. Click on the "hide" arrow as highlighted.
+## 18. Click on the "hide" arrow as highlighted
 
-![Click on the "hide" arrow as highlighted.](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/1d5a3424-ed0c-4089-9990-73bb09b9aac4/4e75099d-9e12-4fc2-b913-09cec39413c4.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.4981\&fp-y=0.5125\&fp-z=1.0412\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/1f7f06d6-1faf-4b8b-8aeb-aec5a490f271/54e68fa0-4343-4931-806c-7dc785fba585.png?mark-x=995&#x26;mark-y=947&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz02NCZoPTY0JmZpdD1jcm9wJmNvcm5lci1yYWRpdXM9MTA%3D" alt=""><figcaption></figcaption></figure>
 
-#### 19. Click on the three dots at the bottom.
+## 19. Click on the three dots at the bottom
 
-![Click on the three dots at the bottom.](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/aaa28a60-6629-4070-9953-6c67965dcd64/0b3a36d1-7ec4-44eb-b4eb-bf07efd30c61.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.4669\&fp-y=0.7200\&fp-z=3.3973\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/62118113-98df-454d-9662-6a4fe1efdfd6/71b1173b-8060-4207-9b7d-604211fcda9d.png?mark-x=1000&#x26;mark-y=1059&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz00NiZoPTQ2JmZpdD1jcm9wJmNvcm5lci1yYWRpdXM9MTA%3D" alt=""><figcaption></figcaption></figure>
 
-#### 20. Add the unNFT to the newly created Collection by clicking on the name.
+## 20.  Add the unNFT to the newly created Collection by clicking on the name
 
-![Add the unNFT to the newly created Collection by clicking on the name.](https://images.tango.us/workflows/5c9e72c1-dbbc-41e3-a855-29cd41d45da6/steps/8aa530f8-bb49-46ab-94be-ebfcc7fcd62d/ced65276-6067-47c5-8155-78aaa38be24b.png?fm=png\&crop=focalpoint\&fit=crop\&fp-x=0.5898\&fp-y=0.6972\&fp-z=3.1630\&w=1200\&blend-align=bottom\&blend-mode=normal\&blend-x=800\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+<figure><img src="https://images.tango.us/workflows/8c348627-6d26-451f-9da3-ad6488f62c57/steps/ded8dd93-1ad1-4a1a-b19e-547046b6316d/6d0a7703-2655-4345-a5a0-b525eb2e7620.png?mark-x=1040&#x26;mark-y=1002&#x26;m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz01NzMmaD05MCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw" alt=""><figcaption></figcaption></figure>
 
-#### 21. A "SUCCESS" confirmation will appear on the top-right corner.
+## 21. A "SUCCESS" confirmation will appear on the top-right corner.
 
 ***
 
