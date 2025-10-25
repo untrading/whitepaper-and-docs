@@ -1,4 +1,8 @@
-# ⚙ Technical
+---
+hidden: true
+---
+
+# ⚙️ Technical
 
 <details>
 

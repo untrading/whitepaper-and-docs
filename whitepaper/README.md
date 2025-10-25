@@ -1,5 +1,6 @@
 ---
 description: UNTRADING TECHNOLOGIES PTE LTD
+hidden: true
 ---
 
 # 📃 Whitepaper

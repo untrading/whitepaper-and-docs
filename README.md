@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: globe-pointer
 cover: .gitbook/assets/Screenshot 2024-12-30 9.51.36 AM.png
 coverY: 0

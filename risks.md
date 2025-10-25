@@ -1,4 +1,8 @@
-# ⚠ Risks
+---
+hidden: true
+---
+
+# ⚠️ Risks
 
 untrading DAO, together with our subsidiary entities (collectively, “untrading” or “we”, “us” or “our”), was established to build and steward the untrading protocol, a combination of software applications, hardware devices, blockchain-network based “smart contracts”, digital assets, and various rules and procedures (together, the “Protocol”). Our objective is to use the Protocol to revolutionize crypto trading by implementing a Participatory Value Amplification (PVA) framework, fostering shared wealth creation and empowering users to benefit from future price increases, creating a community-driven platform for equitable and transparent trading. (the “Project”). The Protocol has been designed primarily as an open-source public utility, open to any and all who choose to use it. The Protocol is centered around a unique extension to the Ethereum network, known as ERC-5173: NFT Future Rewards (“nFR”), and a new crypto asset, known as the untrading token (“UN”). Owners of UN tokens will be able to participate in guiding the governance of the Protocol and will contribute to the Project alongside a global community of developers, economists, technologists, and other interested individuals. The UN token may also function as a means of making payments.
 

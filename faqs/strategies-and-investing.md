@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 📈 Strategies and Investing
 
 <details>

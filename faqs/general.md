@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🌎 General
 
 <details>
@@ -29,9 +33,7 @@ untrading is an open-source Web3 project. Anyone can exam its source code on Git
 
 * **Non-custodial**: untrading is non-custodial, meaning it doesn't hold users' private keys or crypto assets directly. This can be considered a security advantage because users maintain control over their funds and aren't reliant on the platform's security measures.
 
-<!---->
-
-* **Smart contracts**: Many core functions of untrading are powered by smart contracts, which are tamper-proof and transparent blocks of code on the blockchain. This can increase trust and security, as the platform's actions are governed by publicly verifiable code.
+- **Smart contracts**: Many core functions of untrading are powered by smart contracts, which are tamper-proof and transparent blocks of code on the blockchain. This can increase trust and security, as the platform's actions are governed by publicly verifiable code.
 
 </details>
 
