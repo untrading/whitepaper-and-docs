@@ -1,6 +1,5 @@
 ---
 description: 'Untrading: The Fair Orchard of the Future. Grow together. Earn more together.'
-hidden: true
 icon: globe-pointer
 cover: .gitbook/assets/Simple Value-time Continuum Architecture no bg.png
 coverY: 0
