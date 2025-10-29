@@ -1,7 +1,6 @@
 ---
 description: 'Untrading: The Fair Orchard of the Future. Grow together. Earn more together.'
-icon: globe-pointer
-cover: .gitbook/assets/Simple Value-time Continuum Architecture no bg.png
+cover: ../.gitbook/assets/Simple Value-time Continuum Architecture no bg.png
 coverY: 0
 layout:
   width: default
@@ -22,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Untrading: Equitable Growth
+# 🌱 Untrading: Equitable Growth
 
 Untrading enables your money to work together with everyone else’s to grow bigger—without the zero-sum burn.
 
