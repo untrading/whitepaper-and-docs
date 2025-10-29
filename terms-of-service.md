@@ -2,7 +2,7 @@
 description: 'Last Updated: October 16, 2022'
 ---
 
-# 🔠 Terms of Service
+# Terms of Service
 
 ## Welcome&#x20;
 
@@ -108,12 +108,12 @@ untrading.org implements six on-chain, NFT-specific “CAN’T BE EVIL” LICENS
 
 Each unNFT Originator chooses one of the six CantBeEvil licenses during the minting process. They are:&#x20;
 
-1. [CC0 (“CBE-CC0”)](https://arweave.net/\_D9kN1WrNWbCq55BSAGRbTB4bS3v8QAPTYmBThSbX3A/0) – All copyrights are waived under the terms of CC0 1.0 Universal developed by Creative Commons.&#x20;
-2. [Exclusive Commercial Rights with No Creator Retention (“CBE-ECR”)](https://arweave.net/\_D9kN1WrNWbCq55BSAGRbTB4bS3v8QAPTYmBThSbX3A/1) – Full exclusive commercial rights granted, with no hate speech termination. Creator does not retain any exploitation rights.&#x20;
-3. [Non-Exclusive Commercial Rights (“CBE-NECR”)](https://arweave.net/\_D9kN1WrNWbCq55BSAGRbTB4bS3v8QAPTYmBThSbX3A/2) – Full non-exclusive commercial rights granted, with no hate speech termination. Creator retains exploitation rights.&#x20;
-4. [Non-Exclusive Commercial Rights with Creator Retention & Hate Speech Termination (“CBE-NECR-HS”)](https://arweave.net/\_D9kN1WrNWbCq55BSAGRbTB4bS3v8QAPTYmBThSbX3A/3) – Full non-exclusive commercial rights granted, with hate speech termination. Creator retains exploitation rights.&#x20;
-5. [Personal License (“CBE-PR”) ](https://arweave.net/\_D9kN1WrNWbCq55BSAGRbTB4bS3v8QAPTYmBThSbX3A/4)– Personal rights granted, without hate speech termination.&#x20;
-6. [Personal License with Hate Speech Termination (“CBE-PR-HS”)](https://arweave.net/\_D9kN1WrNWbCq55BSAGRbTB4bS3v8QAPTYmBThSbX3A/5) – Personal rights granted, with hate speech termination.&#x20;
+1. [CC0 (“CBE-CC0”)](https://arweave.net/_D9kN1WrNWbCq55BSAGRbTB4bS3v8QAPTYmBThSbX3A/0) – All copyrights are waived under the terms of CC0 1.0 Universal developed by Creative Commons.&#x20;
+2. [Exclusive Commercial Rights with No Creator Retention (“CBE-ECR”)](https://arweave.net/_D9kN1WrNWbCq55BSAGRbTB4bS3v8QAPTYmBThSbX3A/1) – Full exclusive commercial rights granted, with no hate speech termination. Creator does not retain any exploitation rights.&#x20;
+3. [Non-Exclusive Commercial Rights (“CBE-NECR”)](https://arweave.net/_D9kN1WrNWbCq55BSAGRbTB4bS3v8QAPTYmBThSbX3A/2) – Full non-exclusive commercial rights granted, with no hate speech termination. Creator retains exploitation rights.&#x20;
+4. [Non-Exclusive Commercial Rights with Creator Retention & Hate Speech Termination (“CBE-NECR-HS”)](https://arweave.net/_D9kN1WrNWbCq55BSAGRbTB4bS3v8QAPTYmBThSbX3A/3) – Full non-exclusive commercial rights granted, with hate speech termination. Creator retains exploitation rights.&#x20;
+5. [Personal License (“CBE-PR”) ](https://arweave.net/_D9kN1WrNWbCq55BSAGRbTB4bS3v8QAPTYmBThSbX3A/4)– Personal rights granted, without hate speech termination.&#x20;
+6. [Personal License with Hate Speech Termination (“CBE-PR-HS”)](https://arweave.net/_D9kN1WrNWbCq55BSAGRbTB4bS3v8QAPTYmBThSbX3A/5) – Personal rights granted, with hate speech termination.&#x20;
 
 ### b) Creator Rights and Obligations
 

@@ -1,9 +1,9 @@
 # Table of contents
 
-## INTRODUCTION
+## 🌲 INTRODUCTION
 
-* [🌲 Introduction](README.md)
-* [🌱 Untrading: Equitable Growth](introduction/untrading-equitable-growth.md)
+* [Introduction](README.md)
+* [Untrading: Equitable Growth](introduction/untrading-equitable-growth.md)
 
 ***
 
@@ -15,15 +15,15 @@
   * [nFR Distribution](whitepaper/nfr-distribution.md)
 * [🔣 Untrading App Intro](untrading-app-intro.md)
 * [⚠️ Risks](risks.md)
-* [📣 Community Guidelines](community-guidelines.md)
-* [🔠 Terms of Service](terms-of-service.md)
-* [🔏 Privacy Policy](privacy-policy.md)
+* [Community Guidelines](community-guidelines.md)
+* [Terms of Service](terms-of-service.md)
+* [Privacy Policy](privacy-policy.md)
 * [🎨 Creators' Introduction](readme.md)
 * [💡 Users' Guide](users-guide.md)
 
-## official addresses
+## 🔗 official addresses
 
-* [🔗 Official Addresses](official-addresses/official-addresses.md)
+* [Official Addresses](official-addresses/official-addresses.md)
 * [Testnet](official-addresses/testnet/README.md)
   * [unCryptos Racetrack Testnet](https://testnet.untrading.org/uncryptos)
   * [unNFTs Testnet](https://testnet.untrading.org/unnfts)

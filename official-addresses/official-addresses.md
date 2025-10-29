@@ -5,7 +5,7 @@ description: >-
   interacting with any contracts or services.
 ---
 
-# 🔗 Official Addresses
+# Official Addresses
 
 ## Official Website
 

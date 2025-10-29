@@ -2,7 +2,7 @@
 description: 'Last Updated: July 18, 2023'
 ---
 
-# 🔏 Privacy Policy
+# Privacy Policy
 
 Our App was built with your privacy in mind. This Privacy Policy (“Policy”) describes how we at untrading.org (“untrading,” “we,” “us,” or “our”) collect, use, share, and secure your Personal Information when you visit the untrading.org App (https://untrading.org) (the “**App**”) or create, buy, transfer, trade, transfer, manage, and browse digital artwork and other tokenized assets in our Protocol (the “**Protocol**”) (collectively, including the App, the “Service”).
 

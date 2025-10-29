@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 🌱 Untrading: Equitable Growth
+# Untrading: Equitable Growth
 
 Untrading enables your money to work together with everyone else’s to grow bigger—without the zero-sum burn.
 

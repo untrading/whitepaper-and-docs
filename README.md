@@ -1,4 +1,4 @@
-# 🌲 Introduction
+# Introduction
 
 Welcome to Untrading, the architecture for positive-sum decentralized finance.
 
