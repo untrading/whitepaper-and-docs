@@ -1,75 +1,18 @@
----
-description: 'Untrading: The Fair Orchard of the Future. Grow together. Earn more together.'
-icon: globe-pointer
-cover: .gitbook/assets/Simple Value-time Continuum Architecture no bg.png
-coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
+# 🌲 Introduction
 
-# Untrading: Equitable Growth
+Welcome to Untrading, the architecture for positive-sum decentralized finance.
 
-Untrading enables your money to work together with everyone else’s to grow bigger—without the zero-sum burn.
+Since our publication of [ERC-5173](https://eips.ethereum.org/EIPS/eip-5173), we’ve been focused on solving the fundamental flaw in DeFi: the zero-sum, fee-based game that creates a systemic conflict of interest between platforms and their users.
 
-***
+We have built a new, generative economic primitive. By integrating **time as a foundational dimension of value**—our "Transactional Value-time" model—we've created the **ARC Protocol**. This system replaces the speculative guesswork of APY with the mathematical certainty of **Price Expectancy (PE)** and enables novel value flows, such as Future Rewards (FRs).
 
-### 1. What Is Untrading?
+Our protocol offers a suite of solutions designed to enhance the capital efficiency, treasury yield, and systemic resilience of our partners:
 
-Most financial modalities are unfair: when one person wins, someone else loses.
+* **Alpha Generation for LSTs/LRTs (The Growth Hub):** We provide a "Productive Holding" vault for premier assets (WBTC, stETH, eETH, etc.). Your protocol's assets or your users' assets can be deposited to gain immediate stablecoin liquidity while retaining **Future Reward (FR)** claims on all future appreciation. This allows your users to earn an additional, non-correlated alpha stream on top of their existing staking or restaking yields, with zero liquidation risk.
+* **Treasury Management for Stablecoins (The Income Hub):** We offer a superior, sustainable real-yield solution for DAO and protocol treasuries. Our **zero-fee** Income Hubs are funded by the real, captured appreciation from the Growth Hubs. This provides a high-performing (12-25% backtested) and predictable yield source for your treasury's stablecoin reserves.
+* **Systemic Resilience (The Temporal Hedge):** We are the first "all-weather" protocol. Our **Prosperity Reserve** automatically captures a portion of system-wide profits during bull markets and distributes it to loyal, long-term participants during market downturns. This provides a unique stability mechanism that protects your assets and our shared ecosystem.
+* **Partnership & Alignment (The $UN Token):** Our governance model is built for deep alignment. We offer strategic partnerships via our `$UN` token's **Loyalty Multiplier** system, allowing your protocol to boost rewards and share in the long-term success of the Untrading ecosystem.
 
-Untrading changes the game—it’s built so everyone wins together.
+Whether you are a **DAO** seeking a high-yield, resilient solution for your treasury, an **LST/LRT protocol** looking to provide your users with a powerful new source of non-correlated alpha, or an institution seeking a compliant, next-generation financial primitive, the ARC Protocol is your foundational partner.
 
-We use something called the ARC Protocol (short for Appreciation & Return Conduit). Think of it as the central engine that enables your savings to grow and share fairly.
-
-***
-
-### 2. How It Works
-
-There are two key roles within ARC:
-
-* Growth Players:
-* They “sow” digital trees 🌳 that contain assets (like Bitcoin) that grow over time.
-* Sell the matured tree after the first “harvest” (predetermined sale price) and keep the profits!
-* Get a magic slip 📜 that sends extra profit from that very tree as it grows – even after selling it!
-* Use the sale money to buy another tree, growing an endless orchard of rewards. It's like owning one tree but getting free fruit from a whole farm you helped start! 🌳🌳🌳
-* Income Players:
-* They fuel the trees with water 💧 (stablecoins) to help the trees grow.&#x20;
-* When trees bloom, the Income players get rewarded for their work. 🌟
-
-Together, they harmoniously strengthen the ARC as time passes, allowing for sustained growth over future cycles and seasons.
-
-***
-
-### 3. The Secret Is Time
-
-Untrading is special because it uses time itself to share rewards:
-
-* Magic Slip (Backwards Sharing):\
-  When someone sells, they still earn when the tree’s next owner makes more money later. Past helpers get rewarded!
-* Rainy Day Reserve (Forwards Sharing):\
-  When the market slows, we tap into our reserve, or what we call the Prosperity Reserve to share extra fruits with long-time users. It keeps everyone happy even in slow times.
-
-***
-
-### 4. Why It’s Different
-
-* 🌈 Win-Win: Everyone helps each other grow.
-* ⚙️ No Fees: Nothing is taken from your fruits.
-* 🔍 Clear Goals: You know exactly when and how you’ll earn.
-
-⏱ Time Power: Rewards travel through time—backward and forward!
+We provide the tools, the technology, and a new economic model grounded in verifiable math and radical transparency. Let’s build the positive-sum future—together.

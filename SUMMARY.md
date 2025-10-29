@@ -1,6 +1,12 @@
 # Table of contents
 
-* [Untrading: Equitable Growth](README.md)
+## Group 1
+
+* [🌲 Introduction](README.md)
+
+***
+
+* [Untrading: Equitable Growth](<README (1).md>)
 * [Copy of Welcome to Untrading Technologies Pte Ltd](copy-of-welcome-to-untrading-technologies-pte-ltd.md)
 * [Flows and Nexuses](flows-and-nexuses.md)
 * [👩‍💻 Redefining Asset Transactions with Enhanced Transparency and Ownership History](redefining-asset-transactions-with-enhanced-transparency-and-ownership-history.md)
